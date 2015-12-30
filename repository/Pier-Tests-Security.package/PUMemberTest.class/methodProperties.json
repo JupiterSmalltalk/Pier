@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "lr 9/27/2006 11:47",
+		"testEqualitiy" : "lr 2/12/2007 19:07",
+		"testGroupUsers" : "lr 6/22/2008 18:31",
+		"testName" : "lr 9/27/2006 11:49",
+		"testUserAddGroups" : "lr 6/22/2008 18:31",
+		"testUserGroups" : "lr 6/22/2008 18:31",
+		"testUserPassword" : "lr 9/11/2008 16:19",
+		"testUserRemoveGroups" : "lr 6/22/2008 18:31",
+		"testUserSuperuser" : "lr 9/27/2006 11:53" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Model-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 6/1/2006 21:12",
+	"instvars" : [
+		"kernel",
+		"structure",
+		"command" ],
+	"name" : "PRContext",
+	"pools" : [
+		 ],
+	"super" : "PRObject",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Model-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRLineDiffAlgorithm",
+	"pools" : [
+		 ],
+	"super" : "PRDiffAlgorithm",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Tests-Model-Mocks",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"priority" ],
+	"name" : "PRMockDecoration",
+	"pools" : [
+		 ],
+	"super" : "PRDecoration",
+	"type" : "normal" }

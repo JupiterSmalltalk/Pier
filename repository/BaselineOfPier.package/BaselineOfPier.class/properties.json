@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfPier",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPier",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

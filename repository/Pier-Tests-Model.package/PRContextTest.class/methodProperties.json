@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"context" : "lr 3/9/2006 11:31",
+		"instance" : "lr 3/9/2006 11:31",
+		"testCommands" : "lr 5/10/2008 13:23",
+		"testCopy" : "lr 8/14/2007 23:51",
+		"testEnumerator" : "lr 4/13/2007 14:57",
+		"testGotoCommand" : "lr 4/13/2007 14:59",
+		"testGotoStructure" : "lr 4/13/2007 14:59",
+		"testGotoStructureCommand" : "lr 4/13/2007 15:00",
+		"testInitialState" : "lr 4/13/2007 14:52",
+		"testParent" : "lr 5/10/2008 13:12",
+		"testRoot" : "lr 5/10/2008 13:12",
+		"testSiblings" : "lr 5/10/2008 13:15" } }

@@ -1,0 +1,3 @@
+testing
+hasSearchForm
+	^ hideForm not

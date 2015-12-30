@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"isAbstract" : "" },
+	"instance" : {
+		"descriptionDuration" : "",
+		"descriptionMessage" : "",
+		"duration" : "",
+		"duration:" : "",
+		"execute:" : "",
+		"isScheduled" : "",
+		"log:" : "",
+		"log:on:" : "",
+		"message" : "",
+		"message:" : "",
+		"process" : "",
+		"sanitize" : "",
+		"setKernel:" : "",
+		"snapshot" : "",
+		"start" : "",
+		"stop" : "" } }

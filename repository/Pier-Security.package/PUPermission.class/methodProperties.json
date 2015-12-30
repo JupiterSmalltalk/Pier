@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"isAbstract" : "lr 9/11/2006 10:10",
+		"on:" : "lr 9/11/2006 10:15" },
+	"instance" : {
+		"=" : "NickAger 7/21/2011 19:08",
+		"command" : "lr 9/11/2006 10:09",
+		"descriptionLabel" : "NickAger 1/18/2012 18:26",
+		"hash" : "lr 9/11/2006 10:24",
+		"label" : "lr 9/11/2006 10:13",
+		"printOn:" : "lr 9/11/2006 10:10",
+		"setCommand:" : "lr 9/11/2006 09:56",
+		"validCommand:" : "lr 9/11/2006 10:59" } }

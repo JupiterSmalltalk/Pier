@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Tests-Security",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PULogoutTest",
+	"pools" : [
+		 ],
+	"super" : "PRCommandTest",
+	"type" : "normal" }

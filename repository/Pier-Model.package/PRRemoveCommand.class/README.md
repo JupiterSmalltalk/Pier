@@ -1,0 +1,1 @@
+Command to remove a structure.

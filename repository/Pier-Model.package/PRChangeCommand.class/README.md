@@ -1,0 +1,1 @@
+Abstract command to edit structures.

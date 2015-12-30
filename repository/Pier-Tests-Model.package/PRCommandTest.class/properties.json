@@ -1,0 +1,17 @@
+{
+	"category" : "Pier-Tests-Model-Command",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"kernel",
+		"structure",
+		"context",
+		"command" ],
+	"name" : "PRCommandTest",
+	"pools" : [
+		 ],
+	"super" : "PRObjectTest",
+	"type" : "normal" }

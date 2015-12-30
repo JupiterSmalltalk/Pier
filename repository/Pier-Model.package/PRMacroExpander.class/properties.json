@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-Model-Utilities",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"character",
+		"table" ],
+	"name" : "PRMacroExpander",
+	"pools" : [
+		 ],
+	"super" : "PRBasicObject",
+	"type" : "normal" }

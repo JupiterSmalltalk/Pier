@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"properties" : "NickAger 1/20/2012 12:25",
+		"propertyAt:" : "NickAger 1/20/2012 12:25",
+		"propertyAt:ifAbsent:" : "NickAger 1/20/2012 12:25",
+		"propertyAt:ifAbsentPut:" : "NickAger 1/20/2012 12:25",
+		"propertyAt:put:" : "NickAger 1/20/2012 12:25",
+		"read:" : "NickAger 2/7/2012 15:53",
+		"readUsing:" : "NickAger 1/20/2012 14:06",
+		"write:using:" : "DiegoLont 4/11/2014 14:50" } }

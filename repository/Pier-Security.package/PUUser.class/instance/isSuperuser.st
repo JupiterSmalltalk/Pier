@@ -1,0 +1,3 @@
+testing
+isSuperuser
+	^ self superuser

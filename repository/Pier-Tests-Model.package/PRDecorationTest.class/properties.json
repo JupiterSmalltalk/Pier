@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-Tests-Model-Structure",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"decorated",
+		"decoration" ],
+	"name" : "PRDecorationTest",
+	"pools" : [
+		 ],
+	"super" : "PRObjectTest",
+	"type" : "normal" }

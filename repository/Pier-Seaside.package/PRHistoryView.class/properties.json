@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Seaside-View",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"report" ],
+	"name" : "PRHistoryView",
+	"pools" : [
+		 ],
+	"super" : "PRViewComponent",
+	"type" : "normal" }

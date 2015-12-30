@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Model-Visitor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 4/10/2007 21:12",
+	"instvars" : [
+		"acceptToken",
+		"rejectToken",
+		"caseSensitive" ],
+	"name" : "PRFullTextSearch",
+	"pools" : [
+		 ],
+	"super" : "PREnumerableVisitor",
+	"type" : "normal" }

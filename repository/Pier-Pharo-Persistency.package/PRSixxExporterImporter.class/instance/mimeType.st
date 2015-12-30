@@ -1,0 +1,3 @@
+accessing
+mimeType
+	^ 'text/xml'

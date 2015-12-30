@@ -1,0 +1,18 @@
+{
+	"category" : "Pier-Tests-Security",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"group1",
+		"group2",
+		"user1",
+		"user2",
+		"user3" ],
+	"name" : "PUMemberTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

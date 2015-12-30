@@ -1,0 +1,3 @@
+configuration
+defaultMutex
+	^ GRPlatform current semaphoreClass forMutualExclusion

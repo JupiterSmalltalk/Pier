@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-Security-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"permissions",
+		"structure" ],
+	"name" : "PUBrowseComponent",
+	"pools" : [
+		 ],
+	"super" : "PRViewComponent",
+	"type" : "normal" }

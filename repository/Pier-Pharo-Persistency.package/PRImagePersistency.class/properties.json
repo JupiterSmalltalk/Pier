@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-Pharo-Persistency",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"namePrefix",
+		"maxImages" ],
+	"name" : "PRImagePersistency",
+	"pools" : [
+		 ],
+	"super" : "PRDelayedPersistency",
+	"type" : "normal" }

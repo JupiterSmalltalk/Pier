@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Tests-Security",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"child" ],
+	"name" : "PUChangeSecurityTest",
+	"pools" : [
+		 ],
+	"super" : "PRCommandTest",
+	"type" : "normal" }

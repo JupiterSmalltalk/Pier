@@ -1,0 +1,17 @@
+{
+	"category" : "Pier-Tests-Model-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"root",
+		"folder",
+		"child1",
+		"child2" ],
+	"name" : "PRVisitorTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

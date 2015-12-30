@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-Model-Persistence",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 2/5/2009 16:21",
+	"instvars" : [
+		"kernel",
+		"mutex" ],
+	"name" : "PRPersistency",
+	"pools" : [
+		 ],
+	"super" : "PRObject",
+	"type" : "normal" }

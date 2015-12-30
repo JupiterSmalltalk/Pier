@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Pharo-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRSystemWidget",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Model-Visitor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"with",
+		"all",
+		"sortBlock" ],
+	"name" : "PRChildrenVisitor",
+	"pools" : [
+		 ],
+	"super" : "PREnumerableVisitor",
+	"type" : "normal" }

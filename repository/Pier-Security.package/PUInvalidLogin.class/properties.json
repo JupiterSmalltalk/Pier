@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Security-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PUInvalidLogin",
+	"pools" : [
+		 ],
+	"super" : "MAValidationError",
+	"type" : "normal" }

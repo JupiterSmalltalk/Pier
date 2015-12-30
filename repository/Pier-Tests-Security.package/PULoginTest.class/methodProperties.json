@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:31" },
+	"instance" : {
+		"actualClass" : "lr 3/9/2006 11:30",
+		"testIsLogged" : "lr 3/9/2006 11:30",
+		"testLoginAdmin" : "lr 10/25/2010 09:06",
+		"testLoginBlogger" : "lr 10/25/2010 09:13",
+		"testLoginInvalidPassword" : "lr 1/12/2007 15:37",
+		"testLoginInvalidUsername" : "lr 1/12/2007 15:37" } }

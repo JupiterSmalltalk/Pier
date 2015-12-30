@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"isAbstract" : "",
+		"label" : "",
+		"sixxReadStreamClass" : "",
+		"sixxWriteStreamClass" : "" },
+	"instance" : {
+		"emptyWriteStream" : "",
+		"extension" : "",
+		"mimeType" : "",
+		"readStreamOn:" : "" } }

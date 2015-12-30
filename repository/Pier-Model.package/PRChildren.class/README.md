@@ -1,0 +1,1 @@
+I hold the children of the decorated object.

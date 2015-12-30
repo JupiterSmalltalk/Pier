@@ -1,0 +1,3 @@
+configuration
+defaultName
+	^ 'Pier'

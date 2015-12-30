@@ -1,0 +1,1 @@
+Command to edit settings of a structure. This command collects all the descriptions tagged as ==#beSetting==.

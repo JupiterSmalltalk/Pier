@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Tests-Model-Command",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRCopyCommandTest",
+	"pools" : [
+		 ],
+	"super" : "PRLocationCommandTest",
+	"type" : "normal" }

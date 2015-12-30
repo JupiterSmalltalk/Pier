@@ -1,0 +1,3 @@
+accessing-configuration
+readStreamOn: aCollection
+	self subclassResponsibility

@@ -1,0 +1,1 @@
+I represent a data container for images, videos, sound, pdf or zip files. I reference an instance of *MAFileModel*. The mime-type is used to determine how the given file is be displayed. As an example images and videos are attempted to be inlined into the resulting output, whereas zip-files are referenced as a link to allow downloading.

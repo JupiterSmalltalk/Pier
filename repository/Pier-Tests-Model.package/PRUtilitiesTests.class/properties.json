@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Tests-Model-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRUtilitiesTests",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

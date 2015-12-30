@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Model-Persistence",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 2/1/2009 17:07",
+	"instvars" : [
+		 ],
+	"name" : "PRNullPersistency",
+	"pools" : [
+		 ],
+	"super" : "PRPersistency",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+I am a link to a contextual value. Contrary to all other links I am not necessarily rendered as a link but as a plain string or dynamic document depending on the current browsing context. Possible values are defined in my methods marked with the pragma ==<value:comment:>==.

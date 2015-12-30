@@ -1,0 +1,17 @@
+{
+	"category" : "Pier-Model-Visitor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 5/28/2006 21:19",
+	"instvars" : [
+		"source",
+		"sourcePath",
+		"target",
+		"targetPath" ],
+	"name" : "PRPathReference",
+	"pools" : [
+		 ],
+	"super" : "PRPath",
+	"type" : "normal" }

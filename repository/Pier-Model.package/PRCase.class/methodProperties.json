@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "lr 3/30/2007 20:01",
+		"contents" : "NickAger 1/18/2012 18:32",
+		"contents:" : "NickAger 1/18/2012 18:31",
+		"defaultDocument" : "lr 10/17/2007 22:52",
+		"descriptionDocument" : "DiegoLont 4/29/2014 12:11",
+		"descriptionPlainText" : "NickAger 1/18/2012 17:55",
+		"document" : "lr 5/28/2006 17:35",
+		"document:" : "lr 6/17/2010 09:43",
+		"hasDocument" : "lr 3/9/2006 11:29",
+		"initialize" : "lr 1/15/2007 22:05",
+		"plainText" : "lr 10/18/2007 17:31",
+		"postCopy" : "lr 3/9/2006 11:29" } }

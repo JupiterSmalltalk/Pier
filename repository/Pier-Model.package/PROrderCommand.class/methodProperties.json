@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/18/2008 21:52",
+		"isValidIn:" : "lr 11/15/2009 19:57",
+		"label" : "NickAger 12/16/2011 20:02" },
+	"instance" : {
+		"componentsOrStructures" : "DiegoLont 4/14/2014 13:33",
+		"currentStructures" : "lr 3/18/2008 22:57",
+		"descriptionStructures" : "DiegoLont 4/14/2014 13:32",
+		"doExecute" : "lr 11/15/2009 23:35",
+		"doValidate" : "lr 3/18/2008 22:58",
+		"structures" : "lr 3/18/2008 22:07",
+		"structures:" : "lr 3/18/2008 22:57" } }

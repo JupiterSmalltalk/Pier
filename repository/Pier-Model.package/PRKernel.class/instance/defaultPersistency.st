@@ -1,0 +1,3 @@
+configuration
+defaultPersistency
+	^ PRHistoryPersistency new

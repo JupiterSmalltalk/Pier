@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Model-Command",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 11/5/2007 21:35",
+	"instvars" : [
+		 ],
+	"name" : "PRRemoveCommand",
+	"pools" : [
+		 ],
+	"super" : "PRCommand",
+	"type" : "normal" }

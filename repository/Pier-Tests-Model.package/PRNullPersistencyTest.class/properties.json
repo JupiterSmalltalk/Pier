@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Tests-Model-Persistence",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRNullPersistencyTest",
+	"pools" : [
+		 ],
+	"super" : "PRPersistencyTest",
+	"type" : "normal" }

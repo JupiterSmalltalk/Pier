@@ -1,0 +1,3 @@
+accessing
+rendererInstance
+	^ PRViewRenderer new

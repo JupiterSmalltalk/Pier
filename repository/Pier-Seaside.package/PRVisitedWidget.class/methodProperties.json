@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"defaultMaxItems" : "NickAger 1/18/2012 18:18",
+		"isAbstract" : "lr 8/29/2008 11:15",
+		"label" : "lr 8/29/2008 11:51" },
+	"instance" : {
+		"descriptionRemoveDuplicates" : "NickAger 1/18/2012 18:07",
+		"initialize" : "lr 8/29/2008 11:15",
+		"items" : "lr 8/29/2008 11:24",
+		"onChangeContext:" : "lr 8/29/2008 11:30",
+		"removeDuplicates" : "NickAger 2/7/2012 16:01",
+		"removeDuplicates:" : "NickAger 1/20/2012 11:59",
+		"unfilteredItems" : "lr 8/29/2008 11:58" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "Pier-Seaside-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"query",
+		"exampleText",
+		"searchButton",
+		"searchRoot" ],
+	"name" : "PRSearchWidget",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

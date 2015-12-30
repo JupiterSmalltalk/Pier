@@ -1,0 +1,1 @@
+Abstract command to copy or move a structure.

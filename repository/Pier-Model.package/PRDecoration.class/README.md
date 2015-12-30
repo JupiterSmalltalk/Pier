@@ -1,0 +1,3 @@
+I am an abstract decoration to add new behaviour and data to structures. Every decoration knows its owner, a subclass of *PRDecorated*. Decorations are considered to be equal if they are of the same species, but subclasses might want to refine this behaviour to be able to add multiple instances of the same class.
+
+Within the owner decorations are ordered according to their priority. Decorations with a negative priority are visited before the owner, decorations with a positive one after the owner.

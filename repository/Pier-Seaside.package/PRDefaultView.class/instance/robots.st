@@ -1,0 +1,3 @@
+accessing
+robots
+	^ 'index,follow'

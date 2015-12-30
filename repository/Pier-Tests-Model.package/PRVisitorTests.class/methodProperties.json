@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"setUp" : "lr 2/12/2007 19:07",
+		"testEnumerableDetect" : "NickAger 2/21/2010 10:07",
+		"testIncomingReferencesMultiple" : "lr 1/19/2007 13:59",
+		"testIncomingReferencesSingle" : "lr 2/12/2007 19:07",
+		"testOutgoingReferencesContinue" : "lr 2/12/2007 19:07",
+		"testOutgoingReferencesEmbedded" : "lr 2/12/2007 19:07",
+		"testOutgoingReferencesStandard" : "lr 2/12/2007 19:07",
+		"testSearchCaseSensitive" : "lr 2/12/2007 19:07",
+		"testSearchContents" : "lr 2/12/2007 19:07",
+		"testSearchMultiple" : "lr 2/12/2007 19:07",
+		"testSearchMultipleSubstrings" : "JohnCBorden 9/25/2015 06:38",
+		"testSearchNonRoot" : "lr 2/12/2007 19:07",
+		"testSearchTitle" : "lr 2/12/2007 19:07" } }

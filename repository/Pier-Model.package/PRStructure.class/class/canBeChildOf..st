@@ -1,0 +1,3 @@
+testing
+canBeChildOf: aStructureClass
+	^ true

@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Tests-Model-Structure",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRFileTest",
+	"pools" : [
+		 ],
+	"super" : "PRStructureTest",
+	"type" : "normal" }

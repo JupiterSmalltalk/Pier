@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Tests-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRValueLinkTest",
+	"pools" : [
+		 ],
+	"super" : "PRLinkTest",
+	"type" : "normal" }

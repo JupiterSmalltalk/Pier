@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Model-Visitor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 4/10/2007 21:12",
+	"instvars" : [
+		"structures" ],
+	"name" : "PRIncomingReferences",
+	"pools" : [
+		 ],
+	"super" : "PREnumerableVisitor",
+	"type" : "normal" }

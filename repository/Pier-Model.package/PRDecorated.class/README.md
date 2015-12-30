@@ -1,0 +1,1 @@
+I am an abstract decorated object. My decorations are subclasses of *PRDecoration*. I provide all the tools to add, remove, query and visit my decorations.

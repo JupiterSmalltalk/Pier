@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Pharo-Persistency",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"duration",
+		"process",
+		"message" ],
+	"name" : "PRDelayedPersistency",
+	"pools" : [
+		 ],
+	"super" : "PRHistoryPersistency",
+	"type" : "normal" }

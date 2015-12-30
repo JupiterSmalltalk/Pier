@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Tests-Pharo-Persistency",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRImagePersistencyTest",
+	"pools" : [
+		 ],
+	"super" : "PRPersistencyTest",
+	"type" : "normal" }

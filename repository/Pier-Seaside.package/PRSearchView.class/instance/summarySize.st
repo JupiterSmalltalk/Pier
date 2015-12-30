@@ -1,0 +1,3 @@
+configuration
+summarySize
+	^ 256

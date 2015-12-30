@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"groupLabel" : "lr 9/3/2008 11:46" },
+	"instance" : {
+		"context" : "lr 3/9/2006 11:30",
+		"expand:" : "DiegoLont 2/4/2014 16:04",
+		"initializeOwner:link:" : "lr 5/26/2009 17:16",
+		"kernel" : "lr 9/3/2008 12:01",
+		"onChangeContext:" : "lr 3/9/2006 11:30",
+		"owner" : "lr 11/3/2007 10:00",
+		"renderContentOn:" : "lr 5/28/2007 16:31" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Seaside-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"showFirstLast",
+		"showNumbers",
+		"showPreviousNext" ],
+	"name" : "PRBatcherWidget",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"isAbstract" : "",
+		"label" : "" },
+	"instance" : {
+		"emptyWriteStream" : "",
+		"extension" : "",
+		"mimeType" : "",
+		"readStreamOn:" : "" } }

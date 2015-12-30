@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Seaside-View",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 12/3/2011 09:43",
+	"instvars" : [
+		"isFullResponse" ],
+	"name" : "PRFileView",
+	"pools" : [
+		 ],
+	"super" : "PRDefaultView",
+	"type" : "normal" }

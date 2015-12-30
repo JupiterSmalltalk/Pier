@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Seaside-Magritte",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRDocumentComponent",
+	"pools" : [
+		 ],
+	"super" : "MATextAreaComponent",
+	"type" : "normal" }

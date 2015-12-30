@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Seaside-View",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"forbidden" ],
+	"name" : "PRForbiddenView",
+	"pools" : [
+		 ],
+	"super" : "PRErrorView",
+	"type" : "normal" }

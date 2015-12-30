@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testDeletionMany" : "NickAger 2/24/2012 15:20",
+		"testDeletionSingle" : "NickAger 2/24/2012 15:28",
+		"testEqualityEmpty" : "lr 6/24/2011 11:06",
+		"testEqualityMany" : "lr 6/24/2011 11:06",
+		"testInsertionMany" : "lr 6/24/2011 11:06",
+		"testInsertionSingle" : "lr 6/24/2011 11:06",
+		"testLineDiff" : "NickAger 2/24/2012 15:35",
+		"testReplacementMany" : "NickAger 2/24/2012 15:29",
+		"testReplacementSingle" : "NickAger 2/24/2012 15:29",
+		"testWordDiff" : "NickAger 2/24/2012 15:35" } }

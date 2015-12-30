@@ -1,0 +1,3 @@
+testing
+canBeParentOf: aStructureClass
+	^ true

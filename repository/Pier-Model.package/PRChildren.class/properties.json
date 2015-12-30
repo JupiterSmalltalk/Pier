@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Model-Structure",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 5/28/2006 17:47",
+	"instvars" : [
+		"children" ],
+	"name" : "PRChildren",
+	"pools" : [
+		 ],
+	"super" : "PRDecoration",
+	"type" : "normal" }

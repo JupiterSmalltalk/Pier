@@ -1,0 +1,3 @@
+Every structure is owned by a specific user. The owner of an object comprises its user class. Permissions assigned to the user class only apply to that specific user. A structure is also assigned a group, which comprises its group class. Permissions assigned to the group class only apply to members of that group. Users who are not otherwise represented by the other two classes comprise a file's others class.
+
+The effective permissions that have applied to a specific user in relation to a file are determined in logical precedence. For example, the user who owns the file will have the effective permissions given to the user class regardless of those assigned to the group or others class.

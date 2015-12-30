@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:31",
+		"isValidIn:" : "lr 3/9/2006 11:31",
+		"label" : "lr 3/9/2006 11:31" },
+	"instance" : {
+		"descriptionPassword" : "NickAger 1/18/2012 18:21",
+		"descriptionUsername" : "DiegoLont 4/28/2014 11:42",
+		"doAnswer" : "lr 10/25/2010 08:49",
+		"doValidate" : "lr 2/3/2007 19:23",
+		"invalidLogin" : "NickAger 1/19/2012 16:16",
+		"mementoClass" : "lr 2/3/2007 19:25",
+		"password" : "lr 3/9/2006 11:30",
+		"password:" : "lr 3/9/2006 11:30",
+		"saveButton" : "lr 8/11/2007 21:58",
+		"user" : "lr 3/9/2006 11:30",
+		"user:" : "lr 3/9/2006 11:30",
+		"username" : "lr 3/9/2006 11:30",
+		"username:" : "lr 3/9/2006 11:30" } }

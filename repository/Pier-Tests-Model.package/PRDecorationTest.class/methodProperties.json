@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"actualInstance" : "lr 3/9/2006 11:31",
+		"decorated" : "lr 3/9/2006 11:31",
+		"decoratedInstance" : "lr 3/9/2006 11:31",
+		"decoration" : "lr 3/9/2006 11:31",
+		"instance" : "lr 3/9/2006 11:31",
+		"setUp" : "lr 3/9/2006 11:31",
+		"testCopyDecorated" : "lr 3/9/2006 11:31",
+		"testCopyDecoration" : "lr 3/9/2006 11:31",
+		"testDecorated" : "lr 3/9/2006 11:31",
+		"testPriority" : "lr 3/9/2006 11:31",
+		"testRemove" : "lr 2/12/2007 19:07" } }

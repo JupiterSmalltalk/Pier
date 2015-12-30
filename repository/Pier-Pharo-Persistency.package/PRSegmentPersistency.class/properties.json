@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Pharo-Persistency",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"namePrefix" ],
+	"name" : "PRSegmentPersistency",
+	"pools" : [
+		 ],
+	"super" : "PRDelayedPersistency",
+	"type" : "normal" }

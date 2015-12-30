@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"actualInstance" : "lr 10/18/2007 17:45",
+		"testContents" : "lr 10/18/2007 17:45",
+		"testDocument" : "lr 4/13/2007 15:27",
+		"testFullTextSearch" : "lr 2/12/2007 19:07",
+		"testHasDocument" : "lr 3/30/2009 21:38",
+		"testIncomingReferences" : "lr 2/12/2007 19:07",
+		"testOutgoingReferences" : "lr 2/12/2007 19:07",
+		"testPlainText" : "lr 3/30/2009 21:49" } }

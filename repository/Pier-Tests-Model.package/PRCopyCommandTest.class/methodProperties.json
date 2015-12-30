@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"testCopy" : "lr 10/25/2010 09:12",
+		"testCopyIntoChild" : "lr 10/25/2010 09:12",
+		"testCopyIntoRoot" : "lr 10/25/2010 09:12",
+		"testCopyTitle" : "lr 4/10/2006 14:52",
+		"testInitialized" : "lr 10/12/2010 10:07",
+		"testLinkInside" : "lr 4/23/2011 13:14",
+		"testLinkOutside" : "lr 4/23/2011 09:31" } }

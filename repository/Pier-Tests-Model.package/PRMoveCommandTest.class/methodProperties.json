@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"testInitialized" : "lr 3/9/2006 11:31",
+		"testLinkAbsolute" : "lr 4/23/2011 09:27",
+		"testLinkInside" : "lr 4/23/2011 09:27",
+		"testLinkRelative" : "lr 4/23/2011 09:27",
+		"testMove" : "lr 3/9/2006 11:31",
+		"testMoveIntoChild" : "lr 3/9/2006 11:31",
+		"testMoveIntoFolder" : "lr 3/9/2006 11:31",
+		"testRename" : "lr 3/9/2006 11:31",
+		"testRenameExisting" : "lr 3/9/2006 11:31",
+		"testRenameOrder" : "lr 6/12/2009 11:00" } }

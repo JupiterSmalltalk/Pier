@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Seaside-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRContentsRendered",
+	"pools" : [
+		 ],
+	"super" : "WADynamicVariable",
+	"type" : "normal" }

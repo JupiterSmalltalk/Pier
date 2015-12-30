@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Security-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"report" ],
+	"name" : "PUMemberWidget",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

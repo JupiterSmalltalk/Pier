@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"isAbstract" : "lr 9/12/2009 11:40",
+		"isRestful" : "lr 8/18/2010 09:10",
+		"label" : "lr 9/12/2009 11:40" },
+	"instance" : {
+		"addSearchString:to:" : "JohnCBorden 11/21/2014 12:09",
+		"hasSearchForm" : "lr 9/12/2009 16:47",
+		"hasSearchResults" : "lr 9/12/2009 16:52",
+		"hasValidQuery" : "lr 9/12/2009 16:52",
+		"hideForm" : "lr 9/12/2009 13:05",
+		"initialRequest:" : "lr 9/12/2009 11:36",
+		"initialize" : "lr 9/12/2009 13:05",
+		"items" : "lr 9/12/2009 16:52",
+		"query" : "lr 9/12/2009 16:52",
+		"query:" : "lr 2/12/2011 20:19",
+		"queryFieldName" : "lr 9/12/2009 11:36",
+		"refresh" : "JohnBorden 10/13/2011 21:22",
+		"renderContentOn:" : "lr 9/12/2009 18:54",
+		"renderFormOn:" : "lr 2/12/2011 20:21",
+		"renderNoResultOn:" : "lr 9/12/2009 16:50",
+		"renderResultOn:" : "JohnBorden 6/1/2013 19:37",
+		"root" : "lr 2/12/2011 20:18",
+		"root:" : "lr 2/12/2011 20:18",
+		"summaryOf:" : "NickAger 1/19/2012 16:48",
+		"summarySize" : "lr 9/12/2009 12:42",
+		"updateUrl:" : "lr 2/23/2010 21:14" } }

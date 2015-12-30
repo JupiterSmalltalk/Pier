@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"decorationWithPriority:" : "lr 3/9/2006 11:31",
+		"testAddDecoration" : "lr 3/5/2007 14:00",
+		"testAddDecorationIfPresent" : "lr 3/9/2006 11:31",
+		"testCopyDecorations" : "lr 3/9/2006 11:31",
+		"testDecorationOfClass" : "lr 3/5/2007 14:00",
+		"testDecorationOfClassIfAbsent" : "lr 3/9/2006 11:31",
+		"testDecorationsDo" : "lr 3/9/2006 11:31",
+		"testDecorationsDoOwnerDo" : "lr 3/9/2006 11:31",
+		"testInitialized" : "lr 3/9/2006 11:31",
+		"testRemoveDecoration" : "lr 3/5/2007 14:00",
+		"testRemoveDecorationIfAbsent" : "lr 3/9/2006 11:31" } }

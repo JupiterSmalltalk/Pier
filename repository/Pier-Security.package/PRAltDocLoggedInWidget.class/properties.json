@@ -1,0 +1,17 @@
+{
+	"category" : "Pier-Security-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "DiegoLont 4/28/2014 16:19",
+	"instvars" : [
+		"specification",
+		"default",
+		"inherited",
+		"alternate" ],
+	"name" : "PRAltDocLoggedInWidget",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

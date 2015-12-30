@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Pharo-Persistency",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRReferenceStreamExporterImporter",
+	"pools" : [
+		 ],
+	"super" : "PRExporterImporter",
+	"type" : "normal" }

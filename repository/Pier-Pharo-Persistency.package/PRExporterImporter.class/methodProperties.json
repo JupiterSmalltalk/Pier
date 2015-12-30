@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"emptyWriteStream" : "",
+		"export:on:" : "",
+		"extension" : "",
+		"import:into:" : "",
+		"mimeType" : "",
+		"owner" : "",
+		"owner:" : "",
+		"readStreamOn:" : "",
+		"replace" : "",
+		"sanitizeExport:" : "",
+		"sanitizeImport:" : "",
+		"writeStream" : "" } }

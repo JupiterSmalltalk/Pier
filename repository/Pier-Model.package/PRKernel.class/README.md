@@ -1,0 +1,1 @@
+I am the kernel of Pier. Several instances of myself might exist at the same time, but they all exist independently and don't share any data. I know the root structure and the persistency strategy of the whole data-model. Moreover I prevent any concurrent modifications to the model by providing a global mutex.

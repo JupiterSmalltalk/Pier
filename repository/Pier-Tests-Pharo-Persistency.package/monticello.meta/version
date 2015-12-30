@@ -1,0 +1,1 @@
+(name 'Pier-Tests-Pharo-Persistency-YanniChiu.1' message '- separate PRImagePersistencyTest from Pier-Pharo-Persistency package, so tests can load separately' id 'ad0206ec-86df-48be-93c0-5a2a23441e24' date '27 February 2010' time '6:07:09 pm' author 'YanniChiu' ancestors () stepChildren ())

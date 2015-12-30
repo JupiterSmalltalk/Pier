@@ -1,0 +1,3 @@
+accessing
+shortLabel
+	^ self label

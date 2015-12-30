@@ -1,0 +1,1 @@
+A simple persistency strategy remembering a configurable amount of the history.

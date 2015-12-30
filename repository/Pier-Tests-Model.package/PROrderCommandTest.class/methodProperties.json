@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/18/2008 23:14" },
+	"instance" : {
+		"actualClass" : "lr 3/18/2008 23:12",
+		"children" : "lr 3/18/2008 23:25",
+		"childrenNames" : "lr 3/18/2008 23:31",
+		"structureInstance" : "lr 3/18/2008 23:21",
+		"testDefaultOrder" : "lr 11/15/2009 23:38",
+		"testInitialized" : "lr 3/18/2008 23:28",
+		"testReorderBasic" : "DamienCassou 10/21/2013 17:44",
+		"testReorderWithConcurrentAdd" : "DamienCassou 10/21/2013 17:45",
+		"testReorderWithConcurrentDelete" : "DamienCassou 10/21/2013 17:45" } }

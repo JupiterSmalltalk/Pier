@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"testAddChild" : "lr 3/9/2006 11:31",
+		"testAddConflict" : "lr 1/10/2007 10:49",
+		"testLink" : "lr 4/15/2009 18:23",
+		"testName" : "lr 3/30/2009 21:43",
+		"testSuggestName" : "lr 10/9/2010 12:41",
+		"testType" : "lr 3/30/2009 21:42",
+		"testTypeClasses" : "NickAger 1/19/2012 18:19",
+		"testUncheckedConflict" : "lr 3/30/2009 21:25",
+		"testUniqueTitle" : "lr 4/21/2009 15:25" } }

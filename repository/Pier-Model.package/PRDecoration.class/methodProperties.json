@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"onStructureAdded:" : "lr 3/9/2006 11:30",
+		"onStructureRemoved:" : "lr 3/9/2006 11:30" },
+	"instance" : {
+		"<=" : "lr 3/9/2006 11:29",
+		"=" : "lr 3/9/2006 11:29",
+		"decorated" : "lr 5/28/2006 17:45",
+		"hash" : "lr 3/9/2006 11:29",
+		"isAllowedCommand:in:" : "lr 4/10/2007 21:48",
+		"postCopy" : "lr 3/9/2006 11:29",
+		"postCopyTo:" : "lr 3/9/2006 11:29",
+		"priority" : "lr 5/29/2006 09:27",
+		"remove" : "lr 3/9/2006 11:29",
+		"setDecorated:" : "lr 3/9/2006 11:29",
+		"validateCommand:" : "lr 2/8/2009 19:23" } }

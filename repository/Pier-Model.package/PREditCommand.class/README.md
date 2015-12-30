@@ -1,0 +1,1 @@
+Command to edit a structure, e.g. all the descriptions that are tagged as ==#beEditable==.

@@ -1,0 +1,1 @@
+If the request isn't of mime-type text/html I respond directly with my associated file, otherwise I delegate rendering to my super-class.

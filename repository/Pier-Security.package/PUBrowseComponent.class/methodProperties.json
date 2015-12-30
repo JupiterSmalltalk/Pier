@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"isAbstract" : "lr 10/17/2006 07:15",
+		"label" : "lr 10/17/2006 07:18" },
+	"instance" : {
+		"defaultPermissions" : "lr 2/12/2007 19:07",
+		"initialize" : "lr 1/8/2010 22:23",
+		"permissions" : "lr 10/17/2006 07:20",
+		"renderContentOn:" : "lr 9/7/2009 20:46",
+		"renderPathOn:" : "lr 1/8/2010 22:31",
+		"renderPermissions:permissions:on:" : "lr 10/25/2010 08:52",
+		"renderTableHeadOn:" : "lr 3/18/2008 21:49",
+		"renderTableOn:" : "lr 1/8/2010 22:44",
+		"renderTableRow:named:on:" : "lr 1/8/2010 22:24",
+		"structure" : "lr 1/8/2010 22:23",
+		"structure:" : "lr 1/8/2010 22:23" } }

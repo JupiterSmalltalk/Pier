@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"from:to:" : "lr 11/2/2007 13:29",
+		"isAbstract" : "DamienCassou 2/5/2014 14:00",
+		"to:" : "lr 11/2/2007 13:30" },
+	"instance" : {
+		"absoluteReference" : "lr 11/2/2007 13:32",
+		"hasCommonPath" : "lr 9/27/2007 09:42",
+		"initialize" : "lr 3/9/2006 11:29",
+		"relativeReference" : "lr 11/2/2007 13:36",
+		"removeCommonPath" : "lr 9/27/2007 09:44",
+		"setSource:" : "lr 9/27/2007 09:41",
+		"setTarget:" : "lr 9/27/2007 09:41",
+		"source" : "lr 3/9/2006 11:29",
+		"sourcePath" : "lr 9/27/2007 09:41",
+		"target" : "lr 3/9/2006 11:29",
+		"targetPath" : "lr 9/27/2007 09:41",
+		"validateKernel" : "lr 9/27/2007 09:43",
+		"visitStructure:" : "lr 3/9/2006 11:29",
+		"writeDelimiter" : "lr 9/27/2007 09:58",
+		"writeParent" : "lr 9/27/2007 09:54" } }

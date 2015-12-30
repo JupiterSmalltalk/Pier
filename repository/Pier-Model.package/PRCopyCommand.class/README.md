@@ -1,0 +1,1 @@
+Command to copy a structure.

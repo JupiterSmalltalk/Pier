@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Model-Document",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 2/5/2009 12:33",
+	"instvars" : [
+		"selector" ],
+	"name" : "PRValueLink",
+	"pools" : [
+		 ],
+	"super" : "PRLink",
+	"type" : "normal" }

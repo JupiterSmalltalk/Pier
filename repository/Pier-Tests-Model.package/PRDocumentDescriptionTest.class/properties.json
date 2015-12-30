@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Tests-Model-Magritte",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRDocumentDescriptionTest",
+	"pools" : [
+		 ],
+	"super" : "MAMemoDescriptionTest",
+	"type" : "normal" }

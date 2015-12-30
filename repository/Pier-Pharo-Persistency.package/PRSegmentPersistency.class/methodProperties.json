@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"isAbstract" : "" },
+	"instance" : {
+		"cleanup" : "",
+		"cleanupKom" : "",
+		"cleanupMonticello" : "",
+		"cleanupPier" : "",
+		"cleanupProcesses" : "",
+		"cleanupSeaside" : "",
+		"cleanupWorld" : "",
+		"descriptionNamePrefix" : "",
+		"directory" : "",
+		"namePrefix" : "",
+		"namePrefix:" : "",
+		"serialize:" : "",
+		"snapshot" : "" } }

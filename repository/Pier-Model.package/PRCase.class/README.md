@@ -1,0 +1,1 @@
+I am an abstract class holding onto a document definition representing the contents of the receiver. Most of my subclasses will allow user to edit myself using the Wiki syntax.

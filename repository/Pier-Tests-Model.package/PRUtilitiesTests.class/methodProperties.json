@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"number1" : "lr 4/24/2008 08:42",
+		"number2" : "lr 4/24/2008 08:42",
+		"number3" : "lr 4/24/2008 08:46",
+		"testEnsureEscape" : "DamienCassou 2/5/2014 14:09",
+		"testEscaper" : "DamienCassou 2/5/2014 14:10",
+		"testHasEscaper" : "DamienCassou 2/5/2014 14:10",
+		"testMacroExpand" : "lr 4/24/2008 08:47",
+		"testMacroInitialized" : "lr 4/24/2008 08:34" } }

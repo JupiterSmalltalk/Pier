@@ -1,0 +1,3 @@
+accessing - properties
+inherited
+	^inherited

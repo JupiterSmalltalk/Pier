@@ -1,0 +1,3 @@
+private
+decoratedInstance
+	^ PRPage new

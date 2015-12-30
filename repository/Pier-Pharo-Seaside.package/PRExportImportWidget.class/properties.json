@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-Pharo-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"exporterImporter",
+		"replace" ],
+	"name" : "PRExportImportWidget",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

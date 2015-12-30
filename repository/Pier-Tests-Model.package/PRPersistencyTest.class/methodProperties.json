@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"isAbstract" : "lr 3/30/2007 22:22" },
+	"instance" : {
+		"actualClass" : "lr 3/30/2007 22:22",
+		"editTitle:" : "NickAger 1/19/2012 18:25",
+		"instance" : "lr 1/17/2007 10:45",
+		"kernel" : "lr 1/17/2007 10:55",
+		"mutex" : "lr 1/17/2007 10:51",
+		"persistency" : "lr 1/17/2007 10:51",
+		"persistencyInstance" : "lr 1/17/2007 10:55",
+		"tearDown" : "lr 1/17/2007 10:51",
+		"testConveniance" : "lr 9/23/2008 08:24",
+		"testEnumeration" : "lr 9/23/2008 08:25",
+		"testMutexError" : "lr 3/5/2007 14:04",
+		"testMutexSimple" : "lr 1/17/2007 10:52",
+		"testSetup" : "lr 1/17/2007 11:22" } }

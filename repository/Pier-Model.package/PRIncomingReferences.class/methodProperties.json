@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"isAbstract" : "DamienCassou 2/5/2014 14:00" },
+	"instance" : {
+		"initialize" : "lr 10/30/2006 20:11",
+		"to:" : "lr 10/30/2006 20:30",
+		"toAll:" : "lr 10/30/2006 20:30",
+		"visitChildren:" : "lr 3/9/2006 11:29",
+		"visitInternalLink:" : "lr 10/30/2006 20:12",
+		"visitStructure:" : "NickAger 1/19/2012 16:47" } }

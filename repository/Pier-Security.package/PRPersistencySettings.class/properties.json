@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Security-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRPersistencySettings",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

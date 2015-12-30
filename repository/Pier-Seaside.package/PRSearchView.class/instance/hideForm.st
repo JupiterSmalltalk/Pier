@@ -1,0 +1,3 @@
+actions
+hideForm
+	hideForm := true

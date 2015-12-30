@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Tests-Model-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"kernel" ],
+	"name" : "PRKernelTest",
+	"pools" : [
+		 ],
+	"super" : "PRObjectTest",
+	"type" : "normal" }

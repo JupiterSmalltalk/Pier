@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-Security-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"component",
+		"model" ],
+	"name" : "PRFileSettings",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

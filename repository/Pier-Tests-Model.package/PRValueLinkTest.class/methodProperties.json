@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"isAbstract" : "lr 1/9/2009 20:28" },
+	"instance" : {
+		"actualClass" : "lr 1/9/2009 20:27",
+		"referenceString" : "lr 1/13/2009 20:13",
+		"testBroken" : "lr 1/13/2009 20:13",
+		"testFilterReject" : "lr 4/22/2009 15:16",
+		"testFilterSelect" : "lr 4/22/2009 15:16",
+		"testFormatStructure" : "lr 10/8/2010 15:17",
+		"testLookupStructure" : "lr 2/2/2009 22:16",
+		"testLookupStructureLower" : "lr 2/2/2009 22:19",
+		"testLookupStructureUpper" : "lr 2/2/2009 22:19",
+		"testSelectAndReject" : "lr 4/22/2009 15:15",
+		"testSelectorFor" : "lr 1/13/2009 20:13",
+		"testSmoke" : "DamienCassou 10/21/2013 17:44",
+		"testTitle" : "lr 2/2/2009 21:46" } }

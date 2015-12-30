@@ -1,0 +1,20 @@
+{
+	"category" : "Pier-Security-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"password",
+		"token",
+		"groups",
+		"superuser",
+		"firstName",
+		"lastName",
+		"email" ],
+	"name" : "PUUser",
+	"pools" : [
+		 ],
+	"super" : "PUMember",
+	"type" : "normal" }

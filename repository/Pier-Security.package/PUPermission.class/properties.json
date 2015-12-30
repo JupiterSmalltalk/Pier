@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Security-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"command" ],
+	"name" : "PUPermission",
+	"pools" : [
+		 ],
+	"super" : "PRObject",
+	"type" : "normal" }

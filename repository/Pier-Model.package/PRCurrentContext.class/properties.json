@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Model-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 5/28/2006 17:06",
+	"instvars" : [
+		 ],
+	"name" : "PRCurrentContext",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

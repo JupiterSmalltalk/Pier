@@ -1,0 +1,3 @@
+accessing-dynamic
+exampleText
+	^ exampleText

@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-Seaside-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"prototypeInstance",
+		"link" ],
+	"name" : "PRComponent",
+	"pools" : [
+		 ],
+	"super" : "PRStructure",
+	"type" : "normal" }

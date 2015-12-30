@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"acceptDecorated:" : "lr 3/9/2006 11:29",
+		"addDecoration:" : "lr 4/10/2007 21:47",
+		"addDecoration:ifPresent:" : "lr 9/27/2007 10:39",
+		"decorationOfClass:" : "lr 4/10/2007 21:47",
+		"decorationOfClass:ifAbsent:" : "lr 4/10/2007 21:47",
+		"decorations" : "lr 5/28/2006 17:37",
+		"decorationsDo:" : "lr 4/10/2007 21:47",
+		"decorationsDo:ownerDo:" : "lr 4/10/2007 21:48",
+		"initialize" : "lr 3/9/2006 11:29",
+		"postCopy" : "lr 3/9/2006 11:29",
+		"removeDecoration:" : "lr 4/10/2007 21:48",
+		"removeDecoration:ifAbsent:" : "lr 4/10/2007 21:48",
+		"setDecorations:" : "lr 3/9/2006 11:29" } }

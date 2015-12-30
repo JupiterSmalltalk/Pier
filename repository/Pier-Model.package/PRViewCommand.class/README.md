@@ -1,0 +1,1 @@
+Command (so called) to view a structure.

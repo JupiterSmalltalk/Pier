@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-Pharo-Persistency",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"owner",
+		"writeStream" ],
+	"name" : "PRExporterImporter",
+	"pools" : [
+		 ],
+	"super" : "PRObject",
+	"type" : "normal" }
