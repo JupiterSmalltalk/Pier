@@ -1,5 +1,5 @@
 testing
 isRestful
-	"Answer wether the component is fully restful."
+	"Answer whether the component is fully restful."
 
 	^ false

@@ -1,5 +1,5 @@
 testing
 hasDocument
-	"Answer wether the receiver has a changable document."
+	"Answer whether the receiver has a changeable document."
 
 	^ false
