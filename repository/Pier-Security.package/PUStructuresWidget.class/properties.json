@@ -1,14 +1,13 @@
 {
-	"category" : "Pier-Security-Widgets",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"query" ],
-	"name" : "PUStructuresWidget",
-	"pools" : [
-		 ],
 	"super" : "PUReportWidget",
-	"type" : "normal" }
+	"category" : "Pier-Security-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"query"
+	],
+	"name" : "PUStructuresWidget",
+	"type" : "normal"
+}

@@ -1,18 +1,17 @@
 {
-	"category" : "Pier-Security-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "lr 12/20/2005 15:05",
+	"super" : "PRDecoration",
+	"category" : "Pier-Security-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"owner",
 		"ownerPermissions",
 		"group",
 		"groupPermissions",
-		"otherPermissions" ],
+		"otherPermissions"
+	],
 	"name" : "PUSecurity",
-	"pools" : [
-		 ],
-	"super" : "PRDecoration",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,17 +1,16 @@
 {
-	"category" : "Pier-Security-Command",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "PRCommand",
+	"category" : "Pier-Security-Command",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"with",
 		"all",
 		"operator",
-		"permissions" ],
+		"permissions"
+	],
 	"name" : "PUChangeSecurity",
-	"pools" : [
-		 ],
-	"super" : "PRCommand",
-	"type" : "normal" }
+	"type" : "normal"
+}

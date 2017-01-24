@@ -1,9 +1,12 @@
 {
-	"class" : {
-		"on:structure:" : "jf 10/1/2009 12:09" },
 	"instance" : {
+		"structure" : "lr 9/11/2006 10:16",
+		"setStructure:" : "lr 9/11/2006 10:15",
 		"=" : "lr 9/11/2006 10:17",
 		"hash" : "lr 9/11/2006 10:17",
-		"label" : "lr 9/11/2006 10:16",
-		"setStructure:" : "lr 9/11/2006 10:15",
-		"structure" : "lr 9/11/2006 10:16" } }
+		"label" : "lr 9/11/2006 10:16"
+	},
+	"class" : {
+		"on:structure:" : "jf 10/1/2009 12:09"
+	}
+}

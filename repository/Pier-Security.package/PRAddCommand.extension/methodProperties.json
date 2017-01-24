@@ -1,7 +1,10 @@
 {
-	"class" : {
-		"permissions" : "lr 4/30/2009 00:04" },
 	"instance" : {
+		"structureClassesSecurity" : "NickAger 1/21/2012 08:53",
 		"descriptionTypeSecurity:" : "NickAger 1/18/2012 17:41",
-		"permission" : "lr 4/30/2009 00:03",
-		"structureClassesSecurity" : "NickAger 1/21/2012 08:53" } }
+		"permission" : "lr 4/30/2009 00:03"
+	},
+	"class" : {
+		"permissions" : "lr 4/30/2009 00:04"
+	}
+}

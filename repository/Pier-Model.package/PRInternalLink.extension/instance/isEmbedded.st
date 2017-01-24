@@ -1,0 +1,3 @@
+*pier-model
+isEmbedded
+  ^ true

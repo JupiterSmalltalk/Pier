@@ -1,14 +1,11 @@
 {
-	"category" : "Pier-Security-Command",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "PUEditUser",
-	"pools" : [
-		 ],
 	"super" : "PRChangeCommand",
-	"type" : "normal" }
+	"category" : "Pier-Security-Command",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PUEditUser",
+	"type" : "normal"
+}

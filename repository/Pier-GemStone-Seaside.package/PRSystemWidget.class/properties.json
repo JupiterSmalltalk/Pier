@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PRWidget",
+	"category" : "Pier-GemStone-Seaside",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PRSystemWidget",
+	"type" : "normal"
+}

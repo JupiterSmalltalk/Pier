@@ -1,9 +1,12 @@
 {
-	"class" : {
-		"isAbstract" : "lr 3/9/2006 11:31",
-		"isValidIn:" : "lr 3/9/2006 11:31",
-		"label" : "lr 3/9/2006 11:31" },
 	"instance" : {
-		"doAnswer" : "lr 10/25/2010 08:48",
 		"doExecute" : "lr 4/28/2009 22:38",
-		"isQuick" : "lr 3/9/2006 11:31" } }
+		"isQuick" : "lr 3/9/2006 11:31",
+		"doAnswer" : "lr 10/25/2010 08:48"
+	},
+	"class" : {
+		"isValidIn:" : "lr 3/9/2006 11:31",
+		"label" : "lr 3/9/2006 11:31",
+		"isAbstract" : "lr 3/9/2006 11:31"
+	}
+}

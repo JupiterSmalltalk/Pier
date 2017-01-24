@@ -1,10 +1,13 @@
 {
-	"class" : {
-		"isAbstract" : "lr 3/9/2006 11:31" },
 	"instance" : {
-		"defaultUsers" : "NickAger 1/18/2012 18:26",
-		"descriptionUsers" : "NickAger 1/19/2012 17:21",
 		"includes:" : "lr 3/9/2006 11:30",
-		"initialize" : "lr 9/27/2006 12:02",
 		"users" : "lr 3/9/2006 11:30",
-		"users:" : "lr 2/12/2007 19:07" } }
+		"defaultUsers" : "NickAger 1/18/2012 18:26",
+		"initialize" : "lr 9/27/2006 12:02",
+		"descriptionUsers" : "NickAger 1/19/2012 17:21",
+		"users:" : "lr 2/12/2007 19:07"
+	},
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:31"
+	}
+}

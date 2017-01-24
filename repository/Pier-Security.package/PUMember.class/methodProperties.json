@@ -1,13 +1,16 @@
 {
-	"class" : {
-		"named:" : "lr 3/9/2006 11:31" },
 	"instance" : {
-		"=" : "lr 3/9/2006 11:31",
-		"comment" : "lr 4/23/2009 22:29",
 		"comment:" : "lr 4/23/2009 22:29",
+		"printOn:" : "lr 3/9/2006 11:31",
 		"descriptionComment" : "NickAger 1/18/2012 18:26",
+		"comment" : "lr 4/23/2009 22:29",
+		"=" : "lr 3/9/2006 11:31",
 		"descriptionName" : "NickAger 1/18/2012 18:26",
 		"hash" : "lr 3/9/2006 11:31",
 		"name" : "lr 3/9/2006 11:31",
-		"printOn:" : "lr 3/9/2006 11:31",
-		"setName:" : "lr 3/9/2006 11:31" } }
+		"setName:" : "lr 3/9/2006 11:31"
+	},
+	"class" : {
+		"named:" : "lr 3/9/2006 11:31"
+	}
+}
