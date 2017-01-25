@@ -1,5 +1,5 @@
 accessing
 parserClass
-  "Answer the default document parser for the receiver."
+	"Answer the default document parser for the receiver."
 
-  ^ PRPillarParser
+	^ PRPillarParser

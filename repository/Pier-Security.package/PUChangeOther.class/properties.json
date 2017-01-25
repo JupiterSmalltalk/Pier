@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PUChangeSecurity",
 	"category" : "Pier-Security-Command",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PUChangeOther",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PUChangeSecurity",
+	"type" : "normal" }

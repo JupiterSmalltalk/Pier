@@ -1,6 +1,5 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"visitSecurity:" : "lr 10/16/2007 22:28"
-	},
-	"class" : { }
-}
+		"visitSecurity:" : "lr 10/16/2007 22:28" } }

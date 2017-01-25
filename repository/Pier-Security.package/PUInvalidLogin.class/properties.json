@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "MAValidationError",
 	"category" : "Pier-Security-Model",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PUInvalidLogin",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MAValidationError",
+	"type" : "normal" }

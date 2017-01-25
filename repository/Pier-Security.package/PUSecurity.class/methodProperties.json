@@ -1,25 +1,22 @@
 {
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:31",
+		"onStructureAdded:" : "NickAger 7/2/2011 21:52" },
 	"instance" : {
+		"accept:" : "lr 3/9/2006 11:31",
+		"group" : "lr 3/9/2006 11:31",
+		"group:" : "lr 3/9/2006 11:31",
 		"groupPermissions" : "lr 9/11/2006 10:28",
-		"isAllowedCommand:in:" : "lr 4/29/2009 23:30",
 		"groupPermissions:" : "lr 9/11/2006 10:28",
+		"hasPermission:for:" : "lr 4/29/2009 23:29",
+		"initialize" : "lr 9/11/2006 10:48",
+		"isAllowedCommand:in:" : "lr 4/29/2009 23:30",
+		"otherPermissions" : "lr 9/11/2006 10:29",
+		"otherPermissions:" : "lr 9/11/2006 10:29",
+		"owner" : "lr 3/9/2006 11:31",
+		"owner:" : "lr 3/9/2006 11:31",
+		"ownerPermissions" : "lr 9/11/2006 10:29",
 		"ownerPermissions:" : "lr 9/11/2006 10:30",
 		"postCopy" : "lr 9/11/2006 10:30",
-		"ownerPermissions" : "lr 9/11/2006 10:29",
-		"initialize" : "lr 9/11/2006 10:48",
-		"group:" : "lr 3/9/2006 11:31",
-		"owner:" : "lr 3/9/2006 11:31",
-		"otherPermissions" : "lr 9/11/2006 10:29",
 		"priority" : "lr 3/9/2006 11:31",
-		"group" : "lr 3/9/2006 11:31",
-		"validateCommand:" : "NickAger 1/19/2012 16:54",
-		"accept:" : "lr 3/9/2006 11:31",
-		"hasPermission:for:" : "lr 4/29/2009 23:29",
-		"owner" : "lr 3/9/2006 11:31",
-		"otherPermissions:" : "lr 9/11/2006 10:29"
-	},
-	"class" : {
-		"onStructureAdded:" : "NickAger 7/2/2011 21:52",
-		"isAbstract" : "lr 3/9/2006 11:31"
-	}
-}
+		"validateCommand:" : "NickAger 1/19/2012 16:54" } }

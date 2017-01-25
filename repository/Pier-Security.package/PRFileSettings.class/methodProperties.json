@@ -1,16 +1,13 @@
 {
-	"instance" : {
-		"initialize" : "NickAger 1/19/2012 16:45",
-		"write:using:" : "lr 2/13/2009 21:02",
-		"renderContentOn:" : "lr 7/26/2010 16:35",
-		"magritteDescription" : "NickAger 1/18/2012 17:30",
-		"readUsing:" : "jf 9/28/2009 13:34",
-		"children" : "lr 2/13/2009 20:40",
-		"model" : "NickAger 2/24/2012 08:09"
-	},
 	"class" : {
 		"groupLabel" : "lr 2/13/2009 20:43",
 		"isAbstract" : "lr 2/13/2009 20:33",
-		"label" : "lr 2/13/2009 20:33"
-	}
-}
+		"label" : "lr 2/13/2009 20:33" },
+	"instance" : {
+		"children" : "lr 2/13/2009 20:40",
+		"initialize" : "NickAger 1/19/2012 16:45",
+		"magritteDescription" : "NickAger 1/18/2012 17:30",
+		"model" : "NickAger 2/24/2012 08:09",
+		"readUsing:" : "jf 9/28/2009 13:34",
+		"renderContentOn:" : "lr 7/26/2010 16:35",
+		"write:using:" : "lr 2/13/2009 21:02" } }

@@ -1,27 +1,21 @@
 dependencies
 seaside: spec
-	spec
-		for: #common
-		do: [ 
-			spec
-				project: 'Seaside Zinc'
-					with: [ 
-							spec
-								className: #ConfigurationOfSeaside3;
-								versionString: #stable;
-								loads: #('Zinc');
-								repository: 'http://smalltalkhub.com/mc/Seaside/MetacelloConfigurations/main' ];
-				project: 'Seaside Javascript'
-					with: [ 
-							spec
-								className: #ConfigurationOfSeaside3;
-								versionString: #stable;
-								loads: #('JQuery' 'JQueryUI');
-								repository: 'http://smalltalkhub.com/mc/Seaside/MetacelloConfigurations/main' ];
-				project: 'Seaside Javascript Tests'
-					with: [ 
-							spec
-								className: #ConfigurationOfSeaside3;
-								versionString: #stable;
-								loads: #('JQuery Tests' 'JQueryUI Tests');
-								repository: 'http://smalltalkhub.com/mc/Seaside/MetacelloConfigurations/main' ] ]
+  spec
+    for: #'common'
+    do: [ 
+      spec
+        baseline: 'Seaside3'
+        with: [ 
+          spec
+            loads: #('Core');
+            repository: 'github://JupiterSmalltalk/Seaside/repository' ].
+      spec
+        project: 'Seaside Zinc'
+          copyFrom: 'Seaside3'
+          with: [ spec loads: #('Zinc') ];
+        project: 'Seaside Javascript'
+          copyFrom: 'Seaside3'
+          with: [ spec loads: #('JQuery' 'JQueryUI') ];
+        project: 'Seaside Javascript Tests'
+          copyFrom: 'Seaside3'
+          with: [ spec loads: #('JQuery Tests' 'JQueryUI Tests') ] ]

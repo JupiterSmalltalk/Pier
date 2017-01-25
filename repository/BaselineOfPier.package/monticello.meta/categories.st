@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfPier!
+SystemOrganization addCategory: #'BaselineOfPier'!

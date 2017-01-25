@@ -1,10 +1,7 @@
 {
-	"instance" : {
-		"renderContentOn:" : "lr 10/15/2010 10:11"
-	},
 	"class" : {
 		"groupLabel" : "lr 9/3/2008 11:46",
 		"isAbstract" : "lr 9/27/2006 12:16",
-		"label" : "lr 9/3/2008 11:50"
-	}
-}
+		"label" : "lr 9/3/2008 11:50" },
+	"instance" : {
+		"renderContentOn:" : "lr 10/15/2010 10:11" } }
