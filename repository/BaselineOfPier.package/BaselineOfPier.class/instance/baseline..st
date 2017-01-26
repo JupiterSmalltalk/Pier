@@ -56,7 +56,7 @@ baseline: spec
         group: 'default' with: #('Core');
         group: 'Core'
           with:
-            #('Pier-Model-Kernel' #'s' 'Pier-Security-Model' 'Pier-Security-Widgets' 'Pier-Seaside-Core');
+            #('Pier-Model-Kernel' 'Pier-Security-Model' 'Pier-Security-Widgets' 'Pier-Seaside-Core');
         group: 'Tests'
           with:
             #('Core' 'Pier-Tests-Model' 'Pier-Tests-Security' 'Pier-Tests-Seaside-Model');
