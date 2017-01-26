@@ -3,8 +3,9 @@
 		"copyPackages" : "jupiter 12/30/2015 11:13",
 		"moveVersion:toFiletree:" : "jupiter 12/30/2015 19:47" },
 	"instance" : {
-		"baseline:" : "jupiter 12/30/2015 11:13",
-		"magritte:" : "jupiter 12/30/2015 19:32",
-		"pillar:" : "jupiter 01/24/2017 17:27",
+		"baseline:" : "jupiter 01/25/2017 18:59",
+		"baselineOrig:" : "jupiter 01/25/2017 13:52",
+		"magritte:" : "jupiter 01/25/2017 19:00",
+		"pillar:" : "jupiter 01/25/2017 14:05",
 		"seaside:" : "jupiter 01/24/2017 16:40",
 		"startSeasideAndRegisterPier" : "jupiter 12/30/2015 11:12" } }

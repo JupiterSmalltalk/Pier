@@ -1,23 +1,21 @@
 dependencies
 pillar: spec
   spec
-    for: #'common'
+    for: #'pharo'
     do: [ 
       spec
+        configuration: 'Pillar'
+        with: [ 
+          spec
+            repository: 'http://smalltalkhub.com/mc/Pier/Pillar/main';
+            versionString: '4.0.4' ].
+      spec
         project: 'Pillar Core'
-          with: [ 
-              spec
-                className: #'ConfigurationOfPillar';
-                versionString: '1.1.2';
-                loads: #('Pillar-Model');
-                repository: 'http://smalltalkhub.com/mc/Pier/Pillar/main' ];
+          copyFrom: 'Pillar'
+          with: [ spec loads: #('Pillar-Model' 'Pillar-PetitPillar') ];
         project: 'Pillar Tests'
-          with: [ 
-              spec
-                className: #'ConfigurationOfPillar';
-                versionString: '1.1.2';
-                loads: #('Pillar-Tests-Model');
-                repository: 'http://smalltalkhub.com/mc/Pier/Pillar/main' ] ].
+          copyFrom: 'Pillar'
+          with: [ spec loads: #('Pillar-Tests-Model' 'Pillar-Tests-PetitPillar') ] ].
   spec
     for: #'gemstone'
     do: [ 

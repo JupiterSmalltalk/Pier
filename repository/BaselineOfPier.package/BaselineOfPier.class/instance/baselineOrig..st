@@ -1,6 +1,5 @@
 baselines
-baseline: spec
-  <baseline>
+baselineOrig: spec
   self
     pillar: spec;
     magritte: spec;
@@ -10,46 +9,6 @@ baseline: spec
     do: [ 
       spec blessing: #'baseline'.
       spec
-        package: 'Pier-Model-Command'
-          with: [ spec requires: #('Pier-Model-Visitor') ];
-        package: 'Pier-Model-Document'
-          with: [ spec requires: #('Pillar Core') ];
-        package: 'Pier-Model-Exception'
-          with: [ spec requires: #('Magritte Core') ];
-        package: 'Pier-Model-Kernel'
-          with: [ spec requires: #('Pillar Core' 'Pier-Model-Command' 'Pier-Model-Persistence') ];
-        package: 'Pier-Model-Magritte'
-          with: [ spec requires: #('Magritte Core') ];
-        package: 'Pier-Model-Persistence'
-          with: [ spec requires: #('Pillar Core') ];
-        package: 'Pier-Model-Structure';
-        package: 'Pier-Model-Utilities'
-          with: [ spec requires: #('Pillar Core') ];
-        package: 'Pier-Model-Visitor' with: [ spec requires: #('Pillar Core') ].
-      spec
-        package: 'Pier-Seaside-Core'
-          with: [ 
-              spec
-                requires:
-                  #('Pier-Seaside-Libraries' 'Magritte Seaside' 'Seaside Javascript') ];
-        package: 'Pier-Seaside-Libraries';
-        package: 'Pier-Seaside-Magritte'
-          with: [ spec requires: #('Pier-Model-Magritte') ];
-        package: 'Pier-Seaside-Model'
-          with: [ spec requires: #('Pier-Model-Command' 'Pier-Model-Structure') ];
-        package: 'Pier-Seaside-View'
-          with: [ spec requires: #('Magritte Seaside') ];
-        package: 'Pier-Seaside-Visitors'
-          with: [ spec requires: #('Pillar Core') ];
-        package: 'Pier-Seaside-Widgets'
-          with: [ spec requires: #('Magritte Seaside') ].
-      spec
-        package: 'Pier-Security-Command'
-          with: [ spec requires: #('Pier-Model-Command') ];
-        package: 'Pier-Security-Model'
-          with: [ spec requires: #('Pillar Core') ];
-        package: 'Pier-Security-Widgets'
-          with: [ spec requires: #('Pier-Security-Model') ].	"spec
         package: 'Pier-Model'
           with: [ spec requires: #('Magritte3 Core' 'Pillar Core') ];
         package: 'Pier-Tests-Model'
@@ -61,7 +20,7 @@ baseline: spec
           with: [ spec requires: #('Pier-Tests-Model' 'Pier-Seaside' 'Seaside Javascript Tests') ];
         package: 'Pier-Tests-Security'
           with: [ spec requires: #('Pier-Security') ];
-        yourself."
+        yourself.
       spec
         group: 'default' with: #('Core');
         group: 'Core' with: #('Pier-Model' 'Pier-Security' 'Pier-Seaside');
