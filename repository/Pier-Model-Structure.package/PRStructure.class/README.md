@@ -1,1 +1,0 @@
-I am an abstract structure, representing the model of a single page. I've got a name, that must be unique within the scope of my parent, and a title. A structure is identified with a path of structure names.

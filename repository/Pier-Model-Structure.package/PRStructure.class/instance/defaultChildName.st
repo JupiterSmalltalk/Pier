@@ -1,3 +1,0 @@
-accessing-commands
-defaultChildName
-	^ 'untitled'

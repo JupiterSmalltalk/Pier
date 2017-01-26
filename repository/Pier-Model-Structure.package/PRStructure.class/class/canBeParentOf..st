@@ -1,3 +1,0 @@
-testing
-canBeParentOf: aStructureClass
-	^ true

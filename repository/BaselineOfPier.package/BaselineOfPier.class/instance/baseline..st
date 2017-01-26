@@ -19,12 +19,13 @@ baseline: spec
           with: [ 
               spec
                 requires:
-                  #('Pier-Model-Command' 'Pier-Model-Document' 'Pier-Model-Exception' 'Pier-Model-Magritte' 'Pier-Model-Persistence' 'Pier-Model-Utilities' 'Pier-Model-Visitor') ];
+                  #('Pier-Model-Command' 'Pier-Model-Document' 'Pier-Model-Exception' 'Pier-Model-Magritte' 'Pier-Model-Persistence' 'Pier-Model-Structure' 'Pier-Model-Utilities' 'Pier-Model-Visitor') ];
         package: 'Pier-Model-Magritte'
           with: [ spec requires: #('Magritte Core') ];
         package: 'Pier-Model-Persistence'
           with: [ spec requires: #('Pillar Core') ];
-        package: 'Pier-Model-Structure';
+        package: 'Pier-Model-Structure'
+          with: [ spec requires: #('Pillar Core') ];
         package: 'Pier-Model-Utilities'
           with: [ spec requires: #('Pillar Core') ];
         package: 'Pier-Model-Visitor' with: [ spec requires: #('Pillar Core') ].
