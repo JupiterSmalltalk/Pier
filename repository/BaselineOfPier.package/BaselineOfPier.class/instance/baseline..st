@@ -27,7 +27,7 @@ baseline: spec
         package: 'Pier-Model-Structure'
           with: [ spec requires: #('Pillar Core') ];
         package: 'Pier-Model-Utilities'
-          with: [ spec requires: #('Pillar Core') ];
+          with: [ spec requires: #('Pier-Model-Structure') ];
         package: 'Pier-Model-Visitor' with: [ spec requires: #('Pillar Core') ].
       spec
         package: 'Pier-Seaside-Core'
