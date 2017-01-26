@@ -8,7 +8,6 @@ baseline: spec
   spec
     for: #'common'
     do: [ 
-      spec blessing: #'baseline'.
       spec
         package: 'Pier-Model-Command'
           with: [ spec requires: #('Pier-Model-Visitor') ];
@@ -17,7 +16,10 @@ baseline: spec
         package: 'Pier-Model-Exception'
           with: [ spec requires: #('Magritte Core') ];
         package: 'Pier-Model-Kernel'
-          with: [ spec requires: #('Pillar Core' 'Pier-Model-Command' 'Pier-Model-Persistence') ];
+          with: [ 
+              spec
+                requires:
+                  #('Pier-Model-Command' 'Pier-Model-Document' 'Pier-Model-Exception' 'Pier-Model-Magritte' 'Pier-Model-Persistence' 'Pier-Model-Utilities' 'Pier-Model-Visitor') ];
         package: 'Pier-Model-Magritte'
           with: [ spec requires: #('Magritte Core') ];
         package: 'Pier-Model-Persistence'
@@ -31,7 +33,7 @@ baseline: spec
           with: [ 
               spec
                 requires:
-                  #('Pier-Seaside-Libraries' 'Magritte Seaside' 'Seaside Javascript') ];
+                  #('Pier-Seaside-Libraries' 'Pier-Seaside-Magritte' 'Pier-Seaside-Model' 'Pier-Seaside-View' 'Pier-Seaside-Visitors' 'Pier-Seaside-Widgets' 'Magritte Seaside' 'Seaside Javascript') ];
         package: 'Pier-Seaside-Libraries';
         package: 'Pier-Seaside-Magritte'
           with: [ spec requires: #('Pier-Model-Magritte') ];
@@ -47,24 +49,14 @@ baseline: spec
         package: 'Pier-Security-Command'
           with: [ spec requires: #('Pier-Model-Command') ];
         package: 'Pier-Security-Model'
-          with: [ spec requires: #('Pillar Core') ];
+          with: [ spec requires: #('Pier-Security-Command' 'Pillar Core') ];
         package: 'Pier-Security-Widgets'
-          with: [ spec requires: #('Pier-Security-Model') ].	"spec
-        package: 'Pier-Model'
-          with: [ spec requires: #('Magritte3 Core' 'Pillar Core') ];
-        package: 'Pier-Tests-Model'
-          with: [ spec requires: #('Pier-Model' 'Magritte3 Tests' 'Pillar Tests') ];
-        package: 'Pier-Security' with: [ spec requires: #('Pier-Seaside') ];
-        package: 'Pier-Seaside'
-          with: [ spec requires: #('Pier-Model' 'Magritte3 Seaside' 'Seaside Javascript') ];
-        package: 'Pier-Tests-Seaside-Model'
-          with: [ spec requires: #('Pier-Tests-Model' 'Pier-Seaside' 'Seaside Javascript Tests') ];
-        package: 'Pier-Tests-Security'
-          with: [ spec requires: #('Pier-Security') ];
-        yourself."
+          with: [ spec requires: #('Pier-Security-Model') ].
       spec
         group: 'default' with: #('Core');
-        group: 'Core' with: #('Pier-Model' 'Pier-Security' 'Pier-Seaside');
+        group: 'Core'
+          with:
+            #('Pier-Model-Kernel' #'s' 'Pier-Security-Model' 'Pier-Security-Widgets' 'Pier-Seaside-Core');
         group: 'Tests'
           with:
             #('Core' 'Pier-Tests-Model' 'Pier-Tests-Security' 'Pier-Tests-Seaside-Model');
@@ -104,10 +96,12 @@ baseline: spec
     for: #'gemstone'
     do: [ 
       spec
-        package: 'Pier-Model' with: [ spec includes: #('Pier-GemStone-Model') ];
-        package: 'Pier-Seaside'
+        package: 'Pier-Model-Structure'
+          with: [ spec includes: #('Pier-GemStone-Model') ];
+        package: 'Pier-Seaside-Core'
           with: [ spec includes: #('Pier-GemStone-Seaside') ];
-        package: 'Pier-GemStone-Model' with: [ spec requires: #('Pier-Model') ];
+        package: 'Pier-GemStone-Model'
+          with: [ spec requires: #('Pier-Model-Structure') ];
         package: 'Pier-GemStone-Seaside'
-          with: [ spec requires: #('Pier-Seaside') ];
+          with: [ spec requires: #('Pier-Seaside-Widgets') ];
         yourself ]
