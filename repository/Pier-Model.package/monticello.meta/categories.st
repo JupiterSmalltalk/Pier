@@ -1,9 +1,0 @@
-SystemOrganization addCategory: #'Pier-Model-Command'!
-SystemOrganization addCategory: #'Pier-Model-Document'!
-SystemOrganization addCategory: #'Pier-Model-Exception'!
-SystemOrganization addCategory: #'Pier-Model-Kernel'!
-SystemOrganization addCategory: #'Pier-Model-Magritte'!
-SystemOrganization addCategory: #'Pier-Model-Persistence'!
-SystemOrganization addCategory: #'Pier-Model-Structure'!
-SystemOrganization addCategory: #'Pier-Model-Utilities'!
-SystemOrganization addCategory: #'Pier-Model-Visitor'!

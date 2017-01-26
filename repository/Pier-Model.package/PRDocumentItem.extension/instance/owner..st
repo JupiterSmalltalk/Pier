@@ -1,2 +1,0 @@
-*pier-model
-owner: anObject

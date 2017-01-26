@@ -1,3 +1,0 @@
-*pier-model
-isEmbedded
-^ false
