@@ -1,4 +1,4 @@
-*pier-model-structure
+*pier-model-magritte
 urlFromFileStructure: fileStructure
 	^ self baseUrl isNil
 		ifTrue: [ super urlFromFileStructure: fileStructure ]

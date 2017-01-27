@@ -1,3 +1,3 @@
-*pier-model-structure
+*pier-model-magritte
 urlFromFileStructure: fileStructure
 	^ fileStructure applicationUrl
