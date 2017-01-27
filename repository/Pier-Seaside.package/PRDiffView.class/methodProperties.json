@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"buildList" : "lr 7/10/2011 17:07",
+		"sourceContext" : "lr 9/28/2009 10:10",
+		"renderDiffOn:" : "NickAger 1/19/2012 16:44",
+		"renderSelectorOn:" : "lr 9/28/2009 15:16",
+		"renderContentOn:" : "lr 9/28/2009 10:07",
+		"children" : "lr 9/28/2009 10:05",
+		"labelFor:" : "lr 9/28/2009 15:22",
+		"targetContext" : "lr 9/28/2009 10:10",
+		"contexts" : "lr 9/28/2009 10:10",
+		"isVisible:" : "lr 9/28/2009 11:58"
+	},
+	"class" : {
+		"label" : "lr 9/28/2009 10:07",
+		"isAbstract" : "lr 9/28/2009 10:07"
+	}
+}

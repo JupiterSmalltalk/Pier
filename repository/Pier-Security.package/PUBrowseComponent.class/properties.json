@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "PRViewComponent",
+	"category" : "Pier-Security-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"permissions",
+		"structure"
+	],
+	"name" : "PUBrowseComponent",
+	"type" : "normal"
+}

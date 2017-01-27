@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MATextAreaComponent",
+	"category" : "Pier-Seaside-Magritte",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PRDocumentComponent",
+	"type" : "normal"
+}

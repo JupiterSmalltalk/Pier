@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WADynamicVariable",
+	"category" : "Pier-Seaside-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PRContentsRendered",
+	"type" : "normal"
+}

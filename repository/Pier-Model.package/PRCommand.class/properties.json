@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "lr 4/10/2007 21:13",
+	"super" : "PRObject",
+	"category" : "Pier-Model-Command",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"timestamp",
+		"context",
+		"checked",
+		"successAnswer",
+		"cancelAnswer"
+	],
+	"name" : "PRCommand",
+	"type" : "normal"
+}

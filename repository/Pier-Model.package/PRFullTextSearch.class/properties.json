@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "lr 4/10/2007 21:12",
+	"super" : "PREnumerableVisitor",
+	"category" : "Pier-Model-Visitor",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"acceptToken",
+		"rejectToken",
+		"caseSensitive"
+	],
+	"name" : "PRFullTextSearch",
+	"type" : "normal"
+}

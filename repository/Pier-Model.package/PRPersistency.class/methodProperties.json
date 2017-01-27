@@ -1,0 +1,20 @@
+{
+	"instance" : {
+		"defaultMutex" : "jf 9/30/2009 00:19",
+		"do:" : "lr 3/9/2006 11:29",
+		"apply:" : "lr 2/12/2007 19:07",
+		"kernel" : "lr 3/9/2006 11:29",
+		"do:for:" : "lr 3/9/2006 11:29",
+		"reverseDo:" : "lr 7/10/2011 16:58",
+		"history" : "lr 3/9/2006 11:29",
+		"setKernel:" : "lr 2/18/2009 14:33",
+		"initialize" : "lr 3/10/2009 10:42",
+		"mutex" : "lr 2/12/2007 19:07",
+		"execute:" : "lr 4/10/2007 21:50",
+		"historyFor:" : "lr 3/9/2006 11:29",
+		"reverseDo:for:" : "lr 3/9/2006 11:29"
+	},
+	"class" : {
+		"isAbstract" : "lr 1/16/2007 22:11"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "lr 11/13/2008 18:56",
+	"super" : "PRVisitor",
+	"category" : "Pier-Seaside-Visitors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"component",
+		"html"
+	],
+	"name" : "PRRenderer",
+	"type" : "normal"
+}

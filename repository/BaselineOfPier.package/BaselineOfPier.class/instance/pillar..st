@@ -25,7 +25,10 @@ pillar: spec
       spec
         project: 'Pillar Core'
           copyFrom: 'Pillar'
-          with: [ spec loads: #('Pillar-Model' 'Pillar-PetitPillar') ];
+          with: [ spec loads: #('Pillar-Model' 'Pillar-PetitPillar' 'Pillar-ExporterPillar') ];
         project: 'Pillar Tests'
           copyFrom: 'Pillar'
-          with: [ spec loads: #('Pillar-Tests-Model' 'Pillar-Tests-PetitPillar') ] ]
+          with: [ 
+              spec
+                loads:
+                  #('Pillar-Tests-Model' 'Pillar-Tests-PetitPillar' 'Pillar-Tests-ExporterPillar') ] ]

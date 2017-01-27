@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "PRDeepRenderer",
+	"category" : "Pier-Seaside-Visitors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"TextEntities"
+	],
+	"instvars" : [
+		"withinContent"
+	],
+	"name" : "PRViewRenderer",
+	"type" : "normal"
+}

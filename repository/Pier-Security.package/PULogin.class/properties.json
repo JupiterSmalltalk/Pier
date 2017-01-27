@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "PUChangeUser",
+	"category" : "Pier-Security-Command",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"username",
+		"password",
+		"user"
+	],
+	"name" : "PULogin",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PRVisitor",
+	"category" : "Pier-Seaside-Visitors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"target"
+	],
+	"name" : "PRMostSpecificInternalLinkVisitor",
+	"type" : "normal"
+}

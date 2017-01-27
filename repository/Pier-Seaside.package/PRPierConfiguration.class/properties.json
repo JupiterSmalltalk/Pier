@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "WASystemConfiguration",
+	"category" : "Pier-Seaside-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PRPierConfiguration",
+	"type" : "normal"
+}

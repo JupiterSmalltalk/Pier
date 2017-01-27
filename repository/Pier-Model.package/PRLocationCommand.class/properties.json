@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "lr 11/5/2007 21:36",
+	"super" : "PRCommand",
+	"category" : "Pier-Model-Command",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"target"
+	],
+	"name" : "PRLocationCommand",
+	"type" : "normal"
+}

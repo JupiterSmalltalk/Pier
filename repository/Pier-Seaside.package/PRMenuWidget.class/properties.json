@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PRWidget",
+	"category" : "Pier-Seaside-Deprecated",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PRMenuWidget",
+	"type" : "normal"
+}

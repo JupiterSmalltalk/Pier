@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "lr 1/11/2008 08:05",
+	"super" : "WAFileLibrary",
+	"category" : "Pier-Seaside-Libraries",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PRBlueprintLibrary",
+	"type" : "normal"
+}

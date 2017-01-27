@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PUPermission",
+	"category" : "Pier-Security-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"structure"
+	],
+	"name" : "PUAddPermission",
+	"type" : "normal"
+}

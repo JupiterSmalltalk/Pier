@@ -1,0 +1,3 @@
+decorations
+childrenDecorationClass
+	^ PRChildren

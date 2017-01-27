@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"descriptionAlternate" : "DiegoLont 4/29/2014 12:33",
+		"alternate" : "DiegoLont 4/29/2014 12:57",
+		"contents" : "DiegoLont 4/29/2014 12:21",
+		"documentFrom:" : "DiegoLont 4/28/2014 10:59",
+		"contents:" : "DiegoLont 4/29/2014 12:26",
+		"alternate:" : "DiegoLont 4/28/2014 11:18",
+		"specification" : "DiegoLont 4/28/2014 10:59",
+		"inherited:" : "DiegoLont 4/28/2014 11:12",
+		"children" : "DiegoLont 4/28/2014 11:13",
+		"buildSpecification" : "DiegoLont 4/28/2014 10:59",
+		"alternateContents" : "DiegoLont 4/29/2014 12:22",
+		"inherited" : "DiegoLont 4/28/2014 11:12",
+		"descriptionInherited" : "DiegoLont 4/28/2014 11:12",
+		"alternateContents:" : "DiegoLont 4/29/2014 12:26",
+		"document" : "DiegoLont 4/28/2014 11:25",
+		"default:" : "DiegoLont 4/28/2014 11:12",
+		"default" : "DiegoLont 4/29/2014 12:53",
+		"descriptionDefault" : "DiegoLont 4/29/2014 12:33",
+		"renderContentOn:" : "DiegoLont 4/28/2014 11:18"
+	},
+	"class" : {
+		"label" : "DiegoLont 4/28/2014 16:20",
+		"isAbstract" : "DiegoLont 4/28/2014 10:43"
+	}
+}

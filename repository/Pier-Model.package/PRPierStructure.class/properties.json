@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "lr 5/28/2006 17:41",
+	"super" : "PRDecorated",
+	"category" : "Pier-Model-Structure",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parent",
+		"name",
+		"title",
+		"tags"
+	],
+	"name" : "PRPierStructure",
+	"type" : "normal"
+}

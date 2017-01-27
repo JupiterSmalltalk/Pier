@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"accessor" : "lr 10/6/2008 11:42",
+		"owner:" : "lr 3/9/2006 11:30",
+		"doExecuteFor:" : "lr 3/9/2006 11:30",
+		"owner" : "lr 3/9/2006 11:30",
+		"descriptionOwner" : "NickAger 1/19/2012 17:15"
+	},
+	"class" : {
+		"label" : "lr 3/9/2006 11:31",
+		"isAbstract" : "lr 3/9/2006 11:31"
+	}
+}

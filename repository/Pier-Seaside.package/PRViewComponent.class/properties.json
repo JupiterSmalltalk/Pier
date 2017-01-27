@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MAComponent",
+	"category" : "Pier-Seaside-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"context"
+	],
+	"name" : "PRViewComponent",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MAElementDescription",
+	"category" : "Pier-Model-Magritte",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PRStructureDescription",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "PRWidget",
+	"category" : "Pier-Seaside-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"component",
+		"headAuthor",
+		"headKeywords",
+		"headTitle",
+		"heading"
+	],
+	"name" : "PRContentsWidget",
+	"type" : "normal"
+}

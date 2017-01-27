@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PRStructuresWidget",
+	"category" : "Pier-Seaside-Widgets",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"expanded"
+	],
+	"name" : "PRTreeWidget",
+	"type" : "normal"
+}

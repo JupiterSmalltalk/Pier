@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PRReferenceRenderer",
+	"category" : "Pier-Seaside-Visitors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PREmbeddedRenderer",
+	"type" : "normal"
+}

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "PRVisitor",
+	"category" : "Pier-Model-Visitor",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"stream"
+	],
+	"name" : "PRPath",
+	"type" : "normal"
+}

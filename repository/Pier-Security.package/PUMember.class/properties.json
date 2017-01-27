@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "PRObject",
+	"category" : "Pier-Security-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"comment"
+	],
+	"name" : "PUMember",
+	"type" : "normal"
+}

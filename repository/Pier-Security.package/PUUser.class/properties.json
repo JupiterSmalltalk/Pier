@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "PUMember",
+	"category" : "Pier-Security-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"password",
+		"token",
+		"groups",
+		"superuser",
+		"firstName",
+		"lastName",
+		"email"
+	],
+	"name" : "PUUser",
+	"type" : "normal"
+}

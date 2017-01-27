@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"userNamed:ifNone:" : "lr 2/5/2009 21:58",
+		"groups" : "lr 3/9/2006 11:30",
+		"users" : "lr 3/9/2006 11:30",
+		"groupNamed:ifNone:" : "lr 2/5/2009 21:34",
+		"adminUser" : "lr 9/27/2006 11:45",
+		"adminGroup" : "lr 9/27/2006 11:45"
+	},
+	"class" : { }
+}

@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "PRViewComponent",
+	"category" : "Pier-Seaside-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"query",
+		"items",
+		"root",
+		"hideForm"
+	],
+	"name" : "PRSearchView",
+	"type" : "normal"
+}

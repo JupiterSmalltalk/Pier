@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "WARequestFilter",
+	"category" : "Pier-Seaside-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"presenter"
+	],
+	"name" : "PRContextFilter",
+	"type" : "normal"
+}

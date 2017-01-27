@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"structure:" : "lr 1/21/2007 11:04",
+		"do:" : "lr 1/21/2007 10:49",
+		"detect:" : "NickAger 2/21/2010 10:06",
+		"select:" : "lr 4/10/2007 21:49",
+		"detect:ifNone:" : "NickAger 2/21/2010 10:05",
+		"inject:into:" : "lr 4/5/2007 17:59",
+		"anySatisfy:" : "lr 11/25/2008 09:06",
+		"do:separatedBy:" : "lr 4/5/2007 17:59",
+		"size" : "lr 5/5/2009 21:49",
+		"contents" : "lr 1/19/2007 14:07",
+		"collect:" : "lr 10/30/2006 17:13",
+		"reject:" : "lr 4/10/2007 21:49"
+	},
+	"class" : {
+		"on:" : "lr 1/21/2007 11:04"
+	}
+}

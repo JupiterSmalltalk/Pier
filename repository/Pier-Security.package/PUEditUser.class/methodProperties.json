@@ -1,0 +1,13 @@
+{
+	"instance" : {
+		"doValidate" : "lr 2/28/2010 18:25",
+		"magritteDescription" : "NickAger 1/18/2012 18:25",
+		"target" : "lr 2/28/2010 17:52"
+	},
+	"class" : {
+		"isValidIn:" : "NickAger 2/28/2010 05:11",
+		"label" : "NickAger 2/28/2010 05:12",
+		"isAbstract" : "NickAger 2/28/2010 05:11",
+		"permissions" : "lr 2/28/2010 17:42"
+	}
+}

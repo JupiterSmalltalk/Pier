@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "PRDiffAlgorithm",
+	"category" : "Pier-Model-Utilities",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"sourceSpaces",
+		"targetSpaces"
+	],
+	"name" : "PRWordDiffAlgorithm",
+	"type" : "normal"
+}

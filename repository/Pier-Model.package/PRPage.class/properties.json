@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "lr 1/15/2007 21:42",
+	"super" : "PRCase",
+	"category" : "Pier-Model-Structure",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PRPage",
+	"type" : "normal"
+}

@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "lr 6/2/2006 10:33",
+	"super" : "PRObject",
+	"category" : "Pier-Model-Kernel",
+	"classinstvars" : [
+		"instances"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"root",
+		"persistency"
+	],
+	"name" : "PRKernel",
+	"type" : "normal"
+}

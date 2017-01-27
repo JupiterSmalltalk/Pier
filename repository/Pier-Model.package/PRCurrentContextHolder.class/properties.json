@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GRNotification",
+	"category" : "Pier-Model-Kernel",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PRCurrentContextHolder",
+	"type" : "normal"
+}

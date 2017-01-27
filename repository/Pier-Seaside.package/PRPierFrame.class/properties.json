@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "MAComponent",
+	"category" : "Pier-Seaside-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"context",
+		"children"
+	],
+	"name" : "PRPierFrame",
+	"type" : "normal"
+}

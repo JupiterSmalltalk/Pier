@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "MAValidationError",
+	"category" : "Pier-Model-Exception",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"structure"
+	],
+	"name" : "PRStructureError",
+	"type" : "normal"
+}

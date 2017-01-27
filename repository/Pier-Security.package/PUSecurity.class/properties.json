@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "lr 12/20/2005 15:05",
+	"super" : "PRDecoration",
+	"category" : "Pier-Security-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"owner",
+		"ownerPermissions",
+		"group",
+		"groupPermissions",
+		"otherPermissions"
+	],
+	"name" : "PUSecurity",
+	"type" : "normal"
+}

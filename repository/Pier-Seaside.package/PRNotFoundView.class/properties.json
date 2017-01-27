@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PRErrorView",
+	"category" : "Pier-Seaside-View",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PRNotFoundView",
+	"type" : "normal"
+}

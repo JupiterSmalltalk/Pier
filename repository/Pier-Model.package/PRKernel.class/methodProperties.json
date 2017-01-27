@@ -1,0 +1,29 @@
+{
+	"instance" : {
+		"descriptionName" : "NickAger 1/18/2012 17:53",
+		"name" : "lr 1/16/2007 22:45",
+		"persistency" : "lr 1/16/2007 22:44",
+		"root" : "lr 1/16/2007 22:45",
+		"initialize" : "lr 1/17/2007 11:03",
+		"printOn:" : "lr 3/9/2006 11:29",
+		"defaultName" : "lr 9/13/2007 22:00",
+		"name:" : "lr 5/28/2006 17:10",
+		"root:" : "lr 5/28/2006 17:10",
+		"persistency:" : "lr 2/18/2009 14:39",
+		"defaultPersistency" : "lr 1/29/2008 08:59"
+	},
+	"class" : {
+		"instanceNamed:" : "lr 2/28/2010 17:47",
+		"defaultInfoSyntax" : "NickAger 2/24/2012 09:00",
+		"defaultInfoLicense" : "jf 9/24/2009 14:09",
+		"named:" : "lr 2/28/2010 17:48",
+		"remove:" : "DiegoLont 4/11/2014 16:05",
+		"reset" : "jf 9/18/2009 15:22",
+		"instances" : "lr 2/28/2010 17:47",
+		"defaultInfo" : "lr 10/9/2010 11:15",
+		"defaultRoot" : "lr 1/13/2009 20:26",
+		"defaultInfoIntroduction" : "jf 9/24/2009 15:24",
+		"isAbstract" : "lr 3/9/2006 11:30",
+		"named:root:" : "lr 2/28/2010 17:48"
+	}
+}

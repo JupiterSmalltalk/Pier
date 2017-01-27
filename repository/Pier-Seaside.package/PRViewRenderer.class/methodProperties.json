@@ -1,0 +1,37 @@
+{
+	"instance" : {
+		"visitSuperscriptFormat:" : "lr 5/20/2008 08:41",
+		"withinContentDo:" : "lr 11/13/2007 14:04",
+		"visitListItem:" : "lr 12/9/2007 17:13",
+		"initialize" : "lr 11/13/2007 14:05",
+		"visitHeader:" : "lr 5/12/2007 20:59",
+		"visitBoldFormat:" : "lr 3/30/2007 20:23",
+		"visitDefinitionList:" : "lr 12/30/2007 21:54",
+		"visitEmptyParagraph:" : "lr 12/20/2007 15:11",
+		"visitTableRow:" : "lr 12/9/2007 17:12",
+		"visitStrikethroughFormat:" : "lr 12/9/2007 17:06",
+		"visitText:" : "lr 7/10/2011 17:06",
+		"visitUnderlineFormat:" : "lr 12/9/2007 17:06",
+		"visitPreformatted:" : "jf 11/2/2009 10:39",
+		"visitOrderedList:" : "lr 12/9/2007 17:13",
+		"visitParagraph:" : "lr 8/30/2008 08:00",
+		"visitMonospaceFormat:" : "lr 12/30/2009 13:54",
+		"visitRaw:" : "DiegoLont 2/5/2014 11:22",
+		"visitLink:" : "lr 3/24/2009 23:07",
+		"visitTableCell:" : "lr 8/14/2008 09:03",
+		"visitAnchor:" : "lr 5/5/2009 09:10",
+		"visitAnnotatedParagraph:" : "lr 5/26/2009 22:20",
+		"visitSubscriptFormat:" : "lr 5/20/2008 08:41",
+		"visitLineBreak:" : "lr 12/20/2007 15:10",
+		"visitTermItem:" : "lr 12/30/2007 23:14",
+		"visitItalicFormat:" : "lr 3/30/2007 20:24",
+		"visitHorizontalRule:" : "lr 3/9/2006 11:30",
+		"visitVerbatim:" : "lr 9/25/2011 13:30",
+		"visitUnorderedList:" : "lr 12/9/2007 17:12",
+		"visitTable:" : "lr 12/9/2007 17:12",
+		"visitDataItem:" : "lr 12/30/2007 23:14"
+	},
+	"class" : {
+		"initialize" : "lr 5/2/2009 15:05"
+	}
+}

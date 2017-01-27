@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"descriptionNode" : "DiegoLont 4/29/2014 11:44",
+		"descriptionExpandActive" : "DiegoLont 4/11/2014 16:37",
+		"possibleParents" : "DiegoLont 4/29/2014 11:44",
+		"node" : "DiegoLont 4/11/2014 15:26",
+		"addAll:to:" : "DiegoLont 4/11/2014 15:37",
+		"expandActive:" : "DiegoLont 4/11/2014 16:38",
+		"node:" : "DiegoLont 4/11/2014 15:26",
+		"expandActive" : "DiegoLont 4/11/2014 16:36",
+		"unfilteredItems" : "DiegoLont 4/11/2014 15:42",
+		"renderItem:on:" : "DiegoLont 4/11/2014 16:38",
+		"descriptionOptionsNode:" : "DiegoLont 4/11/2014 15:27"
+	},
+	"class" : {
+		"label" : "DiegoLont 4/11/2014 15:17",
+		"isAbstract" : "DiegoLont 4/11/2014 15:17"
+	}
+}

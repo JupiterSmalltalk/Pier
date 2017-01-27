@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "PRStructureError",
+	"category" : "Pier-Model-Exception",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PRConflictingNameError",
+	"type" : "normal"
+}

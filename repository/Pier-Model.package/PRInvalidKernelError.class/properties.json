@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "MAValidationError",
+	"category" : "Pier-Model-Exception",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "PRInvalidKernelError",
+	"type" : "normal"
+}

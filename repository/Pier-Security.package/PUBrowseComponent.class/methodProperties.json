@@ -1,0 +1,19 @@
+{
+	"instance" : {
+		"structure:" : "lr 1/8/2010 22:23",
+		"renderContentOn:" : "lr 9/7/2009 20:46",
+		"permissions" : "lr 10/17/2006 07:20",
+		"renderPathOn:" : "lr 1/8/2010 22:31",
+		"initialize" : "lr 1/8/2010 22:23",
+		"renderTableRow:named:on:" : "lr 1/8/2010 22:24",
+		"renderTableHeadOn:" : "lr 3/18/2008 21:49",
+		"structure" : "lr 1/8/2010 22:23",
+		"defaultPermissions" : "lr 2/12/2007 19:07",
+		"renderTableOn:" : "lr 1/8/2010 22:44",
+		"renderPermissions:permissions:on:" : "lr 10/25/2010 08:52"
+	},
+	"class" : {
+		"label" : "lr 10/17/2006 07:18",
+		"isAbstract" : "lr 10/17/2006 07:15"
+	}
+}
