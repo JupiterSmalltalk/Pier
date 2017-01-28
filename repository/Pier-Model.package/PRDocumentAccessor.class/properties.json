@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "MADelegatorAccessor",
 	"category" : "Pier-Model-Magritte",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRDocumentAccessor",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MADelegatorAccessor",
+	"type" : "normal" }

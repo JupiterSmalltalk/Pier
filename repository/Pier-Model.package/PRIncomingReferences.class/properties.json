@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "lr 4/10/2007 21:12",
-	"super" : "PREnumerableVisitor",
 	"category" : "Pier-Model-Visitor",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 4/10/2007 21:12",
 	"instvars" : [
-		"structures"
-	],
+		"structures" ],
 	"name" : "PRIncomingReferences",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PREnumerableVisitor",
+	"type" : "normal" }

@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "lr 6/2/2006 10:54",
-	"super" : "PRPierStructure",
 	"category" : "Pier-Model-Structure",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 6/2/2006 10:54",
 	"instvars" : [
-		"file"
-	],
+		"file" ],
 	"name" : "PRFile",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRPierStructure",
+	"type" : "normal" }

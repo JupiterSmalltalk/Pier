@@ -1,12 +1,11 @@
 {
-	"instance" : { },
 	"class" : {
-		"migrateChildren" : "jf 9/30/2009 00:19",
-		"migrateObsoleteWidgets" : "jf 9/30/2009 00:19",
 		"initialize" : "lr 11/15/2009 23:32",
-		"migrateLinkOwner" : "jupiter 1/27/2017 22:44",
+		"migrateChildren" : "jf 9/30/2009 00:19",
 		"migrateChildrenArray" : "NickAger 1/7/2010 18:25",
-		"migrateTableCells" : "jf 9/30/2009 00:19",
-		"migrateParameters" : "jf 9/30/2009 00:19"
-	}
-}
+		"migrateLinkOwner" : "jupiter 1/27/2017 22:44",
+		"migrateObsoleteWidgets" : "jf 9/30/2009 00:19",
+		"migrateParameters" : "jf 9/30/2009 00:19",
+		"migrateTableCells" : "jf 9/30/2009 00:19" },
+	"instance" : {
+		 } }

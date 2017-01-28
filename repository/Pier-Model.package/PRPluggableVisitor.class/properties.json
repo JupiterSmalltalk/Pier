@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRVisitor",
 	"category" : "Pier-Model-Visitor",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"block"
-	],
+		"block" ],
 	"name" : "PRPluggableVisitor",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRVisitor",
+	"type" : "normal" }

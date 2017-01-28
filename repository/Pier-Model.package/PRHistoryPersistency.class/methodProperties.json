@@ -1,13 +1,12 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"maxHistory" : "lr 6/22/2008 17:58",
-		"do:" : "lr 1/29/2008 08:13",
-		"maxHistory:" : "lr 6/22/2008 17:58",
 		"add:" : "lr 5/5/2009 16:49",
-		"reverseDo:" : "lr 1/29/2008 08:13",
 		"descriptionMaxHistory" : "NickAger 1/18/2012 17:53",
+		"do:" : "lr 1/29/2008 08:13",
 		"execute:" : "lr 5/5/2009 16:49",
-		"setKernel:" : "lr 2/18/2009 14:49"
-	},
-	"class" : { }
-}
+		"maxHistory" : "lr 6/22/2008 17:58",
+		"maxHistory:" : "lr 6/22/2008 17:58",
+		"reverseDo:" : "lr 1/29/2008 08:13",
+		"setKernel:" : "lr 2/18/2009 14:49" } }

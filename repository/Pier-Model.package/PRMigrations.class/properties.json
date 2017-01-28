@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRBasicObject",
 	"category" : "Pier-Model-Utilities",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRMigrations",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRBasicObject",
+	"type" : "normal" }

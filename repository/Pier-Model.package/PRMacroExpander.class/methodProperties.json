@@ -1,21 +1,18 @@
 {
-	"instance" : {
-		"character:" : "lr 3/9/2006 11:29",
-		"defaultTable" : "lr 3/9/2006 11:29",
-		"table:" : "lr 3/9/2006 11:29",
-		"defaultCharacter" : "lr 3/9/2006 11:29",
-		"expandFrom:with:on:" : "lr 4/24/2008 08:45",
-		"expand:with:" : "lr 4/24/2008 08:46",
-		"table" : "lr 3/9/2006 11:29",
-		"initialize" : "jf 9/18/2009 15:44",
-		"expandFrom:with:" : "lr 4/24/2008 08:44",
-		"on:do:" : "lr 4/24/2008 08:15",
-		"character" : "lr 3/9/2006 11:29"
-	},
 	"class" : {
+		"default" : "lr 2/17/2009 09:30",
 		"initialize" : "lr 2/17/2009 09:31",
-		"unload" : "jf 9/23/2009 14:51",
 		"on:" : "lr 3/9/2006 11:30",
-		"default" : "lr 2/17/2009 09:30"
-	}
-}
+		"unload" : "jf 9/23/2009 14:51" },
+	"instance" : {
+		"character" : "lr 3/9/2006 11:29",
+		"character:" : "lr 3/9/2006 11:29",
+		"defaultCharacter" : "lr 3/9/2006 11:29",
+		"defaultTable" : "lr 3/9/2006 11:29",
+		"expand:with:" : "lr 4/24/2008 08:46",
+		"expandFrom:with:" : "lr 4/24/2008 08:44",
+		"expandFrom:with:on:" : "lr 4/24/2008 08:45",
+		"initialize" : "jf 9/18/2009 15:44",
+		"on:do:" : "lr 4/24/2008 08:15",
+		"table" : "lr 3/9/2006 11:29",
+		"table:" : "lr 3/9/2006 11:29" } }

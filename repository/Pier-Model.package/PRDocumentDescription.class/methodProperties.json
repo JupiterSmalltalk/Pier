@@ -1,13 +1,10 @@
 {
-	"instance" : {
-		"acceptMagritte:" : "lr 10/16/2007 20:02",
-		"writerClass" : "DamienCassou 2/27/2014 12:41",
-		"isDocumentDescription" : "lr 9/22/2008 08:38",
-		"accessor:" : "lr 4/10/2008 14:18",
-		"parserClass" : "PeterMeadows 11/14/2016 05:10"
-	},
 	"class" : {
 		"defaultKind" : "lr 9/3/2009 17:23",
-		"label" : "lr 10/17/2007 22:59"
-	}
-}
+		"label" : "lr 10/17/2007 22:59" },
+	"instance" : {
+		"acceptMagritte:" : "lr 10/16/2007 20:02",
+		"accessor:" : "lr 4/10/2008 14:18",
+		"isDocumentDescription" : "lr 9/22/2008 08:38",
+		"parserClass" : "PeterMeadows 11/14/2016 05:10",
+		"writerClass" : "DamienCassou 2/27/2014 12:41" } }

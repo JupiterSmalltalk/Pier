@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "lr 5/28/2006 17:06",
-	"super" : "Object",
 	"category" : "Pier-Model-Kernel",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 5/28/2006 17:06",
+	"instvars" : [
+		 ],
 	"name" : "PRCurrentContext",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

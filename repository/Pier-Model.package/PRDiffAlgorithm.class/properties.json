@@ -1,10 +1,10 @@
 {
-	"commentStamp" : "lr 9/28/2009 20:40",
-	"super" : "Object",
 	"category" : "Pier-Model-Utilities",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 9/28/2009 20:40",
 	"instvars" : [
 		"source",
 		"sourceMap",
@@ -13,8 +13,9 @@
 		"target",
 		"targetMap",
 		"targetText",
-		"targetRow"
-	],
+		"targetRow" ],
 	"name" : "PRDiffAlgorithm",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

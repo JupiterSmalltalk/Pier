@@ -1,9 +1,6 @@
 {
+	"class" : {
+		"structure:" : "lr 3/9/2006 11:30" },
 	"instance" : {
 		"setStructure:" : "lr 3/9/2006 11:30",
-		"structure" : "lr 3/9/2006 11:30"
-	},
-	"class" : {
-		"structure:" : "lr 3/9/2006 11:30"
-	}
-}
+		"structure" : "lr 3/9/2006 11:30" } }

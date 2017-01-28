@@ -1,11 +1,10 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"postCopy" : "lr 11/20/2007 16:23",
-		"fields" : "lr 2/8/2009 19:23",
-		"write:using:" : "lr 11/5/2007 21:38",
-		"target" : "lr 11/5/2007 21:53",
 		"doExecute" : "lr 11/6/2007 08:17",
-		"readUsing:" : "lr 11/5/2007 21:53"
-	},
-	"class" : { }
-}
+		"fields" : "lr 2/8/2009 19:23",
+		"postCopy" : "lr 11/20/2007 16:23",
+		"readUsing:" : "lr 11/5/2007 21:53",
+		"target" : "lr 11/5/2007 21:53",
+		"write:using:" : "lr 11/5/2007 21:38" } }

@@ -1,8 +1,7 @@
 {
+	"class" : {
+		 },
 	"instance" : {
+		"owner" : "DamienCassou 2/5/2014 14:09",
 		"owner:" : "DamienCassou 2/5/2014 13:38",
-		"update" : "lr 4/15/2009 17:36",
-		"owner" : "DamienCassou 2/5/2014 14:09"
-	},
-	"class" : { }
-}
+		"update" : "lr 4/15/2009 17:36" } }

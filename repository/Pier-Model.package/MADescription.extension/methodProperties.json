@@ -1,15 +1,14 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"stringAccessor:" : "DiegoLont 4/29/2014 12:13",
 		"beEditable" : "lr 5/24/2006 15:15",
-		"stringAccessor" : "DiegoLont 4/29/2014 12:13",
-		"parameterName:" : "lr 3/26/2009 20:57",
-		"parameterName" : "lr 3/26/2009 20:56",
 		"beSearchable" : "lr 12/15/2006 12:08",
 		"defaultStringAccessor" : "DiegoLont 4/29/2014 12:13",
 		"isDocumentDescription" : "lr 9/22/2008 08:39",
+		"isEditable" : "lr 5/24/2006 15:15",
 		"isSearchable" : "lr 12/15/2006 12:08",
-		"isEditable" : "lr 5/24/2006 15:15"
-	},
-	"class" : { }
-}
+		"parameterName" : "lr 3/26/2009 20:56",
+		"parameterName:" : "lr 3/26/2009 20:57",
+		"stringAccessor" : "DiegoLont 4/29/2014 12:13",
+		"stringAccessor:" : "DiegoLont 4/29/2014 12:13" } }

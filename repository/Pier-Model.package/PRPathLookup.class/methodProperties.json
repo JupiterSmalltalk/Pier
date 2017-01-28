@@ -1,20 +1,17 @@
 {
+	"class" : {
+		"isAbstract" : "DamienCassou 2/5/2014 14:00",
+		"start:path:" : "lr 4/11/2009 16:04",
+		"start:path:ifAbsent:" : "lr 4/11/2009 16:04" },
 	"instance" : {
-		"pathElement:" : "lr 3/9/2006 11:29",
-		"lookupStart:" : "lr 3/9/2006 11:29",
-		"lookupRoot:" : "lr 3/9/2006 11:29",
-		"lookup:" : "lr 9/27/2007 09:57",
+		"absentBlock" : "lr 4/11/2009 16:03",
+		"absentBlock:" : "lr 4/11/2009 16:04",
 		"childNotFound:" : "lr 4/11/2009 18:04",
+		"lookup:" : "lr 9/27/2007 09:57",
+		"lookupRoot:" : "lr 3/9/2006 11:29",
+		"lookupStart:" : "lr 3/9/2006 11:29",
 		"pathElement" : "lr 3/9/2006 11:29",
-		"visitStructure:" : "lr 9/27/2007 09:58",
+		"pathElement:" : "lr 3/9/2006 11:29",
 		"readNext" : "lr 9/27/2007 09:58",
 		"visitChildren:" : "lr 4/21/2009 18:44",
-		"absentBlock:" : "lr 4/11/2009 16:04",
-		"absentBlock" : "lr 4/11/2009 16:03"
-	},
-	"class" : {
-		"start:path:ifAbsent:" : "lr 4/11/2009 16:04",
-		"isAbstract" : "DamienCassou 2/5/2014 14:00",
-		"start:path:" : "lr 4/11/2009 16:04"
-	}
-}
+		"visitStructure:" : "lr 9/27/2007 09:58" } }

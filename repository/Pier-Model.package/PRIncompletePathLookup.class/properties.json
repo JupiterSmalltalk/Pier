@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRPathLookup",
 	"category" : "Pier-Model-Visitor",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRIncompletePathLookup",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRPathLookup",
+	"type" : "normal" }

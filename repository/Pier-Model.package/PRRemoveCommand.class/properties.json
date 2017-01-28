@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "lr 11/5/2007 21:35",
-	"super" : "PRCommand",
 	"category" : "Pier-Model-Command",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 11/5/2007 21:35",
+	"instvars" : [
+		 ],
 	"name" : "PRRemoveCommand",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRCommand",
+	"type" : "normal" }

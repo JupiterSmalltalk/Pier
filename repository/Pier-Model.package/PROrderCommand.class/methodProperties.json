@@ -1,16 +1,13 @@
 {
-	"instance" : {
-		"currentStructures" : "lr 3/18/2008 22:57",
-		"structures" : "lr 3/18/2008 22:07",
-		"doExecute" : "lr 11/15/2009 23:35",
-		"descriptionStructures" : "DiegoLont 4/14/2014 13:32",
-		"componentsOrStructures" : "jupiter 1/27/2017 22:44",
-		"structures:" : "lr 3/18/2008 22:57",
-		"doValidate" : "lr 3/18/2008 22:58"
-	},
 	"class" : {
+		"isAbstract" : "lr 3/18/2008 21:52",
 		"isValidIn:" : "lr 11/15/2009 19:57",
-		"label" : "NickAger 12/16/2011 20:02",
-		"isAbstract" : "lr 3/18/2008 21:52"
-	}
-}
+		"label" : "NickAger 12/16/2011 20:02" },
+	"instance" : {
+		"componentsOrStructures" : "jupiter 1/27/2017 22:44",
+		"currentStructures" : "lr 3/18/2008 22:57",
+		"descriptionStructures" : "DiegoLont 4/14/2014 13:32",
+		"doExecute" : "lr 11/15/2009 23:35",
+		"doValidate" : "lr 3/18/2008 22:58",
+		"structures" : "lr 3/18/2008 22:07",
+		"structures:" : "lr 3/18/2008 22:57" } }

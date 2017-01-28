@@ -1,8 +1,7 @@
 {
+	"class" : {
+		 },
 	"instance" : {
+		"embedded" : "JohnCBorden 12/5/2016 21:30",
 		"embedded:" : "JohnCBorden 12/5/2016 21:30",
-		"isEmbedded" : "JohnCBorden 12/5/2016 21:31",
-		"embedded" : "JohnCBorden 12/5/2016 21:30"
-	},
-	"class" : { }
-}
+		"isEmbedded" : "JohnCBorden 12/5/2016 21:31" } }

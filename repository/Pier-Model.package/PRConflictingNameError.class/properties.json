@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRStructureError",
 	"category" : "Pier-Model-Exception",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRConflictingNameError",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRStructureError",
+	"type" : "normal" }

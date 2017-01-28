@@ -1,14 +1,15 @@
 {
-	"commentStamp" : "lr 5/28/2006 21:19",
-	"super" : "PRPath",
 	"category" : "Pier-Model-Visitor",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 5/28/2006 21:19",
 	"instvars" : [
 		"absentBlock",
-		"pathElement"
-	],
+		"pathElement" ],
 	"name" : "PRPathLookup",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRPath",
+	"type" : "normal" }

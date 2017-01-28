@@ -1,13 +1,10 @@
 {
-	"instance" : {
-		"patchset" : "lr 9/28/2009 20:32",
-		"source:" : "lr 7/10/2011 17:11",
-		"patchsetDo:" : "lr 9/28/2009 21:24",
-		"target:" : "lr 7/10/2011 17:11",
-		"initializeFrom:to:" : "lr 9/28/2009 19:41",
-		"initializeMapping" : "lr 9/28/2009 19:40"
-	},
 	"class" : {
-		"from:to:" : "lr 9/27/2009 19:13"
-	}
-}
+		"from:to:" : "lr 9/27/2009 19:13" },
+	"instance" : {
+		"initializeFrom:to:" : "lr 9/28/2009 19:41",
+		"initializeMapping" : "lr 9/28/2009 19:40",
+		"patchset" : "lr 9/28/2009 20:32",
+		"patchsetDo:" : "lr 9/28/2009 21:24",
+		"source:" : "lr 7/10/2011 17:11",
+		"target:" : "lr 7/10/2011 17:11" } }

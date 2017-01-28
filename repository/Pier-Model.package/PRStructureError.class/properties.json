@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "MAValidationError",
 	"category" : "Pier-Model-Exception",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"structure"
-	],
+		"structure" ],
 	"name" : "PRStructureError",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MAValidationError",
+	"type" : "normal" }

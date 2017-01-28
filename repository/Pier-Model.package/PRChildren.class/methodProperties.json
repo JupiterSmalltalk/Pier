@@ -1,24 +1,21 @@
 {
+	"class" : {
+		"isAbstract" : "lr 3/9/2006 11:30" },
 	"instance" : {
-		"triggerStructureAdded:" : "lr 3/9/2006 11:29",
-		"children" : "lr 11/15/2009 23:27",
-		"setChildren:" : "lr 11/15/2009 23:26",
+		"accept:" : "lr 3/30/2007 20:01",
 		"add:" : "lr 11/15/2009 23:24",
+		"at:" : "lr 4/10/2007 21:43",
+		"at:ifAbsent:" : "lr 3/17/2008 16:21",
+		"at:ifPresent:" : "lr 3/17/2008 16:20",
+		"children" : "lr 11/15/2009 23:27",
+		"includes:" : "lr 3/17/2008 16:25",
+		"initialize" : "lr 3/17/2008 16:25",
 		"isEmpty" : "lr 3/9/2006 11:29",
 		"isValidChild:" : "lr 6/15/2009 19:50",
-		"includes:" : "lr 3/17/2008 16:25",
-		"at:" : "lr 4/10/2007 21:43",
-		"at:ifPresent:" : "lr 3/17/2008 16:20",
-		"initialize" : "lr 3/17/2008 16:25",
+		"postCopyTo:" : "lr 11/15/2009 23:27",
 		"priority" : "lr 3/9/2006 11:29",
-		"at:ifAbsent:" : "lr 3/17/2008 16:21",
 		"remove:" : "TestRunner 11/15/2009 23:29",
+		"setChildren:" : "lr 11/15/2009 23:26",
 		"size" : "lr 5/28/2006 17:47",
-		"accept:" : "lr 3/30/2007 20:01",
-		"triggerStructureRemoved:" : "lr 3/9/2006 11:29",
-		"postCopyTo:" : "lr 11/15/2009 23:27"
-	},
-	"class" : {
-		"isAbstract" : "lr 3/9/2006 11:30"
-	}
-}
+		"triggerStructureAdded:" : "lr 3/9/2006 11:29",
+		"triggerStructureRemoved:" : "lr 3/9/2006 11:29" } }

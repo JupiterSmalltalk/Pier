@@ -1,13 +1,10 @@
 {
+	"class" : {
+		"currentStructure" : "lr 9/27/2007 09:55",
+		"isValidCharacter:" : "NorbertHartl 10/9/2010 11:55",
+		"isValidName:" : "NorbertHartl 10/9/2010 11:55",
+		"parentStructure" : "lr 9/27/2007 09:54",
+		"pathDelimiter" : "lr 9/27/2007 09:55" },
 	"instance" : {
 		"stream" : "lr 3/9/2006 11:29",
-		"stream:" : "lr 3/9/2006 11:29"
-	},
-	"class" : {
-		"isValidCharacter:" : "NorbertHartl 10/9/2010 11:55",
-		"pathDelimiter" : "lr 9/27/2007 09:55",
-		"currentStructure" : "lr 9/27/2007 09:55",
-		"parentStructure" : "lr 9/27/2007 09:54",
-		"isValidName:" : "NorbertHartl 10/9/2010 11:55"
-	}
-}
+		"stream:" : "lr 3/9/2006 11:29" } }

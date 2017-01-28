@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "lr 5/30/2006 19:16",
-	"super" : "PRObject",
 	"category" : "Pier-Model-Structure",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 5/30/2006 19:16",
 	"instvars" : [
-		"decorated"
-	],
+		"decorated" ],
 	"name" : "PRDecoration",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRObject",
+	"type" : "normal" }

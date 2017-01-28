@@ -1,16 +1,17 @@
 {
-	"commentStamp" : "<historical>",
-	"super" : "PRCommand",
 	"category" : "Pier-Model-Command",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		"name",
 		"type",
 		"link",
-		"title"
-	],
+		"title" ],
 	"name" : "PRAddCommand",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRCommand",
+	"type" : "normal" }

@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "lr 2/5/2009 12:33",
-	"super" : "PRLink",
 	"category" : "Pier-Model-Document",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 2/5/2009 12:33",
 	"instvars" : [
-		"selector"
-	],
+		"selector" ],
 	"name" : "PRValueLink",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRLink",
+	"type" : "normal" }
