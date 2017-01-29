@@ -1,0 +1,19 @@
+{
+  "name": "pier-sass",
+  "title": "Pier-SASS",
+  "description": "A sass framework for pier cms projects.",
+  "version": "0.2.0",
+  "homepage": "",
+  "author": {
+    "name": "Jupiter Jones",
+    "email": "jupiter@mynation.earth"
+  },
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-copy": "^0.8.2"
+  }
+}

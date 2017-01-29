@@ -1,0 +1,117 @@
+/* Pier 4 Style */
+
+html, body {
+	height: 100%;
+	padding: 0;
+	margin: 0;
+	font-family: "Helvetica", "Verdana", sans-serif;
+}
+
+body {
+	background-color: rgba(0,0,0,0.1);
+}
+
+.pier4 {
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+.brand {
+	height: 50%;
+	background-image: url(pier4.jpg);
+	background-size: cover;
+	background-position: 50% 70%;
+	display: flex;
+	justify-content: space-around;
+	padding-top: 2%;
+}
+
+.logo {
+	/* border: 1px solid white; */
+	width: 40%;
+	height: 20%;
+	background-size: fill;
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-image: url(pierLogoWhite.svg);
+	filter: drop-shadow(3px 3px 5px rgba(255,255,255,0.5));
+	
+}
+
+.byline {
+	height: 20%;
+	display: flex;
+	align-items: flex-end;
+	justify-content: space-between;
+	flex-direction: column;
+	color: rgba(255,255,255,0.65);
+}
+
+.byline p {
+	margin: 0px;
+	text-align: right;
+}
+
+.byline .version {
+	font-size: 8pt;
+}
+
+.welcome {
+	height: 50%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	text-align: center;
+}
+
+.welcome > div {
+	line-height: 0.5em;
+}
+
+.details {
+	display: flex;
+	height: 60%;
+}
+
+.details > div {
+	/* border: 1px solid white; */
+	display: flex;
+	padding: 16px;
+	flex-direction: column;
+	justify-content: space-between;
+	flex-basis: 25%;
+	color: rgba(255,255,255,0.85);
+	text-shadow: 1px 1px 2px rgba(0,0,0,1);
+	background-size: cover;
+}
+
+.details > div:nth-child(1) {
+	background-image: url(objects.jpg);
+}
+.details > div:nth-child(2) {
+	background-image: url(extensible.jpg);
+}
+.details > div:nth-child(3) {
+	background-image: url(openSource.jpg);
+}
+.details > div:nth-child(4) {
+	background-image: url(testing.jpg);
+}
+
+.details dt {
+	text-align: center;
+	font-size: 16pt;
+	font-weight: bold;
+}
+
+.details dd {
+	text-align: left;
+	font-size: 11pt;
+	line-height: 1.6em;
+	margin: 0;
+}
+
+.nobreak {
+	white-space:nowrap;
+

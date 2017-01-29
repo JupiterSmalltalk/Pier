@@ -1,0 +1,13 @@
+// Default theme for Pier CMS 4+
+
+@import "../../../bower_components/css-reset-and-normalize-sass/scss/flavored-reset-and-normalize.scss";
+@import "../../../bower_components/font-awesome-sass/assets/stylesheets/font-awesome.scss";
+
+@import url('https://fonts.googleapis.com/css?family=Amatica+SC:400,700|Dosis:200,400,600,800');
+
+@import "defaults/variables";
+
+@import "components/brand";
+@import "components/commands";
+@import "components/forms";
+@import "components/site";

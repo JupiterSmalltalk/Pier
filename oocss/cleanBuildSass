@@ -1,0 +1,20 @@
+#!/bin/bash
+# Removes old frontend build (if any) and builds a fresh one
+
+echo "Removing old sass components and modules..."
+rm -rf bower_components
+rm -rf node_modules
+
+echo "Building sass..."
+npm install
+bower install
+
+echo "Checking Ruby... (not implemented)"
+
+echo "Installing Ruby... (not implemented)"
+
+echo "Installing sass gem... (not implemented)"
+
+echo
+echo "Sass is up and running!"
+echo

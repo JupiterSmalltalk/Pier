@@ -1,0 +1,30 @@
+// PierCMS site
+
+html, body {
+	height: 100%;
+}
+
+body {
+	background-color: rgba(0,0,0,0.1);
+	line-height: 20px;
+	font-family: 'Dosis', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+a { text-decoration: none; }
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Amatica SC', cursive;
+	margin-top: 0.5em;
+}
+h1 { font-size: 2em; font-weight: bold; }
+h2 { font-size: 1.8em; }
+h3 { font-size: 1.6em; }
+h4 { font-size: 1.4em; }
+h5 { font-size: 1.2em; }
+h6 { font-size: 1.0em; }
+
+.nobreak {
+	white-space:nowrap;
+}

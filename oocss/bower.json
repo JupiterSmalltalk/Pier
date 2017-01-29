@@ -1,0 +1,31 @@
+{
+  "name": "Sass base for PierCMS",
+  "version": "0.2.0",
+  "description": "UI/UX SASS base toolkit for PierCMS",
+  "keywords": [
+    "flow",
+    "sass",
+    "oocss",
+    "pier",
+    "piercms",
+    "smalltalk",
+    "seaside"
+  ],
+  "authors": [
+    "jupiter@mynation.earth"
+  ],
+  "license": "MIT",
+  "homepage": "piercms.mynation.earth",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "css-reset-and-normalize-sass": "^0.1.2",
+    "font-awesome-sass": "^4.7.0"
+  }
+}
