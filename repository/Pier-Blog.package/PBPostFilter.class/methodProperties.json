@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"groupLabel" : "lr 9/3/2008 11:46" },
+	"instance" : {
+		"blog" : "lr 11/6/2007 18:16",
+		"descriptionMaxItems" : "NickAger 1/22/2012 08:45",
+		"descriptionShowCount" : "NickAger 1/22/2012 08:45",
+		"filter:" : "lr 11/6/2007 18:56",
+		"findBlog" : "lr 5/2/2009 10:04",
+		"findPost" : "lr 5/2/2009 10:04",
+		"maxItems" : "NickAger 1/22/2012 14:07",
+		"maxItems:" : "NickAger 1/22/2012 14:07",
+		"onChangeContext:" : "lr 11/6/2007 19:01",
+		"posts" : "lr 11/6/2007 18:12",
+		"refresh" : "lr 11/6/2007 19:02",
+		"renderBlogOn:" : "lr 11/6/2007 18:14",
+		"renderContentOn:" : "lr 11/6/2007 18:45",
+		"renderFilter:with:on:" : "lr 11/6/2007 18:58",
+		"showCount" : "NickAger 1/22/2012 13:51",
+		"showCount:" : "NickAger 1/22/2012 13:51" } }

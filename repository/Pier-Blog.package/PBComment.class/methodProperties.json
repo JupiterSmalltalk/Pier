@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"canBeChildOf:" : "lr 1/15/2007 20:04",
+		"canBeParentOf:" : "lr 1/15/2007 20:04",
+		"label" : "lr 1/8/2010 22:05" },
+	"instance" : {
+		"accept:" : "lr 1/15/2007 16:08",
+		"confirmation" : "lr 5/22/2007 22:47",
+		"confirmation:" : "lr 5/22/2007 22:47",
+		"descriptionAuthor" : "NickAger 1/22/2012 08:32",
+		"descriptionConfirmation" : "NickAger 1/22/2012 08:32",
+		"descriptionDocument" : "NickAger 1/22/2012 08:32",
+		"descriptionWebsite" : "NickAger 1/22/2012 08:32",
+		"initialize" : "jf 10/28/2009 23:43",
+		"isComment" : "lr 1/14/2007 13:23",
+		"website" : "lr 1/19/2008 20:44",
+		"website:" : "DiegoLont 8/19/2013 11:49" } }

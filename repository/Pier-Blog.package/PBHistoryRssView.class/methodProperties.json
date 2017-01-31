@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"isAbstract" : "lr 9/28/2009 10:03",
+		"label" : "lr 9/28/2009 09:19" },
+	"instance" : {
+		"buildItems" : "lr 9/27/2009 20:17",
+		"isFiltered" : "lr 9/27/2009 20:13",
+		"isVisible:" : "lr 10/2/2008 16:35",
+		"items" : "lr 9/27/2009 19:41",
+		"maxSize" : "lr 10/6/2008 16:32",
+		"renderBasic:on:" : "jf 11/3/2009 11:12",
+		"renderBody:on:" : "StephanEggermont 3/11/2014 11:08",
+		"renderData:on:" : "NickAger 1/22/2012 11:17",
+		"renderItem:on:" : "lr 10/2/2008 16:00",
+		"renderRssOn:" : "lr 10/6/2008 16:12",
+		"renderTags:on:" : "lr 10/2/2008 16:00",
+		"renderUser:on:" : "lr 10/2/2008 16:00",
+		"title" : "lr 10/2/2008 16:34",
+		"titleFor:" : "jf 9/14/2009 15:06",
+		"url" : "lr 10/2/2008 16:44",
+		"urlFor:" : "lr 10/2/2008 16:48" } }

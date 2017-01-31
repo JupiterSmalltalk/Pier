@@ -1,0 +1,3 @@
+accessing
+blog
+	^ blog

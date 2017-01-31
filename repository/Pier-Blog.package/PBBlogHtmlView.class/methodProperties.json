@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"isAbstract" : "lr 1/15/2007 21:05",
+		"isValidIn:" : "lr 1/19/2007 19:13",
+		"label" : "lr 9/4/2008 13:47" },
+	"instance" : {
+		"batcher" : "lr 2/5/2007 19:27",
+		"children" : "NickAger 6/16/2011 15:23",
+		"posts" : "lr 1/14/2008 10:17",
+		"posts:" : "lr 11/6/2007 18:52",
+		"renderBatcherOn:" : "lr 2/5/2007 19:30",
+		"renderContentOn:" : "lr 2/5/2007 20:05" } }

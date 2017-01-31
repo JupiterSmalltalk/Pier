@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Blog-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"comments" ],
+	"name" : "PBCommentsRssView",
+	"pools" : [
+		 ],
+	"super" : "PBBlogRssView",
+	"type" : "normal" }

@@ -1,24 +1,117 @@
 // PierCMS Commands Component
 
 .commands {
-	position: fixed;
-	top: 0;
-	right: 0;
-	background-color: rgba(0,0,0,0.25);
-	color: rgba(255,255,255,0.65);
-	border-radius: 6px;
-	padding: 12px;
+	@include slideInPanel(
+		$panel-width: 250px,
+		$panel-location: right, 
+		$panel-position: top,
+		$panel-tab-position: middle,
+		$panel-tab-icon: $fa-var-cog);
+	@include menuIcon("Add", $fa-var-plus);
+	@include menuIcon("Group", $fa-var-group);
+	@include menuIcon("Other", $fa-var-user);
+	@include menuIcon("Owner", $fa-var-globe);
+	@include menuIcon("Copy", $fa-var-clone);
+	@include menuIcon("Edit", $fa-var-pencil);
+	@include menuIcon("Login", $fa-var-sign-in);
+	@include menuIcon("Move", $fa-var-arrows);
+	@include menuIcon("Re-order", $fa-var-sort);
+	@include menuIcon("Remove", $fa-var-trash);
+	@include menuIcon("Settings", $fa-var-wrench);
+	@include menuIcon("v", $fa-var-eye, accessKey);
 	
-	a {
-		color: inherit;
-	}
-	
-	a[title="Add (a)"] {
-	
-		&:before {
-			content: $fa-var-plus;
-			@include fa-icon();
-			margin-right: 6px;
+	ul {
+		border-radius: $menu-border-radius;
+		padding: 12px;
+		
+		li {
+			padding: 0 6px;
+			border-radius: $menu-border-radius;
+			&:hover {
+				background-color: $menu-highlight-colour;
+			}
 		}
 	}
+}
+
+.viewsMenu {
+	@include slideInPanel(
+		$panel-width: 150px,
+		$panel-location: left, 
+		$panel-position: top,
+		$panel-tab-position: middle,
+		$panel-tab-icon: $fa-var-user);
+	
+	ul {
+		border-radius: $menu-border-radius;
+		padding: 12px;
+		
+		li {
+			padding: 0 6px;
+			border-radius: $menu-border-radius;
+			&:hover {
+				background-color: $menu-highlight-colour;
+			}
+		}
+	}
+
+	@include menuIcon("Browse", $fa-var-folder-open);
+	@include menuIcon("Changes", $fa-var-file-text-o);
+	@include menuIcon("Diff", $fa-var-exchange);
+	@include menuIcon("File", $fa-var-file);
+	@include menuIcon("Log", $fa-var-file-text-o);
+	@include menuIcon("Search", $fa-var-search);
+	@include menuIcon("Text", $fa-var-font);
+	@include menuIcon("View", $fa-var-eye);
+	@include menuIcon("Wiki", $fa-var-wikipedia-w);
+}
+
+.componentMenu {
+	@include slideInPanel(
+		$panel-height: 72px,
+		$panel-location: top, 
+		$panel-position: center,
+		$panel-tab-position: center,
+		$panel-tab-icon: $fa-var-briefcase);
+	
+	ul {
+		border-radius: $menu-border-radius;
+		padding: 12px;
+		display: flex;
+		
+		li {
+			padding: 0 6px;
+			border-radius: $menu-border-radius;
+			&:hover {
+				background-color: $menu-highlight-colour;
+			}
+		}
+	}
+}
+
+.projectsMenu {
+	@include slideInPanel(
+		$panel-height: 72px,
+		$panel-location: bottom, 
+		$panel-position: left,
+		$panel-tab-position: left,
+		$panel-tab-icon: $fa-var-star);
+	
+	ul {
+		border-radius: $menu-border-radius;
+		padding: 12px;
+		display: flex;
+		
+		li {
+			padding: 0 6px;
+			border-radius: $menu-border-radius;
+			&:hover {
+				background-color: $menu-highlight-colour;
+			}
+		}
+	}
+
+	@include menuIcon("Group", $fa-var-group);
+	@include menuIcon("Other", $fa-var-user);
+	@include menuIcon("Owner", $fa-var-globe);
 }

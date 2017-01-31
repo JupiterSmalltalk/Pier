@@ -2,17 +2,21 @@
 
 html, body {
 	height: 100%;
+	overflow: hidden;
 }
 
 body {
 	background-color: rgba(0,0,0,0.1);
-	line-height: 20px;
+	line-height: 24px;
 	font-family: 'Dosis', sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
 
-a { text-decoration: none; }
+a {
+	text-decoration: none;
+	color: inherit;
+}
 
 h1, h2, h3, h4, h5, h6 {
 	font-family: 'Amatica SC', cursive;

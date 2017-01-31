@@ -1,0 +1,317 @@
+/*
+	Pier CMS Generic Slide-in Panel
+	
+	@include slideInPanel (
+		$panel-width: auto;
+		$panel-height: auto;
+		$panel-location: right, 
+		$panel-position: top,
+		$panel-padding: 12px,
+		$panel-border-radius: 6px;
+		$panel-tab-size: 26px;
+		$panel-tab-position: top,
+		$panel-tab-icon: $fa-var-cog,
+		$panel-tab-content,
+		$panel-background-color: rgba(0,0,0,0.4),
+		$panel-text-color: rgba(255,255,255,0.8)
+	);
+
+	$panel-width: <width of panel>
+		This is be the width of the panel.
+		It must be specified when $location is right or left
+		It is optional when $location is top or bottom
+		Default: auto
+
+	$panel-height: <height of panel>
+		This is be the height of the panel.
+		It must be specified when $location is top or bottom
+		It is optional when $location is left or right
+		Default: none
+
+	$panel-location: top | bottom | left | right
+		This is where the panel will slide in from.
+		Default: right
+
+	$panel-position: left | center | right | top | middle | bottom
+		This is where the panel will be positioned relative to $location
+		if $location is top or bottom, vales can be: left | center | right
+		if $location is left or right, vales can be: top | middle | bottom
+		Default: top
+
+	$panel-border-radius: <radius size>
+		This is the border radius on the panel and tab
+		Default: 6px
+
+	$panel-tab-size: <size>
+		This will be the size of the tab.
+		It will be the tab height for $location top and bottom and
+		the tab width if the $location is left or right
+		Default: 26px
+
+	$panel-tab-position: left | center | right | top | middle | bottom
+		This is where the visible tab will be located on the panel
+		if $location is top or bottom, vales can be: left | center | right
+		if $location is left or right, vales can be: top | middle | bottom
+		Default: top
+
+	$panel-tab-icon: <icon content for the panel tab>
+		This will be the icon displayed on the panel's tab
+		Default: if FontAwesome SASS is visible, it will use the fa-icon-cog content variable
+
+	$panel-tab-content: <content for the panel tab>
+		This will be the content for the panel's tab. It will be displayed after the $panel-tab-icon
+		Default: none
+
+	$panel-background-color: <color>
+		This is the color of the tab background all direct children.
+		Default: rgba(0,0,0,0.65)
+
+	$panel-text-color: <color>
+		This is the color of the panel and tab text
+		Default: rgba(255,255,255,0.8)
+*/
+	
+@mixin slideInPanel(
+	$panel-width: auto,
+	$panel-height: auto,
+	$panel-location: right, 
+	$panel-position: top,
+	$panel-border-radius: 6px,
+	$panel-tab-size: 26px,
+	$panel-tab-position: top,
+	$panel-tab-icon: "|||",
+	$panel-tab-content: "",
+	$panel-background-color: rgba(0,0,0,0.65),
+	$panel-text-color: rgba(255,255,255,0.8)) {
+
+	// Check for errors, warn, and set sane values
+	@each $location in (left, right) {
+		@if $panel-location == $location {
+			@if $panel-width == auto { 
+				@warn "#{$panel-location} panels require a $panel-width argument. using default of 200px.";
+				$panel-width: 200px;
+			}
+			@each $position in (left, center, right) {
+				@if $panel-position == $position { 
+					@warn "#{$panel-location} panels require a $panel-position of top, middle or bottom. $panel-position of #{$panel-position} can not be used. Changing to default of top.";
+					$panel-position: top;
+				}
+				@if $panel-tab-position == $position { 
+					@warn "#{$panel-position} panels require a $panel-tab-position of top, middle or bottom. $panel-tab-position of #{$panel-tab-position} can not be used. Changing to default of top.";
+					$panel-tab-position: top;
+				}
+			}
+		}
+	}
+	@each $location in (top, bottom) {
+		@if $panel-location == $location {
+			@if $panel-height == auto { 
+				@warn "#{$panel-location} panels require a $panel-width argument. using default of 200px.";
+				$panel-height: 200px;
+			}
+			@each $position in (top, middle, bottom) {
+				@if $panel-position == $position { 
+					@warn "#{$panel-location} panels require a $panel-position of left, center or right. $panel-position of #{$panel-position} can not be used. Changing to default of left.";
+					$panel-position: left;
+				}
+				@if $panel-position == $position { 
+					@warn "#{$panel-location} panels require a $panel-tab-position of left, center or right. $panel-tab-position of #{$panel-tab-position} can not be used. Changing to default of left.";
+					$panel-tab-position: left;
+				}
+			}
+		}
+	}
+	
+	// SlideInPanel defaults
+	position: absolute;
+	color: $panel-text-color;
+    z-index:9999;
+    -webkit-transition:margin 350ms ease-in-out;
+    
+	@if $panel-location == left {
+		left: 0;
+		margin-left: $panel-tab-size - $panel-width;
+		width: $panel-width;
+		
+		@if $panel-position == top {
+			top: 0;
+		} @else if $panel-position == middle {
+			top: 50%;
+		} @else if $panel-position == bottom {
+			bottom: 0;
+		}
+		
+		&:hover {
+			margin-left: 0px;
+		}
+		
+		&:after {
+			@if $panel-tab-content == "" {	
+				content: $panel-tab-icon
+			} @else {
+				content: $panel-tab-icon $panel-tab-content;
+				-webkit-transform:rotate(90deg);
+			}
+			@include fa-icon();
+			position:absolute;
+			right: 0;
+			width: $panel-tab-size;
+			border-top-right-radius: $panel-border-radius;
+			border-bottom-right-radius: $panel-border-radius;
+			padding: 8px;
+			background-color: $panel-background-color;
+			
+			@if $panel-tab-position == top {
+				top: 8px;
+			} @else if $panel-tab-position == middle {
+				top: 50%;
+				margin-top: - ($panel-tab-size / 2) - 4;
+			} @else if $panel-tab-position == bottom {
+				bottom: 8px;
+			}
+		}
+		
+		> * {
+			margin-right: $panel-tab-size - 1;
+			background-color: $panel-background-color;
+		}
+	}
+
+	@if $panel-location == right {
+		right: 0;
+		margin-right: $panel-tab-size - $panel-width;
+		width: $panel-width;
+		
+		@if $panel-position == top {
+			top: 0;
+		} @else if $panel-position == middle {
+			top: 50%;
+		} @else if $panel-position == bottom {
+			bottom: 0;
+		}
+		
+		&:hover {
+			margin-right: 0px;
+		}
+		
+		&:before {
+			@if $panel-tab-content == "" {	
+				content: $panel-tab-icon
+			} @else {
+				content: $panel-tab-icon $panel-tab-content;
+				-webkit-transform:rotate(-90deg);
+			}	
+			@include fa-icon();
+			position:absolute;
+			left: 0;
+			width: $panel-tab-size;
+			display:block;
+			border-top-left-radius: $panel-border-radius;
+			border-bottom-left-radius: $panel-border-radius;
+			padding: 8px;
+			background-color: $panel-background-color;
+			
+			@if $panel-tab-position == top {
+				top: 8px;
+			} @else if $panel-tab-position == middle {
+				top: 50%;
+				margin-top: - ($panel-tab-size / 2) - 4;
+			} @else if $panel-tab-position == bottom {
+				bottom: 8px;
+			}
+		}
+		
+		> * {
+			margin-left: $panel-tab-size - 1;
+			background-color: $panel-background-color;
+		}
+	}
+	
+	@if $panel-location == top {
+		top: 0;
+		margin-top: $panel-tab-size - $panel-height;
+		height: $panel-height;
+		
+		@if $panel-position == left {
+			left: 0;
+		} @else if $panel-position == center {
+			left: 50%;
+		} @else if $panel-position == right {
+			right: 0;
+		}
+		
+		&:hover {
+			margin-top: 0px;
+		}
+		
+		&:before {	
+			content: $panel-tab-icon $panel-tab-content;
+			@include fa-icon();
+			position:absolute;
+			bottom: 0;
+			height: $panel-tab-size;
+			border-bottom-left-radius: $panel-border-radius;
+			border-bottom-right-radius: $panel-border-radius;
+			padding: 8px;
+			background-color: $panel-background-color;
+			
+			@if $panel-tab-position == left {
+				left: 8px;
+			} @else if $panel-tab-position == center {
+				left: 50%;
+				margin-left: - ($panel-tab-size / 2) - 4;
+			} @else if $panel-tab-position == bottom {
+				right: 8px;
+			}
+		}
+		
+		> * {
+			margin-bottom: $panel-tab-size - 1;
+			background-color: $panel-background-color;
+		}
+	}
+	
+	@if $panel-location == bottom {
+		bottom: 0;
+		margin-bottom: $panel-tab-size - $panel-height;
+		height: $panel-height;
+		
+		@if $panel-position == left {
+			left: 0;
+		} @else if $panel-position == center {
+			left: 50%;
+		} @else if $panel-position == right {
+			right: 0;
+		}
+		
+		&:hover {
+			margin-bottom: 0px;
+		}
+		
+		&:before {	
+			content: $panel-tab-icon $panel-tab-content;
+			@include fa-icon();
+			position:absolute;
+			top: 0;
+			height: $panel-tab-size;
+			border-top-left-radius: $panel-border-radius;
+			border-top-right-radius: $panel-border-radius;
+			padding: 8px;
+			background-color: $panel-background-color;
+			
+			@if $panel-tab-position == left {
+				left: 8px;
+			} @else if $panel-tab-position == center {
+				left: 50%;
+				margin-left: - ($panel-tab-size / 2) - 4;
+			} @else if $panel-tab-position == bottom {
+				right: 8px;
+			}
+		}
+		
+		> * {
+			margin-top: $panel-tab-size - 1;
+			background-color: $panel-background-color;
+		}
+	}
+}

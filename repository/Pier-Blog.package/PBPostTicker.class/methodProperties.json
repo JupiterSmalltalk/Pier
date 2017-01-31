@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"groupLabel" : "lr 9/3/2008 11:46",
+		"isAbstract" : "lr 2/7/2007 14:32",
+		"label" : "lr 9/3/2008 11:36" },
+	"instance" : {
+		"blog" : "NickAger 1/22/2012 14:11",
+		"blog:" : "NickAger 1/22/2012 14:11",
+		"descriptionBlog" : "NickAger 1/22/2012 08:45",
+		"descriptionNumberOfCharacters" : "NickAger 1/22/2012 08:45",
+		"descriptionNumberOfPosts" : "NickAger 1/22/2012 08:45",
+		"numberOfCharacters" : "NickAger 1/22/2012 14:11",
+		"numberOfCharacters:" : "NickAger 1/22/2012 14:11",
+		"numberOfPosts" : "NickAger 1/22/2012 14:11",
+		"numberOfPosts:" : "NickAger 1/22/2012 14:11",
+		"posts" : "lr 2/18/2009 15:43",
+		"renderAuthorForPost:on:" : "dc 11/7/2008 17:04",
+		"renderContentOn:" : "damiencassou 11/13/2008 15:36",
+		"renderDateForPost:on:" : "StephanEggermont 3/4/2014 13:38",
+		"renderPost:on:" : "lr 5/25/2009 15:04",
+		"renderRssOn:" : "damiencassou 11/13/2008 15:51",
+		"renderTimeForPost:on:" : "StephanEggermont 3/4/2014 13:42",
+		"summaryOf:" : "NickAger 01/14/2011 14:36",
+		"updateRoot:" : "lr 6/27/2009 11:10" } }

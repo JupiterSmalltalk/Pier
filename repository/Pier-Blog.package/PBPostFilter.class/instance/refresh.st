@@ -1,0 +1,3 @@
+actions
+refresh
+	blog := nil

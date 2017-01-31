@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Blog-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sourceUrl",
+		"sourceTitle",
+		"enclosure" ],
+	"name" : "PBPost",
+	"pools" : [
+		 ],
+	"super" : "PBEntry",
+	"type" : "normal" }

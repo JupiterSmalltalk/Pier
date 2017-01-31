@@ -1,0 +1,175 @@
+// PierCMS Generic Menus
+
+$menu-width: 220px;
+$menu-height: 370px;
+$menu-tab-width: 30px;
+$menu-tab-icon: $fa-var-cog;
+$menu-colour: rgba(0,0,0,0.35);
+$menu-text-colour: rgba(255,255,255,0.65);
+$menu-highlight-colour: rgba(255,255,255,0.25);
+$menu-border-radius: 6px;
+$menu-padding-base: 6px;
+
+@mixin menuIcon($title, $icon, $attribute: title) {
+	a[#{$attribute}~="#{$title}"] {
+		&:before {
+			content: $icon;
+			@include fa-icon();
+			width: 20px;
+			text-align: center;
+			margin-right: 8px;
+		}
+	}
+}
+
+@mixin slideInMenu($vertical: top, $horizontal: right, $slideFrom: right) {
+	@if $vertical == top {
+		
+	} @else if $vertical == bottom {
+
+	}
+	
+	@if $horizontal == left {
+		
+	} @else if $horizontal == right {
+		
+	}
+	
+	@if $slideFrom == right {
+		@include slideInMenuTemplateFromRight()
+	} @else if $slideFrom == left {
+		@include slideInMenuTemplateFromLeft()
+	} @else if $slideFrom == top {
+		@include slideInMenuTemplateFromTop()
+	}
+	
+}
+
+@mixin slideInMenuTemplateFromRight() {
+	top: 0;
+	right: 0;
+	position: absolute;
+	width: $menu-width;
+	margin-right: $menu-tab-width - $menu-width;
+    -webkit-transition:margin 400ms ease-in-out;
+	color: $menu-text-colour;
+    z-index:1;
+	
+	ul {
+		border-radius: $menu-border-radius;
+		padding: 12px;
+		margin-left: $menu-tab-width - 1;
+		background-color: $menu-colour;
+		
+		li {
+			padding: 0 6px;
+			border-radius: $menu-border-radius;
+			&:hover {
+				background-color: $menu-highlight-colour;
+			}
+		}
+	}
+	
+    &:hover {
+		margin-right: 0px;
+	}
+	
+	&:before {	
+		content: $menu-tab-icon;
+		@include fa-icon();
+		position:absolute;
+		top: 8px;
+		border-top-left-radius: $menu-border-radius;
+		border-bottom-left-radius: $menu-border-radius;
+		padding: 8px;
+		background-color: $menu-colour;
+	}
+}
+
+@mixin slideInMenuTemplateFromLeft() {
+	top: 0;
+	left: 0;
+	position: absolute;
+	width: $menu-width;
+	margin-left: $menu-tab-width - $menu-width;
+    -webkit-transition:margin 400ms ease-in-out;
+	color: $menu-text-colour;
+    z-index:1;
+	
+	ul {
+		border-radius: $menu-border-radius;
+		padding: 12px;
+		margin-right: $menu-tab-width - 1;
+		background-color: $menu-colour;
+		
+		li {
+			padding: 0 6px;
+			border-radius: $menu-border-radius;
+			&:hover {
+				background-color: $menu-highlight-colour;
+			}
+		}
+	}
+	
+    &:hover {
+		margin-left: 0px;
+	}
+	
+	&:after {	
+		content: $menu-tab-icon;
+		@include fa-icon();
+		position:absolute;
+		top: 8px;
+		right: 0px;
+		border-top-right-radius: $menu-border-radius;
+		border-bottom-right-radius: $menu-border-radius;
+		padding: 8px;
+		background-color: $menu-colour;
+	}
+}
+
+@mixin slideInMenuTemplateFromTop() {
+	top: 0;
+	right: 0;
+	position: absolute;
+	height: $menu-height;
+	margin-top: $menu-tab-width - $menu-height;
+    -webkit-transition:margin 400ms ease-in-out;
+	color: $menu-text-colour;
+    z-index:1;
+    
+    ul:last-child {
+    	margin-bottom: $menu-tab-width - 1;
+    }
+	
+	ul {
+		border-radius: $menu-border-radius;
+		padding: 12px;
+		background-color: $menu-colour;
+		
+		li {
+			padding: 0 6px;
+			border-radius: $menu-border-radius;
+			&:hover {
+				background-color: $menu-highlight-colour;
+			}
+		}
+	}
+	
+    &:hover {
+		margin-top: 0px;
+	}
+	
+	&:after {	
+		content: $menu-tab-icon;
+		@include fa-icon();
+		position:absolute;
+		right: 8px;
+		bottom: 0;
+		border-bottom-left-radius: $menu-border-radius;
+		border-bottom-right-radius: $menu-border-radius;
+		padding: 8px;
+		background-color: $menu-colour;
+	}
+}
+

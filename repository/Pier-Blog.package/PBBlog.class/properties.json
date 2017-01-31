@@ -1,0 +1,22 @@
+{
+	"category" : "Pier-Blog-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Languages" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"managingEditor",
+		"webMaster",
+		"copyright",
+		"language",
+		"itemCount",
+		"feedTitle",
+		"commentTimeout",
+		"feedForward",
+		"socialSharingWidgetClassName" ],
+	"name" : "PBBlog",
+	"pools" : [
+		 ],
+	"super" : "PRCase",
+	"type" : "normal" }

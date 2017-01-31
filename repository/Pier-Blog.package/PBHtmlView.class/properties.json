@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-Blog-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JohnCBorden 4/23/2014 06:14",
+	"instvars" : [
+		"blog",
+		"socialSharingWidget" ],
+	"name" : "PBHtmlView",
+	"pools" : [
+		 ],
+	"super" : "PRDefaultView",
+	"type" : "normal" }

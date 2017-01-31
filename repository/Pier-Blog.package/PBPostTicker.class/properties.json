@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Blog-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"numberOfCharacters",
+		"numberOfPosts",
+		"blog" ],
+	"name" : "PBPostTicker",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

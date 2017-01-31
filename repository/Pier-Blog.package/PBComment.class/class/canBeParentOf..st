@@ -1,0 +1,3 @@
+testing
+canBeParentOf: aClass
+	^ false

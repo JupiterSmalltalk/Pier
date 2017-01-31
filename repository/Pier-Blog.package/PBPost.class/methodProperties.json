@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"canBeChildOf:" : "lr 1/15/2007 22:02",
+		"label" : "lr 1/8/2010 22:05" },
+	"instance" : {
+		"accept:" : "lr 1/15/2007 16:08",
+		"descriptionEnclosure" : "NickAger 1/22/2012 08:32",
+		"descriptionSourceTitle" : "NickAger 1/22/2012 08:32",
+		"descriptionSourceUrl" : "NickAger 1/22/2012 08:32",
+		"descriptionTags" : "NickAger 1/22/2012 08:32",
+		"enclosure" : "lr 1/27/2007 18:30",
+		"enclosure:" : "lr 2/12/2007 19:07",
+		"isPost" : "lr 1/14/2007 13:44",
+		"isValidView:in:" : "lr 1/29/2007 13:50",
+		"sourceTitle" : "lr 2/18/2009 16:28",
+		"sourceTitle:" : "lr 2/12/2007 19:07",
+		"sourceUrl" : "lr 2/18/2009 16:28",
+		"sourceUrl:" : "lr 2/12/2007 19:07",
+		"viewComponentClass" : "lr 2/5/2007 19:38" } }

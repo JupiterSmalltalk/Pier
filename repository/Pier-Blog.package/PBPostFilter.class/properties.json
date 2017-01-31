@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Blog-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"blog",
+		"showCount",
+		"maxItems" ],
+	"name" : "PBPostFilter",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

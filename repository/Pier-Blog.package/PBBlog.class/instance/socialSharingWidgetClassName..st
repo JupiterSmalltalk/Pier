@@ -1,0 +1,3 @@
+accessing
+socialSharingWidgetClassName: anObjectName
+	socialSharingWidgetClassName := anObjectName

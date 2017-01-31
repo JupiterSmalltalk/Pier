@@ -3475,105 +3475,226 @@ textarea {
   clip: auto;
 }
 
+/*
+	Pier CMS Generic Slide-in Panel
+	
+	@include slideInPanel (
+		$panel-width: auto;
+		$panel-height: auto;
+		$panel-location: right, 
+		$panel-position: top,
+		$panel-padding: 12px,
+		$panel-border-radius: 6px;
+		$panel-tab-size: 26px;
+		$panel-tab-position: top,
+		$panel-tab-icon: $fa-var-cog,
+		$panel-tab-content,
+		$panel-background-color: rgba(0,0,0,0.4),
+		$panel-text-color: rgba(255,255,255,0.8)
+	);
+
+	$panel-width: <width of panel>
+		This is be the width of the panel.
+		It must be specified when $location is right or left
+		It is optional when $location is top or bottom
+		Default: auto
+
+	$panel-height: <height of panel>
+		This is be the height of the panel.
+		It must be specified when $location is top or bottom
+		It is optional when $location is left or right
+		Default: none
+
+	$panel-location: top | bottom | left | right
+		This is where the panel will slide in from.
+		Default: right
+
+	$panel-position: left | center | right | top | middle | bottom
+		This is where the panel will be positioned relative to $location
+		if $location is top or bottom, vales can be: left | center | right
+		if $location is left or right, vales can be: top | middle | bottom
+		Default: top
+
+	$panel-border-radius: <radius size>
+		This is the border radius on the panel and tab
+		Default: 6px
+
+	$panel-tab-size: <size>
+		This will be the size of the tab.
+		It will be the tab height for $location top and bottom and
+		the tab width if the $location is left or right
+		Default: 26px
+
+	$panel-tab-position: left | center | right | top | middle | bottom
+		This is where the visible tab will be located on the panel
+		if $location is top or bottom, vales can be: left | center | right
+		if $location is left or right, vales can be: top | middle | bottom
+		Default: top
+
+	$panel-tab-icon: <icon content for the panel tab>
+		This will be the icon displayed on the panel's tab
+		Default: if FontAwesome SASS is visible, it will use the fa-icon-cog content variable
+
+	$panel-tab-content: <content for the panel tab>
+		This will be the content for the panel's tab. It will be displayed after the $panel-tab-icon
+		Default: none
+
+	$panel-background-color: <color>
+		This is the color of the tab background all direct children.
+		Default: rgba(0,0,0,0.65)
+
+	$panel-text-color: <color>
+		This is the color of the panel and tab text
+		Default: rgba(255,255,255,0.8)
+*/
 .pier4 {
   height: 100%;
   display: flex;
   flex-direction: column;
 }
 .pier4 .brand {
-  height: 50%;
+  height: 55%;
   background-image: url(../images/pier/pier4.jpg);
   background-size: cover;
   background-position: 50% 70%;
   display: flex;
-  justify-content: space-around;
+  flex-direction: column;
+  justify-content: space-between;
   padding-top: 2%;
 }
-.pier4 .brand .logo {
-  /* border: 1px solid white; */
-  width: 40%;
-  height: 25%;
+.pier4 .brand > div {
+  display: flex;
+  justify-content: space-around;
+  flex-basis: 30%;
+}
+.pier4 .brand > div .logo {
+  flex-basis: 30%;
   background-size: fill;
   background-repeat: no-repeat;
   background-position: left top;
   background-image: url(../images/brand/pierLogoWhite.svg);
   filter: drop-shadow(3px 3px 5px rgba(255, 255, 255, 0.5));
 }
-.pier4 .brand .byline {
-  height: 25%;
+.pier4 .brand > div .byline {
   display: flex;
+  flex-basis: 50%;
   align-items: flex-end;
   justify-content: space-between;
   flex-direction: column;
+  text-align: right;
   color: rgba(255, 255, 255, 0.65);
 }
-.pier4 .brand .byline h4 {
-  margin: 0px;
-  text-align: right;
-}
-.pier4 .brand .byline .version {
-  font-size: 8pt;
-  font-weight: 200;
-}
-.pier4 .welcome {
-  height: 50%;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  text-align: center;
-}
-.pier4 .welcome .details {
-  display: flex;
-  height: 60%;
-}
-.pier4 .welcome .details > div {
-  /* border: 1px solid white; */
-  display: flex;
-  padding: 16px;
-  flex-direction: column;
-  justify-content: space-between;
-  flex-basis: 25%;
-  color: rgba(255, 255, 255, 0.85);
-  text-shadow: 1px 1px 2px black;
-  background-size: cover;
-}
-.pier4 .welcome .details > div:nth-child(1) {
-  background-image: url(../images/pier/objects.jpg);
-}
-.pier4 .welcome .details > div:nth-child(2) {
-  background-image: url(../images/pier/extensible.jpg);
-}
-.pier4 .welcome .details > div:nth-child(3) {
-  background-image: url(../images/pier/openSource.jpg);
-}
-.pier4 .welcome .details > div:nth-child(4) {
-  background-image: url(../images/pier/testing.jpg);
-}
-.pier4 .welcome .details > div dt {
-  text-align: center;
-  font-size: 16pt;
-  font-weight: bold;
-}
-.pier4 .welcome .details > div dd {
-  text-align: left;
+.pier4 .brand > div .byline .version {
   font-size: 11pt;
   font-weight: 400;
-  margin: 0;
+}
+.pier4 .brand ul.menu {
+  width: 100%;
+  height: 65px;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.25);
+  display: flex;
+  justify-content: space-around;
+}
+.pier4 .brand ul.menu li a {
+  color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(0, 0, 0, 0.25);
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  padding: 8px 16px;
+}
+.pier4 .brand ul.menu li a.active, .pier4 .brand ul.menu li a:hover {
+  color: black;
+  background-color: rgba(255, 255, 255, 0.65);
+  border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.pier4 .brand ul.menu li a.active {
+  background-color: rgba(255, 255, 255, 0.75);
+  font-weight: 800;
+}
+.pier4 .welcome {
+  height: 45%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-items: baseline;
+  text-align: center;
+  padding: 24px;
+}
+.pier4 .welcome h1 {
+  font-size: 60pt;
+  letter-spacing: -6pt;
+  word-spacing: -4pt;
+  line-height: 36pt;
+  position: relative;
+  left: -5pt;
+}
+.pier4 .welcome h3 {
+  letter-spacing: -1pt;
+  word-spacing: -1pt;
+  margin-bottom: 12px;
+}
+.pier4 .welcome dt h4 {
+  font-weight: bold;
+  font-size: 1.6em;
+  margin-bottom: 12px;
+}
+.pier4 .welcome div:not(:nth-child(1)) {
+  flex: 0 25%;
+}
+.pier4 .welcome div:nth-child(1) {
+  order: 2;
+  flex: 3 45%;
+}
+.pier4 .welcome div:nth-child(2) {
+  order: 1;
+}
+.pier4 .welcome div:nth-child(3) {
+  order: 3;
+}
+.pier4 .welcome div:nth-child(4) {
+  order: 4;
+}
+.pier4 .welcome div:nth-child(5) {
+  order: 5;
 }
 
 .commands {
-  position: fixed;
-  top: 0;
+  position: absolute;
+  color: rgba(255, 255, 255, 0.8);
+  z-index: 9999;
+  -webkit-transition: margin 350ms ease-in-out;
   right: 0;
-  background-color: rgba(0, 0, 0, 0.25);
-  color: rgba(255, 255, 255, 0.65);
-  border-radius: 6px;
-  padding: 12px;
+  margin-right: -224px;
+  width: 250px;
+  top: 0;
 }
-.commands a {
-  color: inherit;
+.commands:hover {
+  margin-right: 0px;
 }
-.commands a[title="Add (a)"]:before {
+.commands:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: absolute;
+  left: 0;
+  width: 26px;
+  display: block;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  padding: 8px;
+  background-color: rgba(0, 0, 0, 0.65);
+  top: 50%;
+  margin-top: -17px;
+}
+.commands > * {
+  margin-left: 25px;
+  background-color: rgba(0, 0, 0, 0.65);
+}
+.commands a[title~="Add"]:before {
   content: "";
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
@@ -3581,7 +3702,438 @@ textarea {
   text-rendering: auto;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  margin-right: 6px;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.commands a[title~="Group"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.commands a[title~="Other"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.commands a[title~="Owner"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.commands a[title~="Copy"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.commands a[title~="Edit"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.commands a[title~="Login"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.commands a[title~="Move"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.commands a[title~="Re-order"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.commands a[title~="Remove"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.commands a[title~="Settings"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.commands a[accessKey~="v"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.commands ul {
+  border-radius: 6px;
+  padding: 12px;
+}
+.commands ul li {
+  padding: 0 6px;
+  border-radius: 6px;
+}
+.commands ul li:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+.viewsMenu {
+  position: absolute;
+  color: rgba(255, 255, 255, 0.8);
+  z-index: 9999;
+  -webkit-transition: margin 350ms ease-in-out;
+  left: 0;
+  margin-left: -124px;
+  width: 150px;
+  top: 0;
+}
+.viewsMenu:hover {
+  margin-left: 0px;
+}
+.viewsMenu:after {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: absolute;
+  right: 0;
+  width: 26px;
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+  padding: 8px;
+  background-color: rgba(0, 0, 0, 0.65);
+  top: 50%;
+  margin-top: -17px;
+}
+.viewsMenu > * {
+  margin-right: 25px;
+  background-color: rgba(0, 0, 0, 0.65);
+}
+.viewsMenu ul {
+  border-radius: 6px;
+  padding: 12px;
+}
+.viewsMenu ul li {
+  padding: 0 6px;
+  border-radius: 6px;
+}
+.viewsMenu ul li:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+.viewsMenu a[title~="Browse"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.viewsMenu a[title~="Changes"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.viewsMenu a[title~="Diff"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.viewsMenu a[title~="File"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.viewsMenu a[title~="Log"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.viewsMenu a[title~="Search"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.viewsMenu a[title~="Text"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.viewsMenu a[title~="View"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.viewsMenu a[title~="Wiki"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+
+.componentMenu {
+  position: absolute;
+  color: rgba(255, 255, 255, 0.8);
+  z-index: 9999;
+  -webkit-transition: margin 350ms ease-in-out;
+  top: 0;
+  margin-top: -46px;
+  height: 72px;
+  left: 50%;
+}
+.componentMenu:hover {
+  margin-top: 0px;
+}
+.componentMenu:before {
+  content: "" "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: absolute;
+  bottom: 0;
+  height: 26px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  padding: 8px;
+  background-color: rgba(0, 0, 0, 0.65);
+  left: 50%;
+  margin-left: -17px;
+}
+.componentMenu > * {
+  margin-bottom: 25px;
+  background-color: rgba(0, 0, 0, 0.65);
+}
+.componentMenu ul {
+  border-radius: 6px;
+  padding: 12px;
+  display: flex;
+}
+.componentMenu ul li {
+  padding: 0 6px;
+  border-radius: 6px;
+}
+.componentMenu ul li:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+
+.projectsMenu {
+  position: absolute;
+  color: rgba(255, 255, 255, 0.8);
+  z-index: 9999;
+  -webkit-transition: margin 350ms ease-in-out;
+  bottom: 0;
+  margin-bottom: -46px;
+  height: 72px;
+  left: 0;
+}
+.projectsMenu:hover {
+  margin-bottom: 0px;
+}
+.projectsMenu:before {
+  content: "" "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  position: absolute;
+  top: 0;
+  height: 26px;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+  padding: 8px;
+  background-color: rgba(0, 0, 0, 0.65);
+  left: 8px;
+}
+.projectsMenu > * {
+  margin-top: 25px;
+  background-color: rgba(0, 0, 0, 0.65);
+}
+.projectsMenu ul {
+  border-radius: 6px;
+  padding: 12px;
+  display: flex;
+}
+.projectsMenu ul li {
+  padding: 0 6px;
+  border-radius: 6px;
+}
+.projectsMenu ul li:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+}
+.projectsMenu a[title~="Group"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.projectsMenu a[title~="Other"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
+}
+.projectsMenu a[title~="Owner"]:before {
+  content: "";
+  display: inline-block;
+  font: normal normal normal 14px/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  width: 20px;
+  text-align: center;
+  margin-right: 8px;
 }
 
 .magritte h3 {
@@ -3619,11 +4171,12 @@ textarea {
 
 html, body {
   height: 100%;
+  overflow: hidden;
 }
 
 body {
   background-color: rgba(0, 0, 0, 0.1);
-  line-height: 20px;
+  line-height: 24px;
   font-family: 'Dosis', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -3631,6 +4184,7 @@ body {
 
 a {
   text-decoration: none;
+  color: inherit;
 }
 
 h1, h2, h3, h4, h5, h6 {

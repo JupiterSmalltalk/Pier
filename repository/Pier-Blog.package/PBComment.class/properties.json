@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Blog-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"website" ],
+	"name" : "PBComment",
+	"pools" : [
+		 ],
+	"super" : "PBEntry",
+	"type" : "normal" }

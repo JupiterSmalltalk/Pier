@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Blog-Seaside",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 6/16/2011 15:59",
+	"instvars" : [
+		 ],
+	"name" : "PBSocialWidgetsAddThis",
+	"pools" : [
+		 ],
+	"super" : "WAPresenter",
+	"type" : "normal" }

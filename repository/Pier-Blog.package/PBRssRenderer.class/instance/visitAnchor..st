@@ -1,0 +1,2 @@
+visiting-document
+visitAnchor: anObject
