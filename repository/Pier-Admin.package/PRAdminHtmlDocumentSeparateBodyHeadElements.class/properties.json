@@ -1,0 +1,17 @@
+{
+	"category" : "Pier-Admin-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 2/13/2012 15:23",
+	"instvars" : [
+		"bodyHtml",
+		"currentStream",
+		"bodyScripts",
+		"htmlRoot" ],
+	"name" : "PRAdminHtmlDocumentSeparateBodyHeadElements",
+	"pools" : [
+		 ],
+	"super" : "WAHtmlDocument",
+	"type" : "normal" }

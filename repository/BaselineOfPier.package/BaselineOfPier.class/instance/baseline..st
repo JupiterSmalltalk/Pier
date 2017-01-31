@@ -24,7 +24,10 @@ baseline: spec
         package: 'Pier-Blog' with: [ spec requires: #('Pier-Model') ];
         package: 'Pier-EditorEnh' with: [ spec requires: #('Pier-Model') ];
         package: 'Pier-Wysiwyg' with: [ spec requires: #('Pier-EditorEnh') ];
-        package: 'Pier-Admin' with: [ spec requires: #('Pier-Seaside') ];
+        package: 'Pier-Kernel-Distributions'
+          with: [ spec requires: #('Pier-Model') ];
+        package: 'Pier-Admin'
+          with: [ spec requires: #('Pier-Seaside' 'Pier-Kernel-Distributions') ];
         yourself.
       spec
         group: 'default' with: #('Core');

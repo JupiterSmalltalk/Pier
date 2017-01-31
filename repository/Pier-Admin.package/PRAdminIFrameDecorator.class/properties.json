@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Admin-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 11/25/2011 11:15",
+	"instvars" : [
+		 ],
+	"name" : "PRAdminIFrameDecorator",
+	"pools" : [
+		 ],
+	"super" : "WADecoration",
+	"type" : "normal" }

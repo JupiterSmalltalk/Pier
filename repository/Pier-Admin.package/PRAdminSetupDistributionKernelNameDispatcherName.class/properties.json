@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Admin-Setup-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"distribution",
+		"kernelName",
+		"dispatcherName" ],
+	"name" : "PRAdminSetupDistributionKernelNameDispatcherName",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

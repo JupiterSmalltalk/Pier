@@ -1,0 +1,3 @@
+announcing
+announcementUnregister
+	self session pierAdminAnnouncer unsubscribe: self

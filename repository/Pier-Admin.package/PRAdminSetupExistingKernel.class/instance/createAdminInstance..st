@@ -1,0 +1,3 @@
+running
+createAdminInstance: selectedKernelPathPair
+	^ PRAdminLogin registerForAdministering: selectedKernelPathPair

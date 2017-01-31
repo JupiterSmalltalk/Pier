@@ -1,0 +1,17 @@
+{
+	"category" : "Pier-Admin-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 2/13/2012 17:15",
+	"instvars" : [
+		"commandsComponent",
+		"tabsComponent",
+		"navigatorComponent",
+		"pierComponent" ],
+	"name" : "PRAdminUI",
+	"pools" : [
+		 ],
+	"super" : "PRAdminAnnouncingComponent",
+	"type" : "normal" }

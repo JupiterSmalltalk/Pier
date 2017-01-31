@@ -1,0 +1,3 @@
+accessing
+numColumns
+	^ 12

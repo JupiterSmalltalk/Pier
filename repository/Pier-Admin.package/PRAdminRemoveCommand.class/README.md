@@ -1,0 +1,1 @@
+I specialise ==PRRemoveCommand== to add a script to the ajax update which will remove the selected entry node from the navigator tree in the admin UI. 

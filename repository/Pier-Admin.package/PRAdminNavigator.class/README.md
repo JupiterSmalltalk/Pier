@@ -1,0 +1,1 @@
+I render the navigator on the left-hand-side of the Admin UI. I also provide a context sensitive right-click menu when a node is selected and respond to requests on the menu. 

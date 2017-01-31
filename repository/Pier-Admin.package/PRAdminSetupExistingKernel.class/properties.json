@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Admin-Setup-ExistingKernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRAdminSetupExistingKernel",
+	"pools" : [
+		 ],
+	"super" : "WATask",
+	"type" : "normal" }

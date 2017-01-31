@@ -1,0 +1,3 @@
+constants
+containerId
+	^ #setupAdminKernelFromTemplate

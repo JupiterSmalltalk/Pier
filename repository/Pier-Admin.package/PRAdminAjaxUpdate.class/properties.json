@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Admin-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 2/13/2012 17:18",
+	"instvars" : [
+		"script" ],
+	"name" : "PRAdminAjaxUpdate",
+	"pools" : [
+		 ],
+	"super" : "Announcement",
+	"type" : "normal" }

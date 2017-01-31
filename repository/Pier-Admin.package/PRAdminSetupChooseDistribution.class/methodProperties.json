@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"applicationPath" : "NickAger 3/6/2012 16:38",
+		"applicationPath:" : "NickAger 3/6/2012 11:58",
+		"applicationPathDescription" : "NickAger 3/27/2012 23:20",
+		"children" : "NickAger 3/6/2012 11:59",
+		"descriptionContainer" : "jupiter 01/31/2017 13:40",
+		"distributions" : "NickAger 3/22/2012 07:46",
+		"kernelName" : "NickAger 3/6/2012 16:37",
+		"kernelName:" : "NickAger 3/6/2012 11:58",
+		"kernelNameDescription" : "NickAger 3/27/2012 23:20",
+		"pierKernelNames" : "NickAger 3/6/2012 13:15",
+		"renderAjaxSelectUpdateOn:" : "NickAger 3/22/2012 18:00",
+		"renderContentOn:" : "NickAger 3/21/2012 16:47",
+		"selectDistributionComponent" : "NickAger 3/28/2012 15:28",
+		"selectedDistribution" : "NickAger 3/6/2012 11:58",
+		"selectedDistribution:" : "NickAger 3/6/2012 11:58",
+		"selectedDistributionDescription" : "NickAger 3/28/2012 12:38",
+		"suggestApplicationPathFrom:" : "NickAger 3/6/2012 16:37",
+		"suggestKernelNameFrom:" : "NickAger 9/2/2012 10:13" } }

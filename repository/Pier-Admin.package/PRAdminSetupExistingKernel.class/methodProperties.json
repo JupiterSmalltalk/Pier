@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"adminInstanceAlreadyAssociatedWithKernel:" : "NickAger 3/5/2012 16:45",
+		"chooseExistingKernel" : "NickAger 3/5/2012 13:42",
+		"confirmAdminInstance:alreadyAssociatedWith:" : "NickAger 3/22/2012 18:59",
+		"createAdminInstance:" : "NickAger 3/5/2012 15:14",
+		"go" : "NickAger 09/01/2012 06:34",
+		"informInstanceCreatedForPath:kernel:" : "NickAger 3/22/2012 19:00",
+		"numColumns" : "NickAger 3/22/2012 15:56",
+		"redirectTo:" : "NickAger 3/6/2012 11:04" } }

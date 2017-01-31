@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-Admin-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 2/13/2012 17:08",
+	"instvars" : [
+		"contextGetCallback",
+		"contextSetCallback" ],
+	"name" : "PRAdminUIChild",
+	"pools" : [
+		 ],
+	"super" : "PRAdminAnnouncingComponent",
+	"type" : "normal" }

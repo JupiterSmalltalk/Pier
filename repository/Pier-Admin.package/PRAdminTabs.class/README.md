@@ -1,0 +1,2 @@
+I render the view tabs along the top of the Admin UI. The views I display are defined in the ==/config/pieradmin==, in the ""Tabbed Views"" entry under the ""Pier Admin"" section. By default the following views are defined:
++value:source|class=PRAdminConfigurator|selector=defaultViews+

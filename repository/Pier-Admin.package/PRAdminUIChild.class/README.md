@@ -1,0 +1,1 @@
+I provide a base for the admin ui components, allowing context sharing between components.

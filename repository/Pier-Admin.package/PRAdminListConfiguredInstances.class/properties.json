@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Admin-Setup-ConfiguredInstances",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"configuredInstancesKernelPathsPairs" ],
+	"name" : "PRAdminListConfiguredInstances",
+	"pools" : [
+		 ],
+	"super" : "PRAdminSetupOverlaySupportBase",
+	"type" : "normal" }

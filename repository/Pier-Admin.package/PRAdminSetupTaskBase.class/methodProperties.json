@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"containerId" : "NickAger 3/6/2012 15:08" },
+	"instance" : {
+		"confirmApplicationReplacementAt:" : "NickAger 3/22/2012 18:51",
+		"confirmCreateAdminInstanceFor:at:" : "NickAger 3/22/2012 18:44",
+		"createAdminInstanceFor:dispatcher:at:" : "NickAger 3/6/2012 15:08",
+		"ifPresentConfirmRemovalOfApplicationAt:" : "NickAger 3/7/2012 18:00",
+		"informAdminInstanceCreatedAt:" : "NickAger 3/22/2012 18:52",
+		"informRedirectTo:" : "NickAger 3/22/2012 18:54",
+		"isApplicationAlreadyRegisteredAt:" : "NickAger 3/7/2012 17:55",
+		"numColumns" : "NickAger 3/22/2012 15:59",
+		"queryAdminUICreationFor:at:" : "NickAger 3/6/2012 15:10",
+		"redirectTo:" : "NickAger 3/6/2012 15:08",
+		"removeApplicationRegisteredAt:" : "NickAger 3/7/2012 18:14" } }

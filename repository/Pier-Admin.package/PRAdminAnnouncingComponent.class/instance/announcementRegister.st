@@ -1,0 +1,3 @@
+announcing
+announcementRegister
+	self subclassResponsibility

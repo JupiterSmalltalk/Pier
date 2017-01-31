@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"commandClasses" : "NickAger 2/13/2012 16:48",
+		"defaultViews" : "NickAger 2/13/2012 16:02",
+		"describeAdminKernelPathPairOn:" : "NickAger 3/7/2012 08:44",
+		"describeGlobalCommandsOn:" : "NickAger 3/7/2012 08:44",
+		"describeOn:" : "NickAger 3/7/2012 08:44",
+		"describeViewsOn:" : "NickAger 3/7/2012 08:44",
+		"excludedCommandClasses" : "NickAger 2/14/2012 10:46",
+		"filteredCommandClasses" : "NickAger 2/13/2012 16:51" } }

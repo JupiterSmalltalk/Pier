@@ -1,0 +1,1 @@
+I am an ==Announcement== and hold a script which components write to to update themselves.

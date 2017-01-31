@@ -1,0 +1,1 @@
+I am the base for all admin ui components and provide common announcement support.

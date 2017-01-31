@@ -1,0 +1,1 @@
+Used during Ajax rendering cycles to set ==PRAdminHtmlDocumentSeparateBodyHeadElements== as the document type. ==PRAdminRequestContext== also provides access to the rendered document, allowing separate elements stored by ==PRAdminHtmlDocumentSeparateBodyHeadElements== to be extracted after rendering.

@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Admin-Setup-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 2/13/2012 16:27",
+	"instvars" : [
+		 ],
+	"name" : "PRAdminConfigurator",
+	"pools" : [
+		 ],
+	"super" : "WASystemConfiguration",
+	"type" : "normal" }

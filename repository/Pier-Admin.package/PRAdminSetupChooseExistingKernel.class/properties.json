@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Admin-Setup-ExistingKernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectKernelComponent",
+		"selectedKernelPathPair",
+		"kernelPathsPairs" ],
+	"name" : "PRAdminSetupChooseExistingKernel",
+	"pools" : [
+		 ],
+	"super" : "PRAdminSetupOverlaySupportBase",
+	"type" : "normal" }

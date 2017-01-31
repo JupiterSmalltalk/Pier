@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"chooseDistribution" : "NickAger 9/2/2012 11:56",
+		"createKernelNamed:adminUserPassword:" : "NickAger 9/2/2012 11:40",
+		"createSiteAt:forDistribution:onKernel:" : "NickAger 3/30/2012 17:39",
+		"defineAdminUserForDistribution:" : "NickAger 9/2/2012 11:24",
+		"go" : "NickAger 9/2/2012 11:54",
+		"numColumns" : "NickAger 3/22/2012 15:57",
+		"registerApplicationAtPath:kernel:" : "NickAger 3/3/2012 09:59",
+		"selectAndCreateFromTemplateDistribution" : "NickAger 9/2/2012 12:04" } }

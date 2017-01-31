@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Admin-Setup-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 3/7/2012 08:35",
+	"instvars" : [
+		"tabWidget" ],
+	"name" : "PRAdminSetup",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

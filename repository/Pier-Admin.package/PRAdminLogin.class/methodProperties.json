@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"registerAt:administering:" : "NickAger 3/5/2012 14:53",
+		"registerForAdministering:" : "NickAger 3/5/2012 15:13",
+		"renderAssociatedPierInstanceLinkFor:text:on:" : "NickAger 3/7/2012 18:50" },
+	"instance" : {
+		"children" : "NickAger 2/28/2012 18:26",
+		"handleLoginAnswer:" : "NickAger 3/7/2012 08:58",
+		"kernelPathPair" : "NickAger 3/5/2012 14:53",
+		"loginComponent" : "NickAger 3/5/2012 16:22",
+		"pierComponent" : "NickAger 3/3/2012 09:19",
+		"renderAssociatedInstanceLinkOn:" : "NickAger 3/7/2012 18:55",
+		"renderContentOn:" : "NickAger 3/7/2012 18:53",
+		"renderTitleOn:" : "NickAger 3/5/2012 16:26",
+		"states" : "NickAger 2/28/2012 18:24",
+		"updateRoot:" : "NickAger 3/5/2012 16:36" } }

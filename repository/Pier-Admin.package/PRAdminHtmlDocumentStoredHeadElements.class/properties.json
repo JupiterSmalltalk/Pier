@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Admin-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 2/13/2012 15:25",
+	"instvars" : [
+		 ],
+	"name" : "PRAdminHtmlDocumentStoredHeadElements",
+	"pools" : [
+		 ],
+	"super" : "WAHtmlDocument",
+	"type" : "normal" }

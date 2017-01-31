@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Admin-Setup-NewKernelFromDistribution",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 2/29/2012 14:54",
+	"instvars" : [
+		 ],
+	"name" : "PRAdminSetupCreateKernelFromTemplate",
+	"pools" : [
+		 ],
+	"super" : "PRAdminSetupTaskBase",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"initialize" : "jupiter 01/31/2017 13:05",
+		"recursiveDispatcherHandersDo:" : "NickAger 3/5/2012 14:29",
+		"recursiveHandersOn:path:do:" : "NickAger 3/5/2012 14:26" },
+	"instance" : {
+		"children" : "NickAger 9/1/2012 17:24",
+		"renderContentOn:" : "NickAger 3/21/2012 15:54",
+		"renderTabsOn:" : "NickAger 9/1/2012 17:25",
+		"renderTitleOn:" : "NickAger 3/20/2012 16:07",
+		"renderTitleStrapLineOn:" : "NickAger 3/28/2012 12:33",
+		"tabWidget" : "jupiter 01/31/2017 13:31",
+		"tabWidget2" : "jupiter 01/31/2017 13:28",
+		"updateRoot:" : "NickAger 3/10/2012 00:19" } }

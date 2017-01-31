@@ -1,0 +1,1 @@
+Stores the head script and styles that are included during a page request in requestContext properties. This allows subsequent ajax updates to ensure that the same script isn't included multiple times. Only used on the initial full-page request.

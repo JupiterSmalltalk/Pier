@@ -1,0 +1,1 @@
+Ensures that ==PRAdminHtmlRoot== is used during rendering.

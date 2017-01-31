@@ -1,0 +1,18 @@
+{
+	"category" : "Pier-Admin-Setup-NewKernelFromDistribution",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedDistribution",
+		"distributions",
+		"selectDistributionComponent",
+		"kernelName",
+		"applicationPath" ],
+	"name" : "PRAdminSetupChooseDistribution",
+	"pools" : [
+		 ],
+	"super" : "PRAdminSetupOverlaySupportBase",
+	"type" : "normal" }

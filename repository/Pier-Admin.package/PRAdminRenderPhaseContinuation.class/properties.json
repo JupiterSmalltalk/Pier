@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Admin-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 11/25/2011 12:01",
+	"instvars" : [
+		 ],
+	"name" : "PRAdminRenderPhaseContinuation",
+	"pools" : [
+		 ],
+	"super" : "WARenderPhaseContinuation",
+	"type" : "normal" }

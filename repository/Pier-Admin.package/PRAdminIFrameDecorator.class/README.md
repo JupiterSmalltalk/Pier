@@ -1,0 +1,1 @@
+PRAdminIFrameDecorator retrieves the head script and styles generated during the initial rendering phase (from the requestContext) and initialises the iframe's script and style cache. It removes itself from its decorated component after the first rendering.

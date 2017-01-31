@@ -1,0 +1,3 @@
+private
+excludedCommandClasses
+	^ #(PRWikiTextEditingCommand PRAddCommand PREditCommand PRCopyCommand PROrderCommand PRRemoveCommand PRAdminRemoveCommand PRMoveCommand PRViewCommand PULogin PULogout PRSettingsCommand PUChangeOwner PUChangeGroup PUChangeOther)

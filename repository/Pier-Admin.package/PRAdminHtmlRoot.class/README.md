@@ -1,0 +1,1 @@
+PRAdminHtmlRoot provides accessors for retrieving head script and styles generated during a render phase.

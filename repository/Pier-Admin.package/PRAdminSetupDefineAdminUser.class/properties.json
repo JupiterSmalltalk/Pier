@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-Admin-Setup-NewKernelFromDistribution",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"password",
+		"name" ],
+	"name" : "PRAdminSetupDefineAdminUser",
+	"pools" : [
+		 ],
+	"super" : "GRObject",
+	"type" : "normal" }

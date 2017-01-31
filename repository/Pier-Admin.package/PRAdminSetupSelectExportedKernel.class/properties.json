@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-Admin-Setup-RecreateExportedKernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedKernel",
+		"selectExportedKernelComponent" ],
+	"name" : "PRAdminSetupSelectExportedKernel",
+	"pools" : [
+		 ],
+	"super" : "PRAdminSetupOverlaySupportBase",
+	"type" : "normal" }
