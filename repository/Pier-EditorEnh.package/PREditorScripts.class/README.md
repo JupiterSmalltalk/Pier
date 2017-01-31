@@ -1,0 +1,1 @@
+A PREditorScripts is library of JavaScript, CSS, and toolbar icons.  It is also used in the WYSIWYG editor.

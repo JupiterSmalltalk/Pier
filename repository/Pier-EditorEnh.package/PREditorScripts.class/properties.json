@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-EditorEnh",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JohnCBorden 6/17/2014 06:39",
+	"instvars" : [
+		 ],
+	"name" : "PREditorScripts",
+	"pools" : [
+		 ],
+	"super" : "WAFileLibrary",
+	"type" : "normal" }

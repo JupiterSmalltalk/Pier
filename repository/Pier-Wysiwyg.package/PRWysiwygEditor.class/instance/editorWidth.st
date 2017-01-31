@@ -1,0 +1,3 @@
+constants
+editorWidth
+	^ '100%'

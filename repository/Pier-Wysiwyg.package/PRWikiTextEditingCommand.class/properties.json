@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Wysiwyg",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 7/21/2011 20:17",
+	"instvars" : [
+		 ],
+	"name" : "PRWikiTextEditingCommand",
+	"pools" : [
+		 ],
+	"super" : "PRCommand",
+	"type" : "normal" }

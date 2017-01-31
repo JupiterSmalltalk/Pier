@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-EditorEnh",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRHaloRenderer",
+	"pools" : [
+		 ],
+	"super" : "PRViewRenderer",
+	"type" : "normal" }

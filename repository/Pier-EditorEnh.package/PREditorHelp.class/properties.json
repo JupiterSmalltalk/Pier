@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-EditorEnh",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"structure" ],
+	"name" : "PREditorHelp",
+	"pools" : [
+		 ],
+	"super" : "PRRawView",
+	"type" : "normal" }

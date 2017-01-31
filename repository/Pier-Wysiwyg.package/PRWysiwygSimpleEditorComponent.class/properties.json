@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Wysiwyg",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRWysiwygSimpleEditorComponent",
+	"pools" : [
+		 ],
+	"super" : "PRWysiwygEditorComponent",
+	"type" : "normal" }

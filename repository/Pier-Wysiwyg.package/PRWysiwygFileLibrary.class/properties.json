@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Wysiwyg",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "JohnCBorden 4/11/2014 06:57",
+	"instvars" : [
+		 ],
+	"name" : "PRWysiwygFileLibrary",
+	"pools" : [
+		 ],
+	"super" : "WAFileLibrary",
+	"type" : "normal" }

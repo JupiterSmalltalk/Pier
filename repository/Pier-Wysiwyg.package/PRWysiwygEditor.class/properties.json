@@ -1,0 +1,22 @@
+{
+	"category" : "Pier-Wysiwyg",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 7/18/2011 16:58",
+	"instvars" : [
+		"tabs",
+		"siteMapSelectCallback",
+		"tabId",
+		"configuration",
+		"wikiText",
+		"textId",
+		"previewId",
+		"structureOwner",
+		"onFormSubmitCallback" ],
+	"name" : "PRWysiwygEditor",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"category" : "Pier-Wysiwyg",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"allowWikiTextEditing",
+		"allowWysiwygEditing",
+		"editorCss",
+		"editorExtraJS",
+		"showSiteMapLinks",
+		"resourceUrlRootBlock" ],
+	"name" : "PRWysiwygEditorConfiguration",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
