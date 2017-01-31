@@ -27,7 +27,9 @@ baseline: spec
         yourself.
       spec
         group: 'default' with: #('Core');
-        group: 'Core' with: #('Pier-Model' 'Pier-Security' 'Pier-Seaside');
+        group: 'Core'
+          with: #('Pier-Model' 'Pier-Security' 'Pier-Seaside' 'Editor');
+        group: 'Editor' with: #('Pier-Wysiwyg');
         group: 'Tests'
           with:
             #('Core' 'Pier-Tests-Model' 'Pier-Tests-Security' 'Pier-Tests-Seaside-Model');
