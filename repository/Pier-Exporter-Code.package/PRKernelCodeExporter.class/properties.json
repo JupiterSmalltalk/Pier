@@ -1,0 +1,21 @@
+{
+	"category" : "Pier-Exporter-Code",
+	"classinstvars" : [
+		"baseDirectory" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"exportedMethods",
+		"recursiveMethods",
+		"standardPermissions",
+		"standardOtherPermissions",
+		"isPier3",
+		"dispatcherPathName",
+		"exportHelper",
+		"rootOwnerPermissions" ],
+	"name" : "PRKernelCodeExporter",
+	"pools" : [
+		 ],
+	"super" : "GRObject",
+	"type" : "normal" }

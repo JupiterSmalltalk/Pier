@@ -1,0 +1,18 @@
+{
+	"category" : "Pier-Exporter-Code",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"structure",
+		"stream",
+		"methods",
+		"exporter",
+		"selectorsWithCommonDefaults" ],
+	"name" : "PRCodeBuilderDescriptionVisitor",
+	"pools" : [
+		 ],
+	"super" : "MAVisitor",
+	"type" : "normal" }

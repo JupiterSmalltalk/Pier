@@ -1,0 +1,3 @@
+accessing
+thumbnail
+	^ PRKernelDistributionFileLibrary / #bookthumbnailPng

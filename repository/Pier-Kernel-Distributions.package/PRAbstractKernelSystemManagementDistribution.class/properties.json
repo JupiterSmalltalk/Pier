@@ -1,0 +1,26 @@
+{
+	"category" : "Pier-Kernel-Distributions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"systemPage",
+		"componentsPage",
+		"systemManagementPage",
+		"templatesPage",
+		"contentsWidget",
+		"metaEnvironmentPage",
+		"breadcrumbWidget",
+		"kernel",
+		"googleAnalyticsWidget",
+		"searchWidget",
+		"footerPage",
+		"poweredByPage",
+		"rootStylesheetFile" ],
+	"name" : "PRAbstractKernelSystemManagementDistribution",
+	"pools" : [
+		 ],
+	"super" : "PRAbstractKernelDistribution",
+	"type" : "normal" }

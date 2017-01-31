@@ -1,0 +1,3 @@
+components
+emptyEnvironment
+	^ PRStructure emptyEnvironment

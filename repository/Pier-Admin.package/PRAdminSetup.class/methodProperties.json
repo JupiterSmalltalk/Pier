@@ -2,7 +2,7 @@
 	"class" : {
 		"initialize" : "jupiter 01/31/2017 13:05",
 		"recursiveDispatcherHandersDo:" : "NickAger 3/5/2012 14:29",
-		"recursiveHandersOn:path:do:" : "NickAger 3/5/2012 14:26" },
+		"recursiveHandersOn:path:do:" : "jupiter 01/31/2017 13:55" },
 	"instance" : {
 		"children" : "NickAger 9/1/2012 17:24",
 		"renderContentOn:" : "NickAger 3/21/2012 15:54",

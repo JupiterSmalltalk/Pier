@@ -1,0 +1,3 @@
+constants
+dispatcherPathName
+	self subclassResponsibility

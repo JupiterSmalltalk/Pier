@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"structure:methods:exporter:on:" : "NickAger 1/26/2012 17:13" },
+	"instance" : {
+		"addCodeFor:value:" : "DiegoLont 4/29/2014 12:53",
+		"addMethod:" : "NickAger 12/12/2011 12:29",
+		"initializeWithStructure:methods:exporter:stream:" : "NickAger 1/26/2012 17:14",
+		"isCommonDefault:" : "NickAger 3/8/2012 12:45",
+		"isDefaultDescriptionValue:" : "DiegoLont 2/3/2014 13:38",
+		"isNil:" : "DiegoLont 2/3/2014 13:37",
+		"methods" : "NickAger 12/12/2011 16:19",
+		"selectorsWithCommonDefaults" : "NickAger 1/26/2012 15:55",
+		"visit:" : "DiegoLont 4/29/2014 12:49",
+		"visitDescription:" : "NickAger 12/12/2011 15:16",
+		"visitDocumentDescription:" : "DiegoLont 3/7/2014 11:30",
+		"visitFileDescription:" : "DiegoLont 3/7/2014 11:23",
+		"visitStructureDescription:" : "DiegoLont 4/29/2014 12:18",
+		"writerClass" : "DiegoLont 3/7/2014 11:30" } }

@@ -1,0 +1,3 @@
+sample content
+interestingClassesWithComments
+	^ #(PRKernel PRContext PRAddCommand PREditCommand PRViewCommand PRCase PRPage PRDecoration PRChildren PRLink PRInternalLink PRValueLink PRVisitor PRDocumentWriter PRFullTextSearch PRPathLookup PRIncomingReferences PROutgoingReferences PUSecurity PRSettingsCommand MAContainer MADescription)

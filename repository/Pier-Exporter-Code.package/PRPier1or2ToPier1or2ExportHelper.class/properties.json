@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Exporter-Code",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRPier1or2ToPier1or2ExportHelper",
+	"pools" : [
+		 ],
+	"super" : "PRAbstractCodeExportHelper",
+	"type" : "normal" }

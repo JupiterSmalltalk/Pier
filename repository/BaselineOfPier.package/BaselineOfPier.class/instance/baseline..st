@@ -21,13 +21,17 @@ baseline: spec
           with: [ spec requires: #('Pier-Tests-Model' 'Pier-Seaside' 'Seaside Javascript Tests') ];
         package: 'Pier-Tests-Security'
           with: [ spec requires: #('Pier-Security') ];
-        package: 'Pier-Blog' with: [ spec requires: #('Pier-Model') ];
-        package: 'Pier-EditorEnh' with: [ spec requires: #('Pier-Model') ];
+        package: 'Pier-Blog' with: [ spec requires: #('Pier-Seaside') ];
+        package: 'Pier-EditorEnh' with: [ spec requires: #('Pier-Seaside') ];
         package: 'Pier-Wysiwyg' with: [ spec requires: #('Pier-EditorEnh') ];
         package: 'Pier-Kernel-Distributions'
           with: [ spec requires: #('Pier-Model') ];
+        package: 'Pier-Exporter-Code' with: [ spec requires: #('Pillar Core') ];
         package: 'Pier-Admin'
-          with: [ spec requires: #('Pier-Seaside' 'Pier-Kernel-Distributions') ];
+          with: [ 
+              spec
+                requires:
+                  #('Pier-Seaside' 'Pier-Exporter-Code' 'Pier-Kernel-Distributions') ];
         yourself.
       spec
         group: 'default' with: #('Core');

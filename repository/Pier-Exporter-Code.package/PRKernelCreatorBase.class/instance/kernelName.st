@@ -1,0 +1,3 @@
+constants
+kernelName
+	self subclassResponsibility

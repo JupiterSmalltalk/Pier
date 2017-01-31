@@ -1,0 +1,30 @@
+{
+	"category" : "Pier-Kernel-Distributions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"blog",
+		"blogArchiveWidget",
+		"blogTagWidget",
+		"blogCloudWidget",
+		"blogTemplate",
+		"rootPage",
+		"menuWidget",
+		"blogPostTickerWidget",
+		"sidebarDocumentWidget",
+		"mainTemplate",
+		"siteTitlePage",
+		"headerPage",
+		"editingTemplateWithSideBarDocumentWidget",
+		"sampleContentSelected",
+		"importBlogFromUrl",
+		"calleeComponent",
+		"importStyleFromUrl" ],
+	"name" : "PRBlogKernelDistribution",
+	"pools" : [
+		 ],
+	"super" : "PRAbstractKernelSystemManagementDistribution",
+	"type" : "normal" }

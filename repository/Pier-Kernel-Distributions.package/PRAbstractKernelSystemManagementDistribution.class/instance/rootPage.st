@@ -1,0 +1,3 @@
+components
+rootPage
+	self subclassResponsibility

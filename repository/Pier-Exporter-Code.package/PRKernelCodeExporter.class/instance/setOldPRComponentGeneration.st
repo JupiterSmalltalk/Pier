@@ -1,0 +1,3 @@
+initialization
+setOldPRComponentGeneration
+	self exportHelper: (PRPier1or2ToPier1or2ExportHelper recursiveMethods: recursiveMethods)

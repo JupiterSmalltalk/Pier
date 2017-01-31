@@ -1,0 +1,25 @@
+{
+	"category" : "Pier-Kernel-Distributions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rootPage",
+		"book",
+		"tableOfContents",
+		"tableOfFigures",
+		"index",
+		"notesComponent",
+		"section",
+		"bookTemplate",
+		"introduction",
+		"mainTemplate",
+		"bookSamplePierAdmin",
+		"sampleContentSelected" ],
+	"name" : "PRBookKernelDistribution",
+	"pools" : [
+		 ],
+	"super" : "PRAbstractKernelSystemManagementDistribution",
+	"type" : "normal" }

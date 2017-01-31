@@ -1,0 +1,18 @@
+{
+	"category" : "Pier-Kernel-Distributions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"blogStructure",
+		"blogUrl",
+		"errorMessage",
+		"successMessage",
+		"importedBlog" ],
+	"name" : "PRBlogImporter",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

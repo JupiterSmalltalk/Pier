@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Exporter-Code",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"recursiveMethods" ],
+	"name" : "PRAbstractCodeExportHelper",
+	"pools" : [
+		 ],
+	"super" : "GRObject",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+sample content
+keyPierAdminClassses
+	^ #(PRAdminActionPhaseContinuation PRAdminContext PRAdminHtmlDocumentSeparateBodyHeadElements PRAdminHtmlDocumentStoredHeadElements PRAdminHtmlRoot PRAdminIFrameDecorator #PRAdminPierComponent PRAdminRenderPhaseContinuation PRAdminRequestContext #PRAdminSetup PRAdminUI)

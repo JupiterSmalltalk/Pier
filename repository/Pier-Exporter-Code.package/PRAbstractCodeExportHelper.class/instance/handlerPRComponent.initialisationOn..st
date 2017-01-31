@@ -1,0 +1,3 @@
+export helpers
+handlerPRComponent: aPRComponent initialisationOn: stream
+	self subclassResponsibility
