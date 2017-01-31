@@ -22,6 +22,7 @@ baseline: spec
         package: 'Pier-Tests-Security'
           with: [ spec requires: #('Pier-Security') ];
         package: 'Pier-Blog' with: [ spec requires: #('Pier-Model') ];
+        package: 'Pier-Wysiwyg' with: [ spec requires: #('Pier-Model') ];
         yourself.
       spec
         group: 'default' with: #('Core');
