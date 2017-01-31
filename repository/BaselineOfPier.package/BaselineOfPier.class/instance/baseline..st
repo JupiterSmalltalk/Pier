@@ -24,13 +24,16 @@ baseline: spec
         package: 'Pier-Blog' with: [ spec requires: #('Pier-Model') ];
         package: 'Pier-EditorEnh' with: [ spec requires: #('Pier-Model') ];
         package: 'Pier-Wysiwyg' with: [ spec requires: #('Pier-EditorEnh') ];
+        package: 'Pier-Admin' with: [ spec requires: #('Pier-Seaside') ];
         yourself.
       spec
         group: 'default' with: #('Core');
         group: 'Core'
-          with: #('Pier-Model' 'Pier-Security' 'Pier-Seaside' 'Blog' 'Editor');
+          with:
+            #('Pier-Model' 'Pier-Security' 'Pier-Seaside' 'Blog' 'Editor' 'Admin');
         group: 'Blog' with: #('Pier-Blog');
         group: 'Editor' with: #('Pier-Wysiwyg');
+        group: 'Admin' with: #('Pier-Admin');
         group: 'Tests'
           with:
             #('Core' 'Pier-Tests-Model' 'Pier-Tests-Security' 'Pier-Tests-Seaside-Model');
