@@ -1,8 +1,7 @@
 {
+	"class" : {
+		 },
 	"instance" : {
 		"context" : "NickAger 7/2/2011 21:52",
 		"context:" : "NickAger 7/2/2011 21:52",
-		"onChangeContext:" : "lr 3/9/2006 11:30"
-	},
-	"class" : { }
-}
+		"onChangeContext:" : "lr 3/9/2006 11:30" } }

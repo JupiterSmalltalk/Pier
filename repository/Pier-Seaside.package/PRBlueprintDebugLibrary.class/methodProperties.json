@@ -1,8 +1,7 @@
 {
+	"class" : {
+		 },
 	"instance" : {
 		"gridCss" : "lr 1/29/2008 09:19",
 		"gridPng" : "NickAger 1/12/2010 07:34",
-		"selectorsToInclude" : "tg 1/20/2008 12:39"
-	},
-	"class" : { }
-}
+		"selectorsToInclude" : "tg 1/20/2008 12:39" } }

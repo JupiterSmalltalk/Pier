@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "NickAger 12/3/2011 09:43",
-	"super" : "PRDefaultView",
 	"category" : "Pier-Seaside-View",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 12/3/2011 09:43",
 	"instvars" : [
-		"isFullResponse"
-	],
+		"isFullResponse" ],
 	"name" : "PRFileView",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRDefaultView",
+	"type" : "normal" }

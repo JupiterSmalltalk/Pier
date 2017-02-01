@@ -1,8 +1,7 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"position:" : "jf 11/2/2009 20:37",
 		"isEmpty" : "jf 11/2/2009 20:39",
-		"position" : "jf 11/2/2009 20:37"
-	},
-	"class" : { }
-}
+		"position" : "jf 11/2/2009 20:37",
+		"position:" : "jf 11/2/2009 20:37" } }

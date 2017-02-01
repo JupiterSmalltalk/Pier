@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRListWidget",
 	"category" : "Pier-Seaside-Widgets",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRViewsWidget",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRListWidget",
+	"type" : "normal" }

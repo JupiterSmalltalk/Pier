@@ -1,9 +1,8 @@
 {
+	"class" : {
+		 },
 	"instance" : {
+		"ieCss" : "lr 3/11/2008 10:05",
 		"printCss" : "lr 3/11/2008 10:04",
 		"screenCss" : "lr 5/28/2008 12:28",
-		"updateRoot:" : "lr 5/28/2008 12:26",
-		"ieCss" : "lr 3/11/2008 10:05"
-	},
-	"class" : { }
-}
+		"updateRoot:" : "lr 5/28/2008 12:26" } }

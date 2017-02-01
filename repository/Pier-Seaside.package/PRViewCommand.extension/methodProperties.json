@@ -1,18 +1,17 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"label" : "lr 1/29/2008 09:05",
-		"updateUrl:" : "lr 2/23/2010 21:14",
+		"asComponent" : "lr 3/9/2006 11:30",
+		"defaultViewComponentClass" : "cdlm 8/7/2007 01:16",
 		"initialRequest:" : "NickAger 1/8/2010 17:32",
 		"isRestful" : "lr 8/18/2010 09:09",
-		"asComponent" : "lr 3/9/2006 11:30",
-		"viewComponent" : "lr 3/9/2006 11:30",
+		"label" : "lr 1/29/2008 09:05",
 		"rendererInstance" : "lr 4/8/2009 20:15",
-		"viewComponentClass:" : "lr 3/9/2006 11:30",
-		"viewComponent:" : "lr 3/9/2006 11:30",
 		"robots" : "lr 2/20/2007 15:07",
-		"defaultViewComponentClass" : "cdlm 8/7/2007 01:16",
+		"sanitizeSeasideCache" : "lr 5/2/2009 11:28",
+		"updateUrl:" : "lr 2/23/2010 21:14",
+		"viewComponent" : "lr 3/9/2006 11:30",
+		"viewComponent:" : "lr 3/9/2006 11:30",
 		"viewComponentClass" : "lr 1/19/2008 20:36",
-		"sanitizeSeasideCache" : "lr 5/2/2009 11:28"
-	},
-	"class" : { }
-}
+		"viewComponentClass:" : "lr 3/9/2006 11:30" } }

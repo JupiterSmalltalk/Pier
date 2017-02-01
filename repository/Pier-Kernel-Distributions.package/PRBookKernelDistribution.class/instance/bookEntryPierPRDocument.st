@@ -1,10 +1,10 @@
 sample content
 bookEntryPierPRDocument
-	^ (BOPortion named: 'PRDocument')
-		type: #section;
-		title: 'PRDocument';
-		contents:
-'Wiki markup can be easily translated into a ==PRDocument==:
+  ^ (BOPortion named: 'PRDocument')
+    type: #'section';
+    title: 'PRDocument';
+    contents:
+        'Wiki markup can be easily translated into a ==PRDocument==:
 
 ==PRDocumentParser parse: ''Here is some ""bold"" text''. 
 
@@ -14,7 +14,7 @@ See: */pier-admin-book/overview/wiki-syntax*
 
 Generating html from the wiki-markup:
 
-==WARenderCanvas builder render: [ :html |
+==WAHtmlCanvas builder render: [ :html |
 ==	| renderer document |
 ==	document := PRDocumentParser parse: ''Here is some ""bold"" text''.
 ==	renderer := PRViewRenderer new.
@@ -27,4 +27,4 @@ Generating html from the wiki-markup:
 +value:source|class=PRDocument|comment+
 
 See also *../PRDocumentWriter*';
-		yourself
+    yourself

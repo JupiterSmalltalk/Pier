@@ -1,6 +1,5 @@
 {
-	"instance" : { },
 	"class" : {
-		"defaultComponentClasses" : "lr 3/9/2006 11:30"
-	}
-}
+		"defaultComponentClasses" : "lr 3/9/2006 11:30" },
+	"instance" : {
+		 } }

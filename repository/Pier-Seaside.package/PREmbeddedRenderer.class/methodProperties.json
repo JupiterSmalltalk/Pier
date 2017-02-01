@@ -1,19 +1,18 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"visitPage:" : "lr 4/4/2009 21:50",
-		"visitPageMenu:" : "lr 4/6/2009 23:54",
 		"visitComponent:" : "lr 5/26/2009 17:34",
-		"visitInternalLink:" : "lr 5/19/2009 11:19",
-		"visitFileDownload:" : "lr 3/25/2009 00:25",
+		"visitExternalLink:" : "jf 1/8/2010 21:39",
 		"visitExternalLinkIframe:" : "lr 3/24/2009 23:35",
+		"visitExternalLinkImage:" : "lr 3/24/2009 22:56",
+		"visitFile:" : "lr 7/10/2011 17:09",
+		"visitFileDownload:" : "lr 3/25/2009 00:25",
 		"visitFileImage:" : "NickAger 12/3/2011 16:10",
+		"visitFileJavascript:" : "lr 5/11/2010 08:16",
 		"visitFileMedia:" : "jf 11/4/2009 10:25",
 		"visitFileText:" : "lr 1/15/2010 15:24",
-		"visitExternalLink:" : "jf 1/8/2010 21:39",
-		"visitExternalLinkImage:" : "lr 3/24/2009 22:56",
-		"visitFileJavascript:" : "lr 5/11/2010 08:16",
-		"visitStructure:" : "lr 4/6/2009 23:37",
-		"visitFile:" : "lr 7/10/2011 17:09"
-	},
-	"class" : { }
-}
+		"visitInternalLink:" : "lr 5/19/2009 11:19",
+		"visitPage:" : "lr 4/4/2009 21:50",
+		"visitPageMenu:" : "lr 4/6/2009 23:54",
+		"visitStructure:" : "lr 4/6/2009 23:37" } }

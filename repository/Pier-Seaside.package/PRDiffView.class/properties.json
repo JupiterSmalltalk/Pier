@@ -1,15 +1,16 @@
 {
-	"commentStamp" : "",
-	"super" : "PRHistoryView",
 	"category" : "Pier-Seaside-View",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
 		"contexts",
 		"sourceContext",
-		"targetContext"
-	],
+		"targetContext" ],
 	"name" : "PRDiffView",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRHistoryView",
+	"type" : "normal" }

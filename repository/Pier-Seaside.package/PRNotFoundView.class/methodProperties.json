@@ -1,11 +1,8 @@
 {
-	"instance" : {
-		"status" : "lr 4/4/2009 17:16",
-		"renderErrorOn:" : "jf 9/14/2009 15:59",
-		"renderSearchOn:" : "lr 5/27/2009 16:03"
-	},
 	"class" : {
-		"label" : "lr 9/4/2008 11:49",
-		"isAbstract" : "lr 9/4/2008 11:49"
-	}
-}
+		"isAbstract" : "lr 9/4/2008 11:49",
+		"label" : "lr 9/4/2008 11:49" },
+	"instance" : {
+		"renderErrorOn:" : "jf 9/14/2009 15:59",
+		"renderSearchOn:" : "lr 5/27/2009 16:03",
+		"status" : "lr 4/4/2009 17:16" } }

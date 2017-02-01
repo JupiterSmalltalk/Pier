@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "MATextInputComponent",
 	"category" : "Pier-Seaside-Magritte",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRStructureComponent",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MATextInputComponent",
+	"type" : "normal" }

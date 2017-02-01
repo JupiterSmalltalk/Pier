@@ -1,16 +1,15 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"buttonSpecification" : "lr 11/6/2007 13:30",
-		"updateRoot:" : "lr 9/12/2007 18:18",
-		"updateUrl:" : "lr 2/23/2010 21:12",
-		"initialRequest:" : "lr 8/3/2007 17:47",
-		"cssClass" : "lr 9/12/2007 18:18",
-		"isRestful" : "lr 7/13/2009 20:54",
 		"asComponent" : "lr 11/6/2007 13:29",
+		"buttonSpecification" : "lr 11/6/2007 13:30",
+		"cancelButton" : "lr 8/11/2007 21:55",
+		"cssClass" : "lr 9/12/2007 18:18",
+		"initialRequest:" : "lr 8/3/2007 17:47",
+		"isRestful" : "lr 7/13/2009 20:54",
 		"rendererInstance" : "lr 4/8/2009 20:18",
-		"saveButton" : "lr 8/11/2007 21:55",
 		"robots" : "lr 2/20/2007 15:07",
-		"cancelButton" : "lr 8/11/2007 21:55"
-	},
-	"class" : { }
-}
+		"saveButton" : "lr 8/11/2007 21:55",
+		"updateRoot:" : "lr 9/12/2007 18:18",
+		"updateUrl:" : "lr 2/23/2010 21:12" } }

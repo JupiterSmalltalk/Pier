@@ -11,4 +11,4 @@ initializeAttribute: description with: aValue overridWith: anInternalLink
 			ifPresent: [ :value | preference := description fromString: value ] ]."
 	self
 		write: (preference ifNil: [ description default yourself ])
-		using: description 
+		using: description

@@ -1,11 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRChildrenWidget",
 	"category" : "Pier-Seaside-Widgets",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
-	"instvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
 	"name" : "PRStaticChildrenWidget",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRChildrenWidget",
+	"type" : "normal" }

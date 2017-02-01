@@ -1,12 +1,11 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"visitHeader:" : "jf 9/30/2009 01:10",
-		"ifEnabledDo:" : "lr 3/9/2006 11:30",
 		"enable:while:" : "lr 3/9/2006 11:30",
-		"visitText:" : "lr 3/9/2006 11:30",
+		"ifEnabledDo:" : "lr 3/9/2006 11:30",
 		"level:" : "lr 3/9/2006 11:30",
 		"start:" : "lr 7/10/2011 17:07",
-		"visitValueLink:" : "lr 2/2/2009 22:37"
-	},
-	"class" : { }
-}
+		"visitHeader:" : "jf 9/30/2009 01:10",
+		"visitText:" : "lr 3/9/2006 11:30",
+		"visitValueLink:" : "lr 2/2/2009 22:37" } }

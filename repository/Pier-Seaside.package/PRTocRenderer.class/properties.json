@@ -1,15 +1,16 @@
 {
-	"commentStamp" : "",
-	"super" : "PRDeepRenderer",
 	"category" : "Pier-Seaside-Visitors",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
 		"enabled",
 		"current",
-		"counter"
-	],
+		"counter" ],
 	"name" : "PRTocRenderer",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRDeepRenderer",
+	"type" : "normal" }

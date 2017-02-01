@@ -1,8 +1,7 @@
 {
+	"class" : {
+		 },
 	"instance" : {
-		"purgeOtherFields" : "lr 2/23/2010 20:56",
 		"adaptToContext:" : "NickAger 1/13/2010 12:04",
-		"purgeSeasideFields" : "lr 2/23/2010 20:56"
-	},
-	"class" : { }
-}
+		"purgeOtherFields" : "lr 2/23/2010 20:56",
+		"purgeSeasideFields" : "lr 2/23/2010 20:56" } }

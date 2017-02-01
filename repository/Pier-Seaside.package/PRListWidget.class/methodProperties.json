@@ -1,24 +1,21 @@
 {
+	"class" : {
+		"groupLabel" : "lr 9/3/2008 11:46" },
 	"instance" : {
-		"itemClass:" : "DiegoLont 4/11/2014 14:20",
-		"renderListItem:on:" : "DiegoLont 4/11/2014 14:18",
-		"listClass" : "DiegoLont 4/11/2014 14:18",
-		"renderContentOn:" : "lr 2/21/2010 13:17",
-		"activeClass:" : "DiegoLont 4/11/2014 14:19",
-		"itemClass" : "DiegoLont 4/11/2014 14:18",
-		"listClass:" : "DiegoLont 4/11/2014 14:20",
 		"activeClass" : "DiegoLont 4/11/2014 14:19",
+		"activeClass:" : "DiegoLont 4/11/2014 14:19",
+		"descriptionActiveCssClass" : "DiegoLont 4/11/2014 14:19",
+		"descriptionItemCssClass" : "DiegoLont 4/11/2014 14:14",
+		"descriptionListCssClass" : "DiegoLont 4/11/2014 14:19",
+		"isActive:" : "lr 2/9/2007 15:00",
+		"itemClass" : "DiegoLont 4/11/2014 14:18",
+		"itemClass:" : "DiegoLont 4/11/2014 14:20",
 		"items" : "lr 5/28/2007 16:31",
 		"labelFor:" : "lr 4/18/2007 14:57",
-		"isActive:" : "lr 2/9/2007 15:00",
-		"descriptionListCssClass" : "DiegoLont 4/11/2014 14:19",
-		"descriptionItemCssClass" : "DiegoLont 4/11/2014 14:14",
+		"listClass" : "DiegoLont 4/11/2014 14:18",
+		"listClass:" : "DiegoLont 4/11/2014 14:20",
+		"renderContentOn:" : "lr 2/21/2010 13:17",
+		"renderItem:on:" : "lr 4/18/2007 14:57",
 		"renderItems:on:" : "DiegoLont 4/11/2014 14:21",
-		"descriptionActiveCssClass" : "DiegoLont 4/11/2014 14:19",
-		"selected" : "lr 5/28/2007 16:31",
-		"renderItem:on:" : "lr 4/18/2007 14:57"
-	},
-	"class" : {
-		"groupLabel" : "lr 9/3/2008 11:46"
-	}
-}
+		"renderListItem:on:" : "DiegoLont 4/11/2014 14:18",
+		"selected" : "lr 5/28/2007 16:31" } }

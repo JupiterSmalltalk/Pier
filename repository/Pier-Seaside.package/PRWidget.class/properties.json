@@ -1,14 +1,15 @@
 {
-	"commentStamp" : "",
-	"super" : "MAComponent",
 	"category" : "Pier-Seaside-Widgets",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
 		"context",
-		"owner"
-	],
+		"owner" ],
 	"name" : "PRWidget",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "MAComponent",
+	"type" : "normal" }

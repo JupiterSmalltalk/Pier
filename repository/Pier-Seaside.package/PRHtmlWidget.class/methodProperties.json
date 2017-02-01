@@ -1,13 +1,10 @@
 {
-	"instance" : {
-		"text" : "NickAger 1/20/2012 13:48",
-		"text:" : "NickAger 1/20/2012 13:48",
-		"descriptionText" : "NickAger 1/18/2012 18:02",
-		"renderContentOn:" : "lr 7/5/2007 22:41"
-	},
 	"class" : {
 		"defaultText" : "lr 3/9/2006 11:30",
-		"label" : "lr 7/5/2007 22:37",
-		"isAbstract" : "lr 9/3/2008 13:55"
-	}
-}
+		"isAbstract" : "lr 9/3/2008 13:55",
+		"label" : "lr 7/5/2007 22:37" },
+	"instance" : {
+		"descriptionText" : "NickAger 1/18/2012 18:02",
+		"renderContentOn:" : "lr 7/5/2007 22:41",
+		"text" : "NickAger 1/20/2012 13:48",
+		"text:" : "NickAger 1/20/2012 13:48" } }

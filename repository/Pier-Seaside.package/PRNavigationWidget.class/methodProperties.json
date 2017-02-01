@@ -1,10 +1,7 @@
 {
-	"instance" : {
-		"renderParents:on:" : "lr 2/9/2007 19:37",
-		"renderContentOn:" : "lr 4/23/2007 07:44"
-	},
 	"class" : {
-		"label" : "lr 2/14/2008 14:19",
-		"isAbstract" : "lr 3/9/2006 11:30"
-	}
-}
+		"isAbstract" : "lr 3/9/2006 11:30",
+		"label" : "lr 2/14/2008 14:19" },
+	"instance" : {
+		"renderContentOn:" : "lr 4/23/2007 07:44",
+		"renderParents:on:" : "lr 2/9/2007 19:37" } }

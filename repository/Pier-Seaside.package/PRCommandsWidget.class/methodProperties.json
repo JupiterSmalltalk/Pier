@@ -1,16 +1,13 @@
 {
+	"class" : {
+		"defaultCommandClasses" : "NickAger 1/18/2012 18:12",
+		"isAbstract" : "lr 3/9/2006 11:30",
+		"label" : "lr 3/9/2006 11:30" },
 	"instance" : {
-		"commandClasses:" : "NickAger 1/20/2012 11:51",
 		"commandClasses" : "NickAger 2/7/2012 16:12",
-		"selected" : "lr 3/9/2006 11:30",
+		"commandClasses:" : "NickAger 1/20/2012 11:51",
+		"descriptionCommandClasses" : "NickAger 1/18/2012 18:11",
 		"items" : "lr 8/15/2007 20:51",
 		"labelFor:" : "lr 4/18/2007 14:58",
-		"descriptionCommandClasses" : "NickAger 1/18/2012 18:11",
-		"renderItem:on:" : "lr 4/18/2007 14:58"
-	},
-	"class" : {
-		"label" : "lr 3/9/2006 11:30",
-		"defaultCommandClasses" : "NickAger 1/18/2012 18:12",
-		"isAbstract" : "lr 3/9/2006 11:30"
-	}
-}
+		"renderItem:on:" : "lr 4/18/2007 14:58",
+		"selected" : "lr 3/9/2006 11:30" } }

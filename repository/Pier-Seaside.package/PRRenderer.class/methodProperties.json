@@ -1,15 +1,12 @@
 {
-	"instance" : {
-		"start:in:on:" : "lr 3/9/2006 11:30",
-		"renderer" : "lr 3/9/2006 11:30",
-		"context:" : "NickAger 7/2/2011 21:52",
-		"renderer:" : "lr 3/9/2006 11:30",
-		"context" : "NickAger 7/2/2011 21:52",
-		"continue:in:on:" : "lr 4/8/2009 20:21",
-		"component:" : "lr 3/9/2006 11:30",
-		"component" : "lr 3/9/2006 11:30"
-	},
 	"class" : {
-		"isAbstract" : "StephanEggermont 4/7/2014 10:22"
-	}
-}
+		"isAbstract" : "StephanEggermont 4/7/2014 10:22" },
+	"instance" : {
+		"component" : "lr 3/9/2006 11:30",
+		"component:" : "lr 3/9/2006 11:30",
+		"context" : "NickAger 7/2/2011 21:52",
+		"context:" : "NickAger 7/2/2011 21:52",
+		"continue:in:on:" : "lr 4/8/2009 20:21",
+		"renderer" : "lr 3/9/2006 11:30",
+		"renderer:" : "lr 3/9/2006 11:30",
+		"start:in:on:" : "lr 3/9/2006 11:30" } }

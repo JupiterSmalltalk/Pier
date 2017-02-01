@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRRenderer",
 	"category" : "Pier-Seaside-Visitors",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"visited"
-	],
+		"visited" ],
 	"name" : "PRDeepRenderer",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRRenderer",
+	"type" : "normal" }
