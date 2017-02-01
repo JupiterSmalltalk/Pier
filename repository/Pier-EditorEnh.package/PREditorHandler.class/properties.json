@@ -6,7 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"context" ],
+		"context",
+		"key" ],
 	"name" : "PREditorHandler",
 	"pools" : [
 		 ],

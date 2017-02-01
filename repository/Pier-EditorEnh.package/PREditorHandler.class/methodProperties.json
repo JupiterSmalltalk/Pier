@@ -2,9 +2,12 @@
 	"class" : {
 		"on:" : "lr 5/5/2009 08:45" },
 	"instance" : {
+		"basicUrl" : "jupiter 02/01/2017 11:45",
 		"context" : "lr 5/5/2009 08:45",
 		"handleFiltered:" : "StephanEggermont 3/11/2014 11:07",
 		"initializeOn:" : "lr 5/5/2009 08:45",
+		"key" : "jupiter 02/01/2017 11:43",
+		"key:" : "jupiter 02/01/2017 11:43",
 		"renderDefaultLinksOn:" : "lr 4/29/2009 10:48",
 		"renderLinksOn:" : "lr 4/29/2009 11:26",
 		"renderStructureLinks:level:on:" : "lr 5/5/2009 09:01",

@@ -1,15 +1,9 @@
 *pier-editorenh
 updateRoot: aHtmlRoot
-  | handler url |
+  | handler |
   super updateRoot: aHtmlRoot.
   PREditorScripts default updateRoot: aHtmlRoot.
   handler := PREditorHandler on: self context copy sanitize.
-  aHtmlRoot application cache
-    store:
-      (handler
-        setParent: aHtmlRoot application;
-        yourself).
+  WACurrentRequestContext value registry register: handler.
   aHtmlRoot javascript
-    add:
-      'EditorEnh.linkOptionUrl='
-        , (WACurrentRequestContext value registry urlFor: handler) asJavascript
+    add: 'EditorEnh.linkOptionUrl=' , handler basicUrl asJavascript
