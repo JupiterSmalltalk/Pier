@@ -18,4 +18,7 @@ seaside: spec
           with: [ spec loads: #('JQuery' 'JQueryUI') ];
         project: 'Seaside Javascript Tests'
           copyFrom: 'Seaside3'
-          with: [ spec loads: #('JQuery Tests' 'JQueryUI Tests') ] ]
+          with: [ spec loads: #('JQuery Tests' 'JQueryUI Tests') ];
+        project: 'Seaside RSS'
+          copyFrom: 'Seaside3'
+          with: [ spec loads: #('RSS-Core') ] ]

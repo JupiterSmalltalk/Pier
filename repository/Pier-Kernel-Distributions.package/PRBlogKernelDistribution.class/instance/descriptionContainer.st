@@ -1,6 +1,6 @@
 magritte description
 descriptionContainer
-	<magritteContainer>
-	^ super descriptionContainer
-		componentRenderer: TWBSMagritteFormRenderer;
-		yourself
+  <magritteContainer>
+  ^ super descriptionContainer
+    componentRenderer: TBSMagritteFormRenderer;
+    yourself

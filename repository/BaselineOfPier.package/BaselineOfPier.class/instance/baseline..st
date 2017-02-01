@@ -4,7 +4,8 @@ baseline: spec
   self
     pillar: spec;
     magritte: spec;
-    seaside: spec.
+    seaside: spec;
+    bootstrap: spec.
   spec
     for: #'common'
     do: [ 
@@ -23,6 +24,7 @@ baseline: spec
           with: [ spec requires: #('Pier-Security') ];
         package: 'Pier-Blog' with: [ spec requires: #('Pier-Seaside') ];
         package: 'Pier-EditorEnh' with: [ spec requires: #('Pier-Seaside') ];
+        package: 'Pier-Design' with: [ spec requires: #('Pier-Model') ];
         package: 'Pier-Wysiwyg' with: [ spec requires: #('Pier-EditorEnh') ];
         package: 'Pier-Kernel-Distributions'
           with: [ spec requires: #('Pier-Model') ];

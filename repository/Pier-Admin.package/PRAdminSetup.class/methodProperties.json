@@ -4,11 +4,14 @@
 		"recursiveDispatcherHandersDo:" : "NickAger 3/5/2012 14:29",
 		"recursiveHandersOn:path:do:" : "jupiter 01/31/2017 13:55" },
 	"instance" : {
-		"children" : "NickAger 9/1/2012 17:24",
-		"renderContentOn:" : "NickAger 3/21/2012 15:54",
-		"renderTabsOn:" : "NickAger 9/1/2012 17:25",
-		"renderTitleOn:" : "NickAger 3/20/2012 16:07",
-		"renderTitleStrapLineOn:" : "NickAger 3/28/2012 12:33",
+		"children" : "jupiter 01/31/2017 16:05",
+		"initialize" : "jupiter 01/31/2017 17:08",
+		"initializeComponents" : "jupiter 01/31/2017 17:03",
+		"renderContentOn:" : "jupiter 01/31/2017 17:07",
+		"renderTabsOn2:" : "jupiter 01/31/2017 14:48",
+		"renderTabsOn:" : "jupiter 01/31/2017 17:20",
+		"renderTitleOn:" : "jupiter 01/31/2017 14:41",
+		"renderTitleStrapLineOn:" : "jupiter 01/31/2017 14:41",
 		"tabWidget" : "jupiter 01/31/2017 13:31",
 		"tabWidget2" : "jupiter 01/31/2017 13:28",
-		"updateRoot:" : "NickAger 3/10/2012 00:19" } }
+		"updateRoot:" : "jupiter 01/31/2017 14:32" } }

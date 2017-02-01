@@ -1,3 +1,3 @@
-hooks
+accessing
 children
-	^ Array with: self tabWidget
+  ^ super children , components values
