@@ -7,8 +7,8 @@ naFileUpload: spec
         configuration: 'NAFileUpload'
         with: [ 
           spec
-            repository: 'http://www.squeaksource.com/fileupload';
-            version: #'bleedingEdge' ].
+            repository: 'github//JupiterSmalltalk/NAFileUpload/repository';
+            version: #'stable' ].
       spec
         project: 'NAFileUpload-Nginx-Component'
           copyFrom: 'NAFileUpload'
