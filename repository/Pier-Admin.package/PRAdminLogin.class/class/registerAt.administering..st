@@ -15,8 +15,7 @@ registerAt: dispatcherName administering: kernelPathPair
   pierAdminApplication
     addLibrary: JQDeploymentLibrary;
     addLibrary: JQUiDeploymentLibrary;
-    addLibrary: JQBaseTheme;
-    addLibrary: SPHighlightedStyle.
+    addLibrary: JQBaseTheme.	"addLibrary: SPHighlightedStyle."
   pierAdminApplication configuration
     addParent: NAFileUploadConfigurator instance.
   pierAdminApplication configuration addParent: PRAdminConfigurator instance.

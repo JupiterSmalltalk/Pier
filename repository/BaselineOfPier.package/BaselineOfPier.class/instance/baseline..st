@@ -5,7 +5,9 @@ baseline: spec
     pillar: spec;
     magritte: spec;
     seaside: spec;
-    bootstrap: spec.
+    bootstrap: spec;
+    jqueryWidgetBox: spec;
+    naFileUpload: spec.
   spec
     for: #'common'
     do: [ 
@@ -29,6 +31,9 @@ baseline: spec
         package: 'Pier-Documents' with: [ spec requires: #('Pier Core') ];
         package: 'Pier-EditorEnh' with: [ spec requires: #('Pier Core') ];
         package: 'Pier-Exporter-Code' with: [ spec requires: #('Pillar Core') ];
+        package: 'Pier-JQuery'
+          with: [ spec requires: #('Pier Core' 'JQuery Widgetbox FormExample') ];
+        package: 'Pier-TagCloud' with: [ spec requires: #('Pier Core') ];
         package: 'Pier-Wysiwyg' with: [ spec requires: #('Pier-EditorEnh') ];
         package: 'Pier-Kernel-Distributions'
           with: [ spec requires: #('Pier-Model') ];
@@ -36,7 +41,7 @@ baseline: spec
           with: [ 
               spec
                 requires:
-                  #('Pier-Seaside' 'Pier-Exporter-Code' 'Pier-Kernel-Distributions') ];
+                  #('Pier Core' 'JQuery Widgetbox UILayout' 'Pier-Kernel-Distributions' 'Pier-Blog' 'Pier-Design' 'Pier-Documents' 'Pier-EditorEnh' 'Pier-Exporter-Code' 'Pier-TagCloud' 'Pier-Wysiwyg') ];
         yourself.
       spec
         group: 'default' with: #('Core');

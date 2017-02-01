@@ -3,11 +3,13 @@
 		"copyPackages" : "jupiter 12/30/2015 11:13",
 		"moveVersion:toFiletree:" : "jupiter 12/30/2015 19:47" },
 	"instance" : {
-		"baseline:" : "jupiter 01/31/2017 18:19",
+		"baseline:" : "jupiter 01/31/2017 19:36",
 		"baselineOrig:" : "jupiter 01/31/2017 17:37",
 		"baselineRepackage:" : "jupiter 1/27/2017 23:41",
 		"bootstrap:" : "jupiter 01/31/2017 17:33",
+		"jqueryWidgetBox:" : "jupiter 01/31/2017 18:59",
 		"magritte:" : "jupiter 1/27/2017 23:44",
+		"naFileUpload:" : "jupiter 01/31/2017 19:21",
 		"pillar:" : "jupiter 01/27/2017 16:23",
 		"seaside:" : "jupiter 01/31/2017 17:36",
 		"startSeasideAndRegisterPier" : "jupiter 12/30/2015 11:12" } }

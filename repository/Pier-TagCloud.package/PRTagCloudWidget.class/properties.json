@@ -1,0 +1,26 @@
+{
+	"category" : "Pier-TagCloud",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"StopWords" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tags",
+		"tagsByCount",
+		"tagsByName",
+		"focus",
+		"mean",
+		"deviation",
+		"ignoredTags",
+		"maxItems",
+		"showExponential",
+		"showFrequencies",
+		"startAt",
+		"dataDescriptions",
+		"optionsAndLabels" ],
+	"name" : "PRTagCloudWidget",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }
