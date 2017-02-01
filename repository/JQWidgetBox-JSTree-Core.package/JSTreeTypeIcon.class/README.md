@@ -1,0 +1,4 @@
+newForIcon: aModelClass
+	^(self new)
+		
+	

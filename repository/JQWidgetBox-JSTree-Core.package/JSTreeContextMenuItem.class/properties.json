@@ -1,0 +1,23 @@
+{
+	"category" : "JQWidgetBox-JSTree-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"key",
+		"label",
+		"action",
+		"disabled",
+		"styleClass",
+		"separatorBefore",
+		"separatorAfter",
+		"icon",
+		"submenu",
+		"renderContext" ],
+	"name" : "JSTreeContextMenuItem",
+	"pools" : [
+		 ],
+	"super" : "GRObject",
+	"type" : "normal" }

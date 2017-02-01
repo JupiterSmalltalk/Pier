@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-FileUpload-Wysiwyg",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"uploadComponent",
+		"notificationId" ],
+	"name" : "PRFileUploadWysiwygEditor",
+	"pools" : [
+		 ],
+	"super" : "PRFileUploadWysiwygEditorBase",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "JQWidgetBox-JSTree-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"maxDepth",
+		"maxChildren",
+		"types",
+		"validChildrenTypes" ],
+	"name" : "JSTreeTypes",
+	"pools" : [
+		 ],
+	"super" : "GRObject",
+	"type" : "normal" }

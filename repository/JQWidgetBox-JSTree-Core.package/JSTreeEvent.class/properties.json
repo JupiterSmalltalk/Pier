@@ -1,0 +1,20 @@
+{
+	"category" : "JQWidgetBox-JSTree-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"event",
+		"node",
+		"ref",
+		"position",
+		"title",
+		"type",
+		"isCopy" ],
+	"name" : "JSTreeEvent",
+	"pools" : [
+		 ],
+	"super" : "GRObject",
+	"type" : "normal" }

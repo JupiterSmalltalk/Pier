@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defineElementIdsOn:" : "NickAger 8/17/2011 19:37",
+		"defineUploadConfiguration" : "NickAger 8/17/2011 19:48",
+		"notificationId" : "NickAger 7/25/2011 01:54",
+		"notificationId:" : "NickAger 7/25/2011 01:54",
+		"onUploadErrorCallback" : "NickAger 8/17/2011 19:49",
+		"onUploadProgressCallback" : "NickAger 8/17/2011 19:49",
+		"progressBarId" : "NickAger 8/17/2011 19:45",
+		"progressBarId:" : "NickAger 7/25/2011 01:54",
+		"renderEditorOn:" : "NickAger 7/25/2011 15:12",
+		"renderUploaderOn:" : "NickAger 8/19/2011 08:28",
+		"storeUploadedFile:" : "NickAger 8/19/2011 13:16",
+		"uploadComponent" : "NickAger 8/17/2011 17:26" } }

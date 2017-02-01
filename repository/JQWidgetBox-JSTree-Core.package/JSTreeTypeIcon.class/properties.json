@@ -1,0 +1,15 @@
+{
+	"category" : "JQWidgetBox-JSTree-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Bart 9/29/2010 14:27",
+	"instvars" : [
+		"image",
+		"position" ],
+	"name" : "JSTreeTypeIcon",
+	"pools" : [
+		 ],
+	"super" : "GRObject",
+	"type" : "normal" }

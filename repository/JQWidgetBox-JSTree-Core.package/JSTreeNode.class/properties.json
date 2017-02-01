@@ -1,0 +1,21 @@
+{
+	"category" : "JQWidgetBox-JSTree-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"title",
+		"id",
+		"type",
+		"children",
+		"attributes",
+		"icon",
+		"metadata",
+		"state" ],
+	"name" : "JSTreeNode",
+	"pools" : [
+		 ],
+	"super" : "GRObject",
+	"type" : "normal" }

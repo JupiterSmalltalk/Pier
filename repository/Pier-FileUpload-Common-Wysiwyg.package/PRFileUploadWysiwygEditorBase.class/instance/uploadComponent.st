@@ -1,0 +1,3 @@
+components
+uploadComponent
+	self subclassResponsibility

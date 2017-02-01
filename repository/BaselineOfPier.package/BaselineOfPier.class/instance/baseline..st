@@ -31,6 +31,19 @@ baseline: spec
         package: 'Pier-Documents' with: [ spec requires: #('Pier Core') ];
         package: 'Pier-EditorEnh' with: [ spec requires: #('Pier Core') ];
         package: 'Pier-Exporter-Code' with: [ spec requires: #('Pillar Core') ];
+        package: 'Pier-FileUpload-Common-Wysiwyg'
+          with: [ spec requires: #('Pier-Wysiwyg') ];
+        package: 'Pier-FileUpload-Wysiwyg'
+          with: [ 
+              spec
+                requires:
+                  #('Pier-FileUpload-Common-Wysiwyg' 'NAFileUpload-Component' 'Magritte-Json') ];
+        package: 'Pier-FileUpload-Nginx-Wysiwyg'
+          with: [ 
+              spec
+                requires:
+                  #('Pier-FileUpload-Common-Wysiwyg' 'NAFileUpload-Nginx-Component' 'Magritte-Json') ];
+        package: 'JQWidgetBox-JSTree-Core';
         package: 'Pier-JQuery'
           with: [ spec requires: #('Pier Core' 'JQuery Widgetbox FormExample') ];
         package: 'Pier-TagCloud' with: [ spec requires: #('Pier Core') ];
@@ -41,13 +54,11 @@ baseline: spec
           with: [ 
               spec
                 requires:
-                  #('Pier Core' 'JQuery Widgetbox UILayout' 'Pier-Kernel-Distributions' 'Pier-Blog' 'Pier-Design' 'Pier-Documents' 'Pier-EditorEnh' 'Pier-Exporter-Code' 'Pier-TagCloud' 'Pier-Wysiwyg') ];
+                  #('Pier Core' 'JQuery Widgetbox UILayout' 'JQWidgetBox-JSTree-Core' 'Pier-Kernel-Distributions' 'Pier-Blog' 'Pier-Design' 'Pier-Documents' 'Pier-EditorEnh' 'Pier-Exporter-Code' 'Pier-TagCloud' 'Pier-Wysiwyg') ];
         yourself.
       spec
-        group: 'default' with: #('Core');
+        group: 'default' with: #('Pier Core');
         group: 'Pier Core' with: #('Pier-Model' 'Pier-Security' 'Pier-Seaside');
-        group: 'Blog' with: #('Pier-Blog');
-        group: 'Editor' with: #('Pier-Wysiwyg');
         group: 'Admin' with: #('Pier-Admin');
         group: 'Tests'
           with:

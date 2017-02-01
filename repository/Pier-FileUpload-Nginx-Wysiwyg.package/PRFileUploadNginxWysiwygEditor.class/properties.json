@@ -1,0 +1,17 @@
+{
+	"category" : "Pier-FileUpload-Nginx-Wysiwyg",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"uploadComponent",
+		"progressBarId",
+		"notificationId",
+		"uploadedFilesContainerId" ],
+	"name" : "PRFileUploadNginxWysiwygEditor",
+	"pools" : [
+		 ],
+	"super" : "PRFileUploadWysiwygEditorBase",
+	"type" : "normal" }

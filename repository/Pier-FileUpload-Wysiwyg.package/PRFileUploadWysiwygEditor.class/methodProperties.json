@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"defineElementIdsOn:" : "NickAger 8/17/2011 19:44",
+		"defineUploadConfiguration" : "NickAger 8/17/2011 19:58",
+		"notificationId" : "NickAger 8/17/2011 19:26",
+		"notificationId:" : "NickAger 8/17/2011 19:26",
+		"onUploadErrorCallback" : "NickAger 8/17/2011 19:26",
+		"onUploadProgressCallback" : "NickAger 8/17/2011 19:26",
+		"renderEditorOn:" : "NickAger 8/17/2011 19:26",
+		"renderUploaderOn:" : "NickAger 8/19/2011 08:29",
+		"storeUploadedFile:" : "NickAger 12/5/2011 11:28",
+		"uploadComponent" : "NickAger 8/19/2011 09:38" } }

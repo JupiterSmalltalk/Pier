@@ -1,0 +1,3 @@
+rendering
+renderUploaderOn: html
+	self subclassResponsibility

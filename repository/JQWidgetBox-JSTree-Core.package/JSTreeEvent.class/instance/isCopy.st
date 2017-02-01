@@ -1,0 +1,3 @@
+accessing
+isCopy
+	^ isCopy == true

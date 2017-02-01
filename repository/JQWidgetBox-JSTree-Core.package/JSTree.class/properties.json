@@ -1,0 +1,21 @@
+{
+	"category" : "JQWidgetBox-JSTree-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"themes",
+		"checkMoveCallback",
+		"getChildrenCallback",
+		"addNodeCallback",
+		"createBlock",
+		"createSuccessBlock",
+		"createFailBlock",
+		"events" ],
+	"name" : "JSTree",
+	"pools" : [
+		 ],
+	"super" : "JQWidget",
+	"type" : "normal" }
