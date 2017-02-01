@@ -1,0 +1,1 @@
+Command to edit the design of the current page. This is a shortcut of the normal edit command on the associated environment pages.

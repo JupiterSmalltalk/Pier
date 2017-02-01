@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Documents",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 2/11/2012 20:14",
+	"instvars" : [
+		 ],
+	"name" : "PRDocumentWidgetDescription",
+	"pools" : [
+		 ],
+	"super" : "MAMemoDescription",
+	"type" : "normal" }

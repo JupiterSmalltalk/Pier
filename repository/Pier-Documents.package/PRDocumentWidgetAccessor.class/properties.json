@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Documents",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRDocumentWidgetAccessor",
+	"pools" : [
+		 ],
+	"super" : "MAChainAccessor",
+	"type" : "normal" }

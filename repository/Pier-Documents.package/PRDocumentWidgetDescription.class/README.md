@@ -1,0 +1,1 @@
+I am similar to PRDocumentDescription but I don't redefine #accessor: as I don't want PRDocumentAccessor in the accessor chain as PRDocumentAccessor>>write:to: sets the document #owner: which sets the owner to a PRDocumentWidget rather than the containing PRComponent.

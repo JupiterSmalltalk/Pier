@@ -21,14 +21,17 @@ baseline: spec
         package: 'Pier-Tests-Seaside-Model'
           with: [ spec requires: #('Pier-Tests-Model' 'Pier-Seaside' 'Seaside Javascript Tests') ];
         package: 'Pier-Tests-Security'
-          with: [ spec requires: #('Pier-Security') ];
-        package: 'Pier-Blog' with: [ spec requires: #('Pier-Seaside') ];
-        package: 'Pier-EditorEnh' with: [ spec requires: #('Pier-Seaside') ];
-        package: 'Pier-Design' with: [ spec requires: #('Pier-Model') ];
+          with: [ spec requires: #('Pier-Security') ].
+      spec
+        package: 'Pier-Blog'
+          with: [ spec requires: #('Pier Core' 'Seaside RSS' 'Pillar Core') ];
+        package: 'Pier-Design' with: [ spec requires: #('Pier Core') ];
+        package: 'Pier-Documents' with: [ spec requires: #('Pier Core') ];
+        package: 'Pier-EditorEnh' with: [ spec requires: #('Pier Core') ];
+        package: 'Pier-Exporter-Code' with: [ spec requires: #('Pillar Core') ];
         package: 'Pier-Wysiwyg' with: [ spec requires: #('Pier-EditorEnh') ];
         package: 'Pier-Kernel-Distributions'
           with: [ spec requires: #('Pier-Model') ];
-        package: 'Pier-Exporter-Code' with: [ spec requires: #('Pillar Core') ];
         package: 'Pier-Admin'
           with: [ 
               spec
@@ -37,15 +40,13 @@ baseline: spec
         yourself.
       spec
         group: 'default' with: #('Core');
-        group: 'Core'
-          with:
-            #('Pier-Model' 'Pier-Security' 'Pier-Seaside' 'Blog' 'Editor' 'Admin');
+        group: 'Pier Core' with: #('Pier-Model' 'Pier-Security' 'Pier-Seaside');
         group: 'Blog' with: #('Pier-Blog');
         group: 'Editor' with: #('Pier-Wysiwyg');
         group: 'Admin' with: #('Pier-Admin');
         group: 'Tests'
           with:
-            #('Core' 'Pier-Tests-Model' 'Pier-Tests-Security' 'Pier-Tests-Seaside-Model');
+            #('Pier Core' 'Pier-Tests-Model' 'Pier-Tests-Security' 'Pier-Tests-Seaside-Model');
         yourself ].
   spec
     for: #'pharo'

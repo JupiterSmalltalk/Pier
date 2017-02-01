@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"isAbstract" : "lr 10/17/2007 22:17",
+		"label" : "lr 10/17/2007 22:17" },
+	"instance" : {
+		"buildSpecification" : "NickAger 2/12/2012 16:24",
+		"children" : "lr 5/26/2009 17:34",
+		"default" : "NickAger 1/22/2012 17:49",
+		"default:" : "NickAger 1/22/2012 17:49",
+		"descriptionDefault" : "NickAger 2/11/2012 20:22",
+		"descriptionInherited" : "NickAger 1/22/2012 17:07",
+		"document" : "lr 10/28/2007 12:52",
+		"documentOf:" : "lr 11/13/2007 13:37",
+		"inherited" : "NickAger 1/22/2012 17:50",
+		"inherited:" : "NickAger 1/22/2012 17:50",
+		"isEditing" : "lr 12/2/2009 11:30",
+		"renderContentOn:" : "lr 12/2/2009 11:30",
+		"renderEditOn:" : "NickAger 1/15/2010 11:15",
+		"renderViewOn:" : "lr 4/8/2009 20:16",
+		"script" : "lr 12/2/2009 12:42",
+		"specification" : "lr 11/13/2007 13:36",
+		"text" : "lr 11/13/2007 13:48",
+		"text:" : "lr 11/13/2007 14:27" } }

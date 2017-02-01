@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Documents",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"specification",
+		"default",
+		"inherited" ],
+	"name" : "PRDocumentWidget",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }
