@@ -1,5 +1,6 @@
 private
 handleLoginAnswer: loginCommand
+
 	loginCommand isNil
 		ifTrue: [ ^ self ].
 	loginCommand successAnswer: loginCommand.

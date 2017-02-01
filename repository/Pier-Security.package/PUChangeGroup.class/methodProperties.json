@@ -1,14 +1,11 @@
 {
-	"instance" : {
-		"accessor" : "lr 10/6/2008 11:42",
-		"group" : "lr 3/9/2006 11:30",
-		"descriptionGroup" : "NickAger 1/19/2012 17:14",
-		"group:" : "lr 3/9/2006 11:30",
-		"doExecuteFor:" : "lr 3/9/2006 11:30"
-	},
 	"class" : {
 		"accessKey" : "lr 5/3/2006 16:58",
 		"isAbstract" : "lr 3/9/2006 11:31",
-		"label" : "lr 3/9/2006 11:31"
-	}
-}
+		"label" : "lr 3/9/2006 11:31" },
+	"instance" : {
+		"accessor" : "lr 10/6/2008 11:42",
+		"descriptionGroup" : "NickAger 1/19/2012 17:14",
+		"doExecuteFor:" : "lr 3/9/2006 11:30",
+		"group" : "lr 3/9/2006 11:30",
+		"group:" : "lr 3/9/2006 11:30" } }

@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Google",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"uacct",
+		"onlyAnonymous",
+		"onlyViews" ],
+	"name" : "PRGoogleAnalyticsWidget",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

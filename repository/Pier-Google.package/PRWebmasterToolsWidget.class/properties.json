@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Google",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pmm 3/24/2008 11:55",
+	"instvars" : [
+		"verificationKey" ],
+	"name" : "PRWebmasterToolsWidget",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

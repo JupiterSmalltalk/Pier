@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"initialize" : "DaleHenrichs 06/17/2010 10:12",
+		"new" : "lr 6/11/2008 13:45",
+		"newFrom:" : "lr 6/11/2008 13:51",
+		"xmlName" : "lr 6/11/2008 14:25" },
+	"instance" : {
+		"=" : "lr 6/11/2008 13:41",
+		"descriptionId" : "NickAger 1/30/2012 17:40",
+		"flush" : "lr 7/9/2008 13:31",
+		"hash" : "lr 7/9/2008 13:30",
+		"id" : "lr 6/11/2008 13:50",
+		"id:" : "lr 7/9/2008 13:31",
+		"initialize" : "lr 7/9/2008 13:41",
+		"initializeFrom:" : "NickAger 2/1/2012 16:59" } }

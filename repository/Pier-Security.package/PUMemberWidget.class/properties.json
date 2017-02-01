@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PRWidget",
 	"category" : "Pier-Security-Widgets",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"report"
-	],
+		"report" ],
 	"name" : "PUMemberWidget",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

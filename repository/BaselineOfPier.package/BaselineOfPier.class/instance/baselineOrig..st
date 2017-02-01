@@ -4,7 +4,10 @@ baselineOrig: spec
   self
     pillar: spec;
     magritte: spec;
-    seaside: spec.
+    seaside: spec;
+    bootstrap: spec;
+    jqueryWidgetBox: spec;
+    naFileUpload: spec.
   spec
     for: #'common'
     do: [ 
@@ -20,30 +23,48 @@ baselineOrig: spec
         package: 'Pier-Tests-Seaside-Model'
           with: [ spec requires: #('Pier-Tests-Model' 'Pier-Seaside' 'Seaside Javascript Tests') ];
         package: 'Pier-Tests-Security'
-          with: [ spec requires: #('Pier-Security') ];
-        package: 'Pier-Blog' with: [ spec requires: #('Pier-Seaside') ];
-        package: 'Pier-EditorEnh' with: [ spec requires: #('Pier-Seaside') ];
+          with: [ spec requires: #('Pier-Security') ].
+      spec
+        package: 'Pier-Blog'
+          with: [ spec requires: #('Pier Core' 'Seaside RSS' 'Pillar Core') ];
+        package: 'Pier-Design' with: [ spec requires: #('Pier Core') ];
+        package: 'Pier-Documents' with: [ spec requires: #('Pier Core') ];
+        package: 'Pier-EditorEnh' with: [ spec requires: #('Pier Core') ];
+        package: 'Pier-Exporter-Code' with: [ spec requires: #('Pillar Core') ];
+        package: 'Pier-Tests-Exporter-Code'
+          with: [ spec requires: #('Pier-Exporter-Code') ];
+        package: 'Pier-FileUpload-Common-Wysiwyg'
+          with: [ spec requires: #('Pier-Wysiwyg') ];
+        package: 'Pier-FileUpload-Wysiwyg'
+          with: [ 
+              spec
+                requires:
+                  #('Pier-FileUpload-Common-Wysiwyg' 'NAFileUpload-Component' 'Magritte-Json') ];
+        package: 'Pier-FileUpload-Nginx-Wysiwyg'
+          with: [ 
+              spec
+                requires:
+                  #('Pier-FileUpload-Common-Wysiwyg' 'NAFileUpload-Nginx-Component' 'Magritte-Json') ];
+        package: 'JQWidgetBox-JSTree-Core';
+        package: 'Pier-JQuery'
+          with: [ spec requires: #('Pier Core' 'JQuery Widgetbox FormExample') ];
+        package: 'Pier-TagCloud' with: [ spec requires: #('Pier Core') ];
         package: 'Pier-Wysiwyg' with: [ spec requires: #('Pier-EditorEnh') ];
         package: 'Pier-Kernel-Distributions'
           with: [ spec requires: #('Pier-Model') ];
-        package: 'Pier-Exporter-Code' with: [ spec requires: #('Pillar Core') ];
         package: 'Pier-Admin'
           with: [ 
               spec
                 requires:
-                  #('Pier-Seaside' 'Pier-Exporter-Code' 'Pier-Kernel-Distributions') ];
+                  #('Pier Core' 'JQuery Widgetbox UILayout' 'JQWidgetBox-JSTree-Core' 'Pier-Kernel-Distributions' 'Pier-Blog' 'Pier-Design' 'Pier-Documents' 'Pier-EditorEnh' 'Pier-Exporter-Code' 'Pier-TagCloud' 'Pier-Wysiwyg') ];
         yourself.
       spec
-        group: 'default' with: #('Core');
-        group: 'Core'
-          with:
-            #('Pier-Model' 'Pier-Security' 'Pier-Seaside' 'Blog' 'Editor' 'Admin');
-        group: 'Blog' with: #('Pier-Blog');
-        group: 'Editor' with: #('Pier-Wysiwyg');
+        group: 'default' with: #('Pier Core');
+        group: 'Pier Core' with: #('Pier-Model' 'Pier-Security' 'Pier-Seaside');
         group: 'Admin' with: #('Pier-Admin');
         group: 'Tests'
           with:
-            #('Core' 'Pier-Tests-Model' 'Pier-Tests-Security' 'Pier-Tests-Seaside-Model');
+            #('Pier-Tests-Model' 'Pier-Tests-Security' 'Pier-Tests-Seaside-Model' 'Pier-Tests-Exporter-Code');
         yourself ].
   spec
     for: #'pharo'

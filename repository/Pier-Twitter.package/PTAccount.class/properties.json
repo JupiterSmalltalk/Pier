@@ -1,0 +1,18 @@
+{
+	"category" : "Pier-Twitter-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"email",
+		"password",
+		"followers",
+		"friends",
+		"timeline" ],
+	"name" : "PTAccount",
+	"pools" : [
+		 ],
+	"super" : "PTUser",
+	"type" : "normal" }

@@ -1,8 +1,7 @@
 {
+	"class" : {
+		 },
 	"instance" : {
+		"groupIn:" : "lr 4/1/2009 21:46",
 		"ownerIn:" : "lr 4/1/2009 21:46",
-		"userIn:" : "lr 4/1/2009 21:46",
-		"groupIn:" : "lr 4/1/2009 21:46"
-	},
-	"class" : { }
-}
+		"userIn:" : "lr 4/1/2009 21:46" } }

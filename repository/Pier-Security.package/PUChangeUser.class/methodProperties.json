@@ -1,10 +1,7 @@
 {
+	"class" : {
+		"accessKey" : "lr 11/5/2007 21:15",
+		"permissions" : "lr 11/5/2007 21:15" },
 	"instance" : {
 		"doValidate" : "lr 2/20/2009 00:33",
-		"isLogged" : "lr 2/20/2009 00:28"
-	},
-	"class" : {
-		"permissions" : "lr 11/5/2007 21:15",
-		"accessKey" : "lr 11/5/2007 21:15"
-	}
-}
+		"isLogged" : "lr 2/20/2009 00:28" } }

@@ -1,0 +1,18 @@
+{
+	"category" : "Pier-Google",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "lr 1/5/2009 20:32",
+	"instvars" : [
+		"url",
+		"xml",
+		"translations",
+		"settings",
+		"description" ],
+	"name" : "PRGoogleGadget",
+	"pools" : [
+		 ],
+	"super" : "PRStructure",
+	"type" : "normal" }

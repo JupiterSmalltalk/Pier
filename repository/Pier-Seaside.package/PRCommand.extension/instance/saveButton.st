@@ -1,3 +1,3 @@
 *pier-seaside-converting
 saveButton
-	^ #save -> 'Save'
+  ^ #'save' -> 'Save'

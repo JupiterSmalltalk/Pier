@@ -1,29 +1,26 @@
 {
-	"instance" : {
-		"descriptionPermissions" : "NickAger 1/19/2012 16:51",
-		"with:" : "lr 3/9/2006 11:30",
-		"all:" : "lr 3/9/2006 11:30",
-		"accessor" : "lr 3/9/2006 11:30",
-		"doExecute" : "lr 4/13/2009 11:48",
-		"groupInstances" : "NickAger 1/18/2012 18:23",
-		"doExecuteFor:" : "lr 2/12/2007 19:07",
-		"descriptionOperator" : "NickAger 1/18/2012 18:22",
-		"operator:" : "lr 3/9/2006 11:30",
-		"permissions" : "lr 3/9/2006 11:30",
-		"userInstances" : "NickAger 1/18/2012 18:25",
-		"all" : "lr 3/9/2006 11:30",
-		"descriptionAll" : "NickAger 1/18/2012 18:21",
-		"operator" : "lr 3/9/2006 11:30",
-		"saveButton" : "lr 8/11/2007 21:58",
-		"descriptionWith" : "NickAger 1/18/2012 18:22",
-		"with" : "lr 3/9/2006 11:30",
-		"permissions:" : "lr 3/9/2006 11:30"
-	},
 	"class" : {
-		"permissionInstances" : "lr 11/5/2007 21:17",
+		"defaultAll" : "lr 1/12/2007 16:18",
 		"defaultOperator" : "lr 3/9/2006 11:31",
 		"defaultOperators" : "lr 3/9/2006 11:31",
 		"defaultWith" : "lr 3/9/2006 11:31",
-		"defaultAll" : "lr 1/12/2007 16:18"
-	}
-}
+		"permissionInstances" : "lr 11/5/2007 21:17" },
+	"instance" : {
+		"accessor" : "lr 3/9/2006 11:30",
+		"all" : "lr 3/9/2006 11:30",
+		"all:" : "lr 3/9/2006 11:30",
+		"descriptionAll" : "NickAger 1/18/2012 18:21",
+		"descriptionOperator" : "NickAger 1/18/2012 18:22",
+		"descriptionPermissions" : "NickAger 1/19/2012 16:51",
+		"descriptionWith" : "NickAger 1/18/2012 18:22",
+		"doExecute" : "lr 4/13/2009 11:48",
+		"doExecuteFor:" : "lr 2/12/2007 19:07",
+		"groupInstances" : "NickAger 1/18/2012 18:23",
+		"operator" : "lr 3/9/2006 11:30",
+		"operator:" : "lr 3/9/2006 11:30",
+		"permissions" : "lr 3/9/2006 11:30",
+		"permissions:" : "lr 3/9/2006 11:30",
+		"saveButton" : "lr 8/11/2007 21:58",
+		"userInstances" : "NickAger 1/18/2012 18:25",
+		"with" : "lr 3/9/2006 11:30",
+		"with:" : "lr 3/9/2006 11:30" } }

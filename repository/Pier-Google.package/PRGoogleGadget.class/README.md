@@ -1,0 +1,1 @@
+Google Gadgets are simple HTML and JavaScript applications that can be embedded in webpages and other apps. Choose from thousands of Google Gadgets for your Pier installation from the Google Gadget Directory at http://www.google.com/ig/directory?synd=open.

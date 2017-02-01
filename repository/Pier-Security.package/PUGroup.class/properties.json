@@ -1,13 +1,14 @@
 {
-	"commentStamp" : "",
-	"super" : "PUMember",
 	"category" : "Pier-Security-Model",
-	"classinstvars" : [ ],
-	"pools" : [ ],
-	"classvars" : [ ],
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
 	"instvars" : [
-		"users"
-	],
+		"users" ],
 	"name" : "PUGroup",
-	"type" : "normal"
-}
+	"pools" : [
+		 ],
+	"super" : "PUMember",
+	"type" : "normal" }

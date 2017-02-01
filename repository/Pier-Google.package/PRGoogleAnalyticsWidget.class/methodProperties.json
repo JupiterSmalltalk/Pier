@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"isAbstract" : "lr 11/14/2007 19:49",
+		"label" : "tg 11/14/2007 13:01" },
+	"instance" : {
+		"descriptionGoogleUACCT" : "NickAger 1/22/2012 17:11",
+		"descriptionOnlyAnonymous" : "NickAger 1/22/2012 17:11",
+		"descriptionOnlyViews" : "NickAger 1/22/2012 17:11",
+		"isVisible" : "lr 6/22/2009 13:23",
+		"onlyAnonymous" : "NickAger 1/22/2012 17:21",
+		"onlyAnonymous:" : "NickAger 1/22/2012 17:21",
+		"onlyViews" : "NickAger 1/22/2012 17:21",
+		"onlyViews:" : "NickAger 1/22/2012 17:21",
+		"renderContentOn:" : "lr 6/22/2009 13:17",
+		"uacct" : "NickAger 1/22/2012 17:21",
+		"uacct:" : "NickAger 1/22/2012 17:21" } }

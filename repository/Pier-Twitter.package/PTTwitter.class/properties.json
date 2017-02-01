@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Twitter-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"StringConverter" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"id" ],
+	"name" : "PTTwitter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

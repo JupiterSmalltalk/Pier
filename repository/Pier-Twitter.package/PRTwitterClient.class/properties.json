@@ -1,0 +1,17 @@
+{
+	"category" : "Pier-Twitter-View",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"count",
+		"password",
+		"timeout",
+		"username" ],
+	"name" : "PRTwitterClient",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

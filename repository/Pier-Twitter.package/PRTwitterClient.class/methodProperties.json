@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"isAbstract" : "lr 6/11/2008 08:28",
+		"label" : "lr 7/9/2008 13:47" },
+	"instance" : {
+		"account" : "lr 10/21/2009 19:42",
+		"agoString:" : "lr 10/13/2009 16:26",
+		"count" : "NickAger 1/30/2012 17:44",
+		"count:" : "NickAger 1/30/2012 17:44",
+		"descriptionCount" : "NickAger 1/30/2012 17:43",
+		"descriptionPassword" : "NickAger 1/30/2012 17:43",
+		"descriptionTimeout" : "NickAger 1/30/2012 17:43",
+		"descriptionUsername" : "NickAger 1/30/2012 17:43",
+		"password" : "NickAger 1/30/2012 17:44",
+		"password:" : "NickAger 1/30/2012 17:44",
+		"renderContentOn:" : "lr 10/13/2009 16:15",
+		"renderEntry:on:" : "lr 10/13/2009 15:48",
+		"renderEntryContent:on:" : "lr 2/23/2010 20:50",
+		"renderEntryMeta:on:" : "lr 10/13/2009 15:53",
+		"timeout" : "NickAger 1/30/2012 17:44",
+		"timeout:" : "NickAger 1/30/2012 17:44",
+		"username" : "NickAger 1/30/2012 17:44",
+		"username:" : "NickAger 1/30/2012 17:44" } }

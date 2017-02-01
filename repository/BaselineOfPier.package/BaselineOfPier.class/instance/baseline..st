@@ -7,7 +7,8 @@ baseline: spec
     seaside: spec;
     bootstrap: spec;
     jqueryWidgetBox: spec;
-    naFileUpload: spec.
+    naFileUpload: spec;
+    xmlParser: spec.
   spec
     for: #'common'
     do: [ 
@@ -45,10 +46,14 @@ baseline: spec
               spec
                 requires:
                   #('Pier-FileUpload-Common-Wysiwyg' 'NAFileUpload-Nginx-Component' 'Magritte-Json') ];
+        package: 'Pier-Google'
+          with: [ spec requires: #('Pier Core' 'XMLParser') ];
         package: 'JQWidgetBox-JSTree-Core';
         package: 'Pier-JQuery'
           with: [ spec requires: #('Pier Core' 'JQuery Widgetbox FormExample') ];
         package: 'Pier-TagCloud' with: [ spec requires: #('Pier Core') ];
+        package: 'Pier-Twitter'
+          with: [ spec requires: #('Pier Core' 'XMLParser') ];
         package: 'Pier-Wysiwyg' with: [ spec requires: #('Pier-EditorEnh') ];
         package: 'Pier-Kernel-Distributions'
           with: [ spec requires: #('Pier-Model') ];
