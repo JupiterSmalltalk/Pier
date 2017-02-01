@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Tests-Exporter-Code",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PRSampleKernelExports",
+	"pools" : [
+		 ],
+	"super" : "GRObject",
+	"type" : "normal" }

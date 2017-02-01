@@ -1,0 +1,18 @@
+{
+	"category" : "Pier-JQuery-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "TudorGirba 8/16/2011 16:03",
+	"instvars" : [
+		"delay",
+		"effect",
+		"source",
+		"speed",
+		"timeout" ],
+	"name" : "PQCyclerWidget",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

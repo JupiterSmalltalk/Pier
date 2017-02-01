@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-JQuery-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"structure",
+		"exampleText" ],
+	"name" : "PRAjaxSearchWidget",
+	"pools" : [
+		 ],
+	"super" : "PRStructuresWidget",
+	"type" : "normal" }

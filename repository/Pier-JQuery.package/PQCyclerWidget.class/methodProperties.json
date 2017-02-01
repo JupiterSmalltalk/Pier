@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"effectChoices" : "TudorGirba 8/22/2011 18:42",
+		"groupLabel" : "TudorGirba 8/16/2011 16:01",
+		"isAbstract" : "TudorGirba 8/16/2011 14:13",
+		"label" : "TudorGirba 8/16/2011 14:46" },
+	"instance" : {
+		"children" : "TudorGirba 8/22/2011 18:37",
+		"delay" : "NickAger 1/30/2012 17:18",
+		"delay:" : "NickAger 1/30/2012 17:18",
+		"descriptionDelay" : "NickAger 1/30/2012 17:15",
+		"descriptionEffect" : "NickAger 1/30/2012 17:16",
+		"descriptionSource" : "NickAger 1/30/2012 17:15",
+		"descriptionSpeed" : "NickAger 1/30/2012 17:15",
+		"descriptionTimeout" : "NickAger 1/30/2012 17:15",
+		"effect" : "NickAger 1/30/2012 17:18",
+		"effect:" : "NickAger 1/30/2012 17:18",
+		"renderContentOn:" : "TudorGirba 8/22/2011 18:43",
+		"renderViewOf:on:" : "TudorGirba 8/19/2011 07:42",
+		"source" : "NickAger 1/30/2012 17:18",
+		"source:" : "NickAger 1/30/2012 17:18",
+		"sourceChildren" : "TudorGirba 8/20/2011 12:41",
+		"speed" : "NickAger 1/30/2012 17:18",
+		"speed:" : "NickAger 1/30/2012 17:18",
+		"timeout" : "NickAger 1/30/2012 17:18",
+		"timeout:" : "NickAger 1/30/2012 17:18",
+		"updateRoot:" : "TudorGirba 8/16/2011 16:06" } }

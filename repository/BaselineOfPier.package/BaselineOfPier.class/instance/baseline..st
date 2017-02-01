@@ -31,6 +31,8 @@ baseline: spec
         package: 'Pier-Documents' with: [ spec requires: #('Pier Core') ];
         package: 'Pier-EditorEnh' with: [ spec requires: #('Pier Core') ];
         package: 'Pier-Exporter-Code' with: [ spec requires: #('Pillar Core') ];
+        package: 'Pier-Tests-Exporter-Code'
+          with: [ spec requires: #('Pier-Exporter-Code') ];
         package: 'Pier-FileUpload-Common-Wysiwyg'
           with: [ spec requires: #('Pier-Wysiwyg') ];
         package: 'Pier-FileUpload-Wysiwyg'
@@ -62,7 +64,7 @@ baseline: spec
         group: 'Admin' with: #('Pier-Admin');
         group: 'Tests'
           with:
-            #('Pier Core' 'Pier-Tests-Model' 'Pier-Tests-Security' 'Pier-Tests-Seaside-Model');
+            #('Pier-Tests-Model' 'Pier-Tests-Security' 'Pier-Tests-Seaside-Model' 'Pier-Tests-Exporter-Code');
         yourself ].
   spec
     for: #'pharo'

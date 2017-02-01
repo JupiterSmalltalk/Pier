@@ -1,0 +1,1 @@
+PQCycler offers the JQuery Cycle plugin. It takes a source structure as an input and it creates a slideshow from its children.

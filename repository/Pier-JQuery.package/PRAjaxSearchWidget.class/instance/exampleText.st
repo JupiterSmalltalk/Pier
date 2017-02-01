@@ -1,0 +1,3 @@
+accessing-convenience
+exampleText
+	^ exampleText

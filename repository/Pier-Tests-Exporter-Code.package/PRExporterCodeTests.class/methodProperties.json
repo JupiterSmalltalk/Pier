@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testArrayAsCode" : "NickAger 2/6/2012 17:45",
+		"testByteArrayAsCode" : "NickAger 2/24/2012 17:09",
+		"testCollectionAsCode" : "NickAger 2/26/2012 10:07",
+		"testDateAndTimeAsCode" : "NickAger 2/6/2012 17:57",
+		"testDateAsCode" : "NickAger 2/24/2012 16:26",
+		"testDurationAsCode" : "NickAger 2/7/2012 17:18",
+		"testMultiByteString1AsCode" : "NickAger 2/26/2012 15:47",
+		"testMultiByteString2AsCode" : "NickAger 2/26/2012 14:48",
+		"testNilAsCode" : "NickAger 2/6/2012 18:07",
+		"testPRStructureAsCode" : "DiegoLont 3/5/2014 13:31",
+		"testStringAsCode" : "NickAger 2/26/2012 14:54",
+		"testSymbolAsCode" : "NickAger 2/6/2012 17:44" } }
