@@ -63,7 +63,7 @@ baseline: spec
           with: [ 
               spec
                 requires:
-                  #('Pier Core' 'JQuery Widgetbox UILayout' 'JQWidgetBox-JSTree-Core' 'Pier-Kernel-Distributions' 'Pier-Blog' 'Pier-Design' 'Pier-Documents' 'Pier-EditorEnh' 'Pier-Exporter-Code' 'Pier-Google' 'Pier-JQuery' 'Pier-LinkChecker' 'Pier-TagCloud' 'Pier-Twitter' 'Pier-Wysiwyg') ];
+                  #('Pier Core' 'JQuery Widgetbox UILayout' 'JQWidgetBox-JSTree-Core' 'Pier-Kernel-Distributions' 'Pier-Blog' 'Pier-Design' 'Pier-Documents' 'Pier-EditorEnh' 'Pier-Exporter-Code' 'Pier-Google' 'Pier-JQuery' 'Pier-LinkChecker' 'Pier-TagCloud' 'TopFeeder' 'Pier-Twitter' 'Pier-Wysiwyg') ];
         yourself.
       spec
         group: 'default' with: #('Pier Core');
