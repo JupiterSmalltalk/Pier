@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-LinkChecker",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PULinksWidget",
+	"pools" : [
+		 ],
+	"super" : "PUReportWidget",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-LinkChecker",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"source",
+		"target",
+		"status" ],
+	"name" : "PULinkChange",
+	"pools" : [
+		 ],
+	"super" : "PRObject",
+	"type" : "normal" }

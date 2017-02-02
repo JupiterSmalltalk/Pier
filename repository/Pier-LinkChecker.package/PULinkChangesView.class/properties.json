@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-LinkChecker",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"changes" ],
+	"name" : "PULinkChangesView",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

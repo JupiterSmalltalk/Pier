@@ -8,7 +8,8 @@ baseline: spec
     bootstrap: spec;
     jqueryWidgetBox: spec;
     naFileUpload: spec;
-    xmlParser: spec.
+    xmlParser: spec;
+    topFeeder: spec.
   spec
     for: #'common'
     do: [ 
@@ -51,6 +52,7 @@ baseline: spec
         package: 'JQWidgetBox-JSTree-Core';
         package: 'Pier-JQuery'
           with: [ spec requires: #('Pier Core' 'JQuery Widgetbox FormExample') ];
+        package: 'Pier-LinkChecker' with: [ spec requires: #('Pier Core') ];
         package: 'Pier-TagCloud' with: [ spec requires: #('Pier Core') ];
         package: 'Pier-Twitter'
           with: [ spec requires: #('Pier Core' 'XMLParser') ];
@@ -61,7 +63,7 @@ baseline: spec
           with: [ 
               spec
                 requires:
-                  #('Pier Core' 'JQuery Widgetbox UILayout' 'JQWidgetBox-JSTree-Core' 'Pier-Kernel-Distributions' 'Pier-Blog' 'Pier-Design' 'Pier-Documents' 'Pier-EditorEnh' 'Pier-Exporter-Code' 'Pier-TagCloud' 'Pier-Wysiwyg') ];
+                  #('Pier Core' 'JQuery Widgetbox UILayout' 'JQWidgetBox-JSTree-Core' 'Pier-Kernel-Distributions' 'Pier-Blog' 'Pier-Design' 'Pier-Documents' 'Pier-EditorEnh' 'Pier-Exporter-Code' 'Pier-Google' 'Pier-JQuery' 'Pier-LinkChecker' 'Pier-TagCloud' 'Pier-Twitter' 'Pier-Wysiwyg') ];
         yourself.
       spec
         group: 'default' with: #('Pier Core');
