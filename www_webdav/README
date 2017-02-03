@@ -1,0 +1,6 @@
+Root of the WebDAV nginx configuration
+
+/files
+	Contains the files uploaded via web dav
+/tmp
+	Temporary location for uploading files before moving them to /files

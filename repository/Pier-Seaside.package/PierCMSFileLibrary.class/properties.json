@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Seaside-Libraries",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jupiter 02/03/2017 01:52",
+	"instvars" : [
+		 ],
+	"name" : "PierCMSFileLibrary",
+	"pools" : [
+		 ],
+	"super" : "WAFileMetadataLibrary",
+	"type" : "normal" }
