@@ -1,0 +1,3 @@
+*pier-book
+isNote
+	^ false

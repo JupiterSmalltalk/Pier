@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Book-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BOReferenceLink",
+	"pools" : [
+		 ],
+	"super" : "PRInternalLink",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+accessing
+refLabel
+	^ self label

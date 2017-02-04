@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Book-Structures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"type" ],
+	"name" : "BOPortion",
+	"pools" : [
+		 ],
+	"super" : "BOPublication",
+	"type" : "normal" }

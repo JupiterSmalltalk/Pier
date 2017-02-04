@@ -1,0 +1,3 @@
+convenience
+star
+	stream nextPut: $*

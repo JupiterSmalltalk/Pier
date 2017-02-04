@@ -1,0 +1,19 @@
+{
+	"category" : "Pier-Book-Structures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"subtitle",
+		"tagline",
+		"authors",
+		"additionalAuthors",
+		"latexHeader",
+		"latexFooter" ],
+	"name" : "BOBook",
+	"pools" : [
+		 ],
+	"super" : "BOPublication",
+	"type" : "normal" }

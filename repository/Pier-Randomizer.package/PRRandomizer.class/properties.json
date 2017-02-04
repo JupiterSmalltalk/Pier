@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Randomizer",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"NoChildrenFound" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"candidates",
+		"current",
+		"keep" ],
+	"name" : "PRRandomizer",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }

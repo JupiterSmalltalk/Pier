@@ -1,0 +1,3 @@
+*pier-book
+isFigure
+	^ false

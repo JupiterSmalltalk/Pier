@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"isAbstract" : "NickAger 12/5/2011 14:41",
+		"isValidIn:" : "NickAger 12/5/2011 14:40",
+		"label" : "NickAger 12/6/2011 13:18" },
+	"instance" : {
+		"render:withTitleOn:includeEditCommand:" : "NickAger 12/6/2011 10:25",
+		"renderContentOn:" : "NickAger 12/20/2011 18:49" } }

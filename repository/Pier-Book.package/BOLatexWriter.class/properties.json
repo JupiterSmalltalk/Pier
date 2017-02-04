@@ -1,0 +1,15 @@
+{
+	"category" : "Pier-Book-Latex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"items",
+		"latex" ],
+	"name" : "BOLatexWriter",
+	"pools" : [
+		 ],
+	"super" : "PRDocumentWriter",
+	"type" : "normal" }

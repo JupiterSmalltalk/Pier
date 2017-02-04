@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"canBeChildOf:" : "lr 5/3/2009 12:45",
+		"canBeParentOf:" : "lr 11/16/2009 00:12",
+		"isAbstract" : "lr 5/3/2009 12:43",
+		"label" : "lr 11/16/2009 00:11" },
+	"instance" : {
+		"author" : "lr 5/3/2009 12:24",
+		"confirmation" : "lr 5/3/2009 13:05",
+		"confirmation:" : "lr 5/3/2009 13:05",
+		"descriptionConfirmation" : "NickAger 1/22/2012 08:48",
+		"descriptionDocument" : "NickAger 1/22/2012 08:48",
+		"descriptionEmail" : "NickAger 1/22/2012 08:48",
+		"descriptionNote" : "NickAger 1/22/2012 08:48",
+		"document" : "lr 9/11/2009 10:18",
+		"email" : "lr 5/3/2009 12:24",
+		"email:" : "lr 5/3/2009 12:24",
+		"initialize" : "jf 11/3/2009 11:09",
+		"isNote" : "lr 5/3/2009 12:10",
+		"note" : "lr 5/3/2009 12:09",
+		"note:" : "lr 7/10/2011 18:44",
+		"refLabel" : "lr 10/7/2010 17:25",
+		"timestamp" : "lr 5/3/2009 12:29" } }

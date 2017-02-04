@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"isAbstract" : "lr 6/11/2009 09:28",
+		"isValidIn:" : "lr 5/19/2009 11:28" },
+	"instance" : {
+		"book" : "lr 5/19/2009 13:48",
+		"findBook" : "lr 5/19/2009 13:48",
+		"writer" : "lr 5/19/2009 11:37" } }

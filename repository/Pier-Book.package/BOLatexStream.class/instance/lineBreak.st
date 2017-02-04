@@ -1,0 +1,3 @@
+convenience
+lineBreak
+	stream nextPutAll: '\\'

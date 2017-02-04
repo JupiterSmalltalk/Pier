@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Book-Latex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LatexCharacters" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream" ],
+	"name" : "BOLatexStream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Book-View",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "NickAger 12/6/2011 10:41",
+	"instvars" : [
+		 ],
+	"name" : "BOAggregateView",
+	"pools" : [
+		 ],
+	"super" : "PRDefaultView",
+	"type" : "normal" }

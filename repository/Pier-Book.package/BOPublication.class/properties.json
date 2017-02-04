@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Book-Structures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"numberedTitle",
+		"ignoredTitle",
+		"ignoredBody" ],
+	"name" : "BOPublication",
+	"pools" : [
+		 ],
+	"super" : "PRCase",
+	"type" : "normal" }

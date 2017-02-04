@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"canBeChildOf:" : "lr 6/3/2009 21:48",
+		"canBeParentOf:" : "lr 6/3/2009 23:42",
+		"label" : "lr 11/16/2009 00:11",
+		"resetFilesToFigures" : "NickAger 2/23/2012 16:48" },
+	"instance" : {
+		"accept:" : "CyrilFerlicot 5/4/2015 17:07",
+		"descriptionFile" : "NickAger 1/22/2012 08:48",
+		"descriptionNumber" : "NickAger 1/22/2012 08:48",
+		"descriptionNumberedTitle" : "NickAger 1/22/2012 08:48",
+		"index" : "lr 6/3/2009 23:06",
+		"isFigure" : "lr 6/3/2009 22:44",
+		"isNumberedTitle" : "lr 6/4/2009 09:28",
+		"label" : "lr 11/16/2009 11:45",
+		"number" : "jf 11/3/2009 11:13",
+		"numberedTitle" : "lr 6/4/2009 09:27",
+		"numberedTitle:" : "lr 6/4/2009 09:28",
+		"refLabel" : "lr 1/24/2010 12:26" } }

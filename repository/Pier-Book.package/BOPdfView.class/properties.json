@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Book-Latex",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"directory" ],
+	"name" : "BOPdfView",
+	"pools" : [
+		 ],
+	"super" : "BOBookView",
+	"type" : "normal" }

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"isAbstract" : "lr 5/3/2009 12:41",
+		"label" : "lr 5/3/2009 12:41" },
+	"instance" : {
+		"buildCommand" : "lr 5/3/2009 12:55",
+		"buildComponent" : "lr 5/3/2009 12:54",
+		"buildDescription" : "NickAger 1/22/2012 09:03",
+		"buildNote" : "lr 5/3/2009 12:56",
+		"children" : "lr 5/3/2009 12:54",
+		"command" : "lr 5/3/2009 12:55",
+		"component" : "lr 5/3/2009 12:54",
+		"execute:" : "lr 10/25/2010 09:28",
+		"note" : "lr 5/3/2009 12:57",
+		"notes" : "lr 5/3/2009 12:40",
+		"renderAddOn:" : "lr 5/3/2009 17:09",
+		"renderContentOn:" : "lr 5/19/2009 11:38",
+		"renderNote:on:" : "lr 5/3/2009 12:25",
+		"renderNoteBody:on:" : "lr 5/3/2009 17:18",
+		"renderNoteMeta:on:" : "lr 5/3/2009 12:33",
+		"renderNoteMetaAuthor:on:" : "jf 9/24/2009 17:05",
+		"renderNoteMetaCommands:on:" : "lr 5/3/2009 12:48",
+		"renderNoteMetaPublication:on:" : "StephanEggermont 3/4/2014 13:47",
+		"renderNotes:on:" : "lr 5/3/2009 17:15" } }

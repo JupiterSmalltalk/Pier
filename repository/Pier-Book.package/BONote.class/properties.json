@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Book-Structures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"email",
+		"note",
+		"timestamp" ],
+	"name" : "BONote",
+	"pools" : [
+		 ],
+	"super" : "PRStructure",
+	"type" : "normal" }

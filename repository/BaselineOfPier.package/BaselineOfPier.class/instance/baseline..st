@@ -29,6 +29,8 @@ baseline: spec
       spec
         package: 'Pier-Blog'
           with: [ spec requires: #('Pier Core' 'Seaside RSS' 'Pillar Core') ];
+        package: 'Pier-Book'
+          with: [ spec requires: #('Pier Core' 'Pillar Core') ];
         package: 'Pier-Design' with: [ spec requires: #('Pier Core') ];
         package: 'Pier-Documents' with: [ spec requires: #('Pier Core') ];
         package: 'Pier-EditorEnh' with: [ spec requires: #('Pier Core') ];
@@ -53,6 +55,7 @@ baseline: spec
         package: 'Pier-JQuery'
           with: [ spec requires: #('Pier Core' 'JQuery Widgetbox FormExample') ];
         package: 'Pier-LinkChecker' with: [ spec requires: #('Pier Core') ];
+        package: 'Pier-Randomizer' with: [ spec requires: #('Pier Core') ];
         package: 'Pier-TagCloud' with: [ spec requires: #('Pier Core') ];
         package: 'Pier-Twitter'
           with: [ spec requires: #('Pier Core' 'XMLParser') ];
@@ -63,7 +66,7 @@ baseline: spec
           with: [ 
               spec
                 requires:
-                  #('Pier Core' 'JQuery Widgetbox UILayout' 'JQWidgetBox-JSTree-Core' 'Pier-Kernel-Distributions' 'Pier-Blog' 'Pier-Design' 'Pier-Documents' 'Pier-EditorEnh' 'Pier-Exporter-Code' 'Pier-Google' 'Pier-JQuery' 'Pier-LinkChecker' 'Pier-TagCloud' 'TopFeeder' 'Pier-Twitter' 'Pier-Wysiwyg') ];
+                  #('Pier Core' 'JQuery Widgetbox UILayout' 'JQWidgetBox-JSTree-Core' 'Pier-Kernel-Distributions' 'Pier-Blog' 'Pier-Design' 'Pier-Documents' 'Pier-EditorEnh' 'Pier-Exporter-Code' 'Pier-Google' 'Pier-JQuery' 'Pier-LinkChecker' 'Pier-Randomizer' 'Pier-TagCloud' 'TopFeeder' 'Pier-Twitter' 'Pier-Wysiwyg') ];
         yourself.
       spec
         group: 'default' with: #('Pier Core');

@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"canBeChildOf:" : "lr 11/16/2009 08:15",
+		"initialize" : "lr 11/16/2009 00:08",
+		"isAbstract" : "lr 11/16/2009 08:13",
+		"label" : "lr 11/16/2009 08:13",
+		"migrateClasses" : "DaleHenrichs 2/8/2010 09:16" },
+	"instance" : {
+		"accept:" : "lr 11/16/2009 08:07",
+		"arabicToRoman:" : "lr 11/16/2009 08:00",
+		"cssClass" : "lr 7/10/2011 17:17",
+		"descriptionLabel" : "NickAger 1/22/2012 08:48",
+		"descriptionNumber" : "NickAger 1/22/2012 08:48",
+		"descriptionType" : "NickAger 1/22/2012 08:57",
+		"index" : "lr 11/16/2009 10:45",
+		"label" : "lr 11/16/2009 09:18",
+		"magritteDescription" : "NickAger 1/22/2012 08:54",
+		"number" : "lr 7/10/2011 17:17",
+		"parent:" : "lr 11/16/2009 11:30",
+		"printOn:" : "lr 12/20/2009 14:36",
+		"refLabel" : "lr 1/24/2010 13:17",
+		"type" : "lr 11/16/2009 00:35",
+		"type:" : "lr 11/16/2009 11:34" } }

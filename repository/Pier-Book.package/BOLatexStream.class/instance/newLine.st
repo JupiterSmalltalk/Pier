@@ -1,0 +1,3 @@
+convenience
+newLine
+	self lf

@@ -1,0 +1,14 @@
+{
+	"category" : "Pier-Book-Deprecated",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BOSubsection",
+	"pools" : [
+		 ],
+	"super" : "BOPublication",
+	"type" : "normal" }

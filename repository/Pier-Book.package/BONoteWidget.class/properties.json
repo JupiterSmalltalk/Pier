@@ -1,0 +1,16 @@
+{
+	"category" : "Pier-Book-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"component",
+		"command",
+		"note" ],
+	"name" : "BONoteWidget",
+	"pools" : [
+		 ],
+	"super" : "PRWidget",
+	"type" : "normal" }
